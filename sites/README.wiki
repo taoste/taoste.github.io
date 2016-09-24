@@ -2,7 +2,7 @@
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''首页''' || 返回[https://github.com/taoste/taoste.github.io/blob/master/README.wiki (一)导航大全] || wiki || README.wiki
+| '''首页''' || [https://github.com/taoste/taoste.github.io/blob/master/README.wiki (一)导航大全] || wiki || README.wiki
 |}
 详见↓↓↓
 = =
