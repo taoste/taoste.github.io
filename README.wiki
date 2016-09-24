@@ -1,16 +1,11 @@
-[taoste.github.io]
-<h1>Blog test</h1>
-
+taoste.github.io
+<h1>网站sites/h1>
 {|
-! 名称 !! 链接 !! 类型 !! 说明
+! 网站名称 !! 链接 !! 类型 !! 说明
 |-
 | '''网址导航''' || [https://github.com/taoste/taoste.github.io/tree/master/sites] || README.wiki || 收藏夹-简体中文主页
 |-
-| '''维基百科''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91 维基百科]
-|-
-| &nbsp; || [https://zh.wikipedia.org/wiki/] ||  Web || 简体中文主页
-|-
-| '''Google谷歌''' || &nbsp; || [http://www.google.com/about/ Google大全] || 介绍参见[https://zh.wikipedia.org/wiki/Google 维基百科][https://zh.wikipedia.org/wiki/Google%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8 Google产品列表]
+| '''Google谷歌''' || [http://www.google.com/about/ Google大全]|| 介绍参见[https://zh.wikipedia.org/wiki/Google 维基百科] || [https://zh.wikipedia.org/wiki/Google%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8 Google产品列表]
 |-
 | &nbsp; || [https://www.google.com/ncr] ||  Web || Google[NCR]国际主页
 |-
@@ -75,6 +70,10 @@
 | &nbsp; || [https://code.google.com/?hl=zh-CN] ||  Web ||Google Code代码
 |-
 | &nbsp; || [https://scholar.google.com/schhp?hl=zh-CN] ||  Web ||Google 学术搜索
+|-
+| '''维基百科''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91 维基百科]
+|-
+| &nbsp; || [https://zh.wikipedia.org/wiki/] ||  Web || 简体中文主页
 |-
 | '''必应''' || [http://cn.bing.com/] ||  简体中文主页 || 英文缩写bing 介绍参见[https://zh.wikipedia.org/wiki/Bing 维基百科]
 |-
