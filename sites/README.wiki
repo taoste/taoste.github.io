@@ -79,6 +79,8 @@
 |-
 | &nbsp; || [https://github.com/greatfire/wiki] || web || GreatFire.org为编程随想开发的免翻墙APP
 |-
+| &nbsp; || [https://zhao.1984.city/index.php/%E9%A6%96%E9%A1%B5] || web || 赵家百科 
+|-
 | &nbsp; || [https://github.com/program-think/blog] || web || GreatFire.org维护的博客镜像[此页已不再可用。]
 |}
 【免翻墙】的【编程随想的博客】资源&nbsp;博客打包下载（用于离线浏览）&nbsp; 
