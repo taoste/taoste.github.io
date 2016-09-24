@@ -8,5 +8,5 @@
 |-
 | 必应-梦想地图 || [http://cn.bing.com/dreammap/?mkt=zh-cn] || Web || 简体中文主页
 |-
-| 网址导航收藏夹 || [https://github.com/taoste/taoste.github.io/sites/] || README.wiki || 简体中文主页
+| 网址导航收藏夹 || [https://github.com/taoste/taoste.github.io/tree/master/sites] || README.wiki || 简体中文主页
 |}
