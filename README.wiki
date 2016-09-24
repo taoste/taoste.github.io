@@ -1,13 +1,13 @@
 taoste.github.io
 
-<h1>收藏的各色网站</h1>
+<h1>网站网址收藏</h1>
 
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''网址转载''' || [https://github.com/taoste/taoste.github.io/tree/master/sites] || wiki || 收藏夹README.wiki
+| '''sites转载''' || [https://github.com/taoste/taoste.github.io/tree/master/sites] || wiki || 收藏夹README.wiki
 |}
-
+详见↓↓↓
 = =
 
 = 国际网站 =
