@@ -1,31 +1,31 @@
 taoste.github.io
-<h1>网站sites/h1>
+<h1>网站sites</h1>
 {|
-! 网站名称 !! 链接 !! 类型 !! 说明
+! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''网址导航''' || [https://github.com/taoste/taoste.github.io/tree/master/sites] || README.wiki || 收藏夹-简体中文主页
+| '''导航''' || [https://github.com/taoste/taoste.github.io/tree/master/sites] || README.wiki || 收藏夹-简体中文主页
 |-
-| '''Google谷歌''' || [http://www.google.com/about/ Google大全]|| 介绍参见[https://zh.wikipedia.org/wiki/Google 维基百科] || [https://zh.wikipedia.org/wiki/Google%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8 Google产品列表]
+| '''谷歌''' || [http://www.google.com/about/ Google大全] || 介绍参见[https://zh.wikipedia.org/wiki/Google 维基百科] || [https://zh.wikipedia.org/wiki/Google%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8 Google产品列表]
 |-
-| &nbsp; || [https://www.google.com/ncr] ||  Web || Google[NCR]国际主页
+| &nbsp; || [https://www.google.com/ncr] ||  Web || Google国际-[NCR]
 |-
-| &nbsp; || [https://www.google.com/?hl=zh_CN] ||  Web || Google谷歌[简体中文]主页
+| &nbsp; || [https://www.google.com/?hl=zh_CN] ||  Web || Google谷歌-[简体中文]
 |-
-| &nbsp; || [https://translate.google.com/?hl=zh-CN] ||  Web || Google翻译[简体中文]主页
+| &nbsp; || [https://translate.google.com/?hl=zh-CN] ||  Web || Google翻译-[简体中文]
 |-
 | &nbsp; || [https://translate.google.com/toolkit/?hl=zh-CN] ||  Web || Google 翻译（企业版）：译者工具包
 |-
-| &nbsp; || [https://www.google.com/intl/zh-CN/earth/] ||  Web || Google地球主页
+| &nbsp; || [https://www.google.com/intl/zh-CN/earth/] ||  Web || Google地球
 |-
 | &nbsp; || [https://www.google.com/imghp?hl=zh-CN] ||  Web || Google 图片
 |-
 | &nbsp; || [https://www.google.com/intl/zh-CN/drive/] ||  Web || Google 云端硬盘- 针对照片和文档等内容的云端存储和备份服务
 |-
-| &nbsp; || [https://docs.google.com/document/?hl=zh-CN] ||  Web ||Google文档
+| &nbsp; || [https://docs.google.com/document/?hl=zh-CN] ||  Web || Google文档
 |-
-| &nbsp; || [https://docs.google.com/spreadsheets/?hl=zh-CN] ||  Web ||Google 表格
+| &nbsp; || [https://docs.google.com/spreadsheets/?hl=zh-CN] ||  Web || Google 表格
 |-
-| &nbsp; || [https://docs.google.com/presentation/?hl=zh-CN] ||  Web ||Google 幻灯片
+| &nbsp; || [https://docs.google.com/presentation/?hl=zh-CN] ||  Web || Google 幻灯片
 |-
 | &nbsp; || [https://hangouts.google.com/?hl=zh_CN] ||  Web || Google 环聊
 |-
@@ -75,7 +75,9 @@ taoste.github.io
 |-
 | &nbsp; || [https://zh.wikipedia.org/wiki/] ||  Web || 简体中文主页
 |-
-| '''必应''' || [http://cn.bing.com/] ||  简体中文主页 || 英文缩写bing 介绍参见[https://zh.wikipedia.org/wiki/Bing 维基百科]
+| '''必应''' || &nbsp; || &nbsp; || 英文缩写bing 介绍参见[https://zh.wikipedia.org/wiki/Bing 维基百科]
+|-
+| &nbsp; ||  [http://cn.bing.com/] ||  Web || 必应-简体中文主页
 |-
 | &nbsp; || [http://cn.bing.com/dreammap/?mkt=zh-cn] || Web || 必应-梦想地图（简体中文主页）
 |}
