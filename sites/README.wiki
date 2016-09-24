@@ -80,10 +80,12 @@
 | &nbsp; || [https://github.com/greatfire/wiki] || web || GreatFire.org为编程随想开发的免翻墙APP
 |-
 | &nbsp; || [https://github.com/program-think/blog] || web || GreatFire.org维护的博客镜像[此页已不再可用。]
-|【免翻墙】的资源 |博客打包下载（用于离线浏览） 
-BTSync 同步密钥：（[https://program-think.blogspot.com/2015/03/blog-sync.html 使用说明]） 
-B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V 
-[https://ptbooks.1984.city/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/ 热心读者提供的【博客镜像】]（如失效，就改用上述 BTSync） 
 |}
+【免翻墙】的资源&nbsp;博客打包下载（用于离线浏览）&nbsp; 
+BTSync 同步密钥：（[https://program-think.blogspot.com/2015/03/blog-sync.html 使用说明]） &nbsp;
+B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V 
+&nbsp;
+[https://ptbooks.1984.city/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/ 热心读者提供的【博客镜像】]（如失效，就改用上述 BTSync） 
+
 
 
