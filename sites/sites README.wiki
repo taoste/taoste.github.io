@@ -1,119 +1,119 @@
-<h1>[https://github.com/programthink/ ]¡¾±à³ÌËæÏë¡¿ÊÕ²ØµÄ¸÷É«[https://github.com/programthink/sites ÍøÕ¾]</h1>
+<h1>ã€ç¼–ç¨‹éšæƒ³ã€‘æ”¶è—çš„å„è‰²[https://github.com/programthink/sites ç½‘ç«™]</h1>
 
 = =
 
-= ĞÂÎÅÊ±ÊÂÀà =
+= æ–°é—»æ—¶äº‹ç±» =
 
-ÏÂÃæÁĞ³öµÄÊÇĞÂÎÅ±¨µÀÏà¹ØµÄÍøÕ¾£¨°üÀ¨¸÷ÖÖ±¨¿¯¡¢ÔÓÖ¾¡¢µçÌ¨µÄ¹Ù·½ÍøÕ¾µÈ£©¡£
+ä¸‹é¢åˆ—å‡ºçš„æ˜¯æ–°é—»æŠ¥é“ç›¸å…³çš„ç½‘ç«™ï¼ˆåŒ…æ‹¬å„ç§æŠ¥åˆŠã€æ‚å¿—ã€ç”µå°çš„å®˜æ–¹ç½‘ç«™ç­‰ï¼‰ã€‚
 
-ÎªÁË¿´ÆğÀ´·½±ã£¬°´ÕÕµØÇø·ÖÀà¡£
+ä¸ºäº†çœ‹èµ·æ¥æ–¹ä¾¿ï¼ŒæŒ‰ç…§åœ°åŒºåˆ†ç±»ã€‚
 
-== Å·ÖŞ ==
+== æ¬§æ´² ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''Ó¢¹ú¹ã²¥¹«Ë¾''' || &nbsp; || &nbsp; || Ó¢ÎÄËõĞ´BBC ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9B%BD%E5%B9%BF%E6%92%AD%E5%85%AC%E5%8F%B8 Î¬»ù°Ù¿Æ]
+| '''è‹±å›½å¹¿æ’­å…¬å¸''' || &nbsp; || &nbsp; || è‹±æ–‡ç¼©å†™BBC ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9B%BD%E5%B9%BF%E6%92%AD%E5%85%AC%E5%8F%B8 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.bbc.co.uk/] || Web || English Homepage
 |-
-| &nbsp; || [http://www.bbc.co.uk/zhongwen/simp/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.bbc.co.uk/zhongwen/simp/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.bbc.co.uk/zhongwen/trad/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.bbc.co.uk/zhongwen/trad/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://www.bbc.co.uk/zhongwen/simp/index.xml BBCĞÂÎÅ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.bbc.co.uk/zhongwen/simp/index.xml BBCæ–°é—»è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''µÂ¹úÖ®Éù''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0 Î¬»ù°Ù¿Æ]
+| '''å¾·å›½ä¹‹å£°''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.dw-world.de/] || Web || English Homepage
 |-
-| &nbsp; || [http://www.dw-world.de/dw/0,,293,00.html] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.dw-world.de/dw/0,,293,00.html] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://mobile.dw-world.de/chinese] || WAP || ¼òÌåÖĞÎÄÊÖ»ú°æÖ÷Ò³
+| &nbsp; || [http://mobile.dw-world.de/chinese] || WAP || ç®€ä½“ä¸­æ–‡æ‰‹æœºç‰ˆä¸»é¡µ
 |-
-| &nbsp; || [http://feeds.feedburner.com/dw-world ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://feeds.feedburner.com/dw-world è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| '''Â·Í¸Éç''' || &nbsp; || &nbsp; || ÊÀ½çÈı´óÍ¨Ñ¶ÉçÖ®Ò» ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E8%B7%AF%E9%80%8F%E7%A4%BE Î¬»ù°Ù¿Æ]
+| '''è·¯é€ç¤¾''' || &nbsp; || &nbsp; || ä¸–ç•Œä¸‰å¤§é€šè®¯ç¤¾ä¹‹ä¸€ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E8%B7%AF%E9%80%8F%E7%A4%BE ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.reuters.com/] || Web || English Homepage
 |-
-| &nbsp; || [http://cn.reuters.com/] || Web || Â·Í¸ÖĞÎÄÍøÖ÷Ò³
+| &nbsp; || [http://cn.reuters.com/] || Web || è·¯é€ä¸­æ–‡ç½‘ä¸»é¡µ
 |-
-| &nbsp; || [http://blogs.cn.reuters.com/feed Â·Í¸²©¿Í] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://blogs.cn.reuters.com/feed è·¯é€åšå®¢] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
 | &nbsp; || [https://twitter.com/reuters Reuters Top News] || Twitter || English Twitter
 |-
 | &nbsp; || [https://twitter.com/reutersworld Reuters World] || Twitter || English Twitter
 |-
-| '''·¨¹ú¹ú¼Ê¹ã²¥µçÌ¨''' || &nbsp; || &nbsp; || Ó¢ÎÄËõĞ´RFI ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0 Î¬»ù°Ù¿Æ]
+| '''æ³•å›½å›½é™…å¹¿æ’­ç”µå°''' || &nbsp; || &nbsp; || è‹±æ–‡ç¼©å†™RFI ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.rfi.fr/] || Web || English Homepage
 |-
 | &nbsp; || [https://twitter.com/RFI @RFI] || Twitter || English Twitter
 |-
-| &nbsp; || [http://www.chinese.rfi.fr/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.chinese.rfi.fr/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.chinese.rfi.fr/contenu/most-read/feed ÈÈµãĞÂÎÅ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.chinese.rfi.fr/contenu/most-read/feed çƒ­ç‚¹æ–°é—»è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://www.chinese.rfi.fr/actufr/pages/001/accueil.xml ×î½ü24Ğ¡Ê±ĞÂÎÅ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.chinese.rfi.fr/actufr/pages/001/accueil.xml æœ€è¿‘24å°æ—¶æ–°é—»è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/RFI_Chinois @RFI_Chinois] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/RFI_Chinois @RFI_Chinois] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ºÉÀ¼¹ú¼Ê¹ã²¥µçÌ¨''' || &nbsp; || &nbsp; || Ó¢ÎÄËõĞ´RNW ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E8%8D%B7%E5%85%B0%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0 Î¬»ù°Ù¿Æ]
+| '''è·å…°å›½é™…å¹¿æ’­ç”µå°''' || &nbsp; || &nbsp; || è‹±æ–‡ç¼©å†™RNW ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E8%8D%B7%E5%85%B0%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.rnw.nl/] || Web || English Homepage
 |-
-| &nbsp; || [http://www.rnw.nl/chinese] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.rnw.nl/chinese] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://m.rnw.nl/chinese] || Web || ¼òÌåÖĞÎÄÖ÷Ò³µÄ¾«¼ò°æ ÃæÏòÊÖ»úä¯ÀÀ
+| &nbsp; || [http://m.rnw.nl/chinese] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µçš„ç²¾ç®€ç‰ˆ é¢å‘æ‰‹æœºæµè§ˆ
 |-
 | &nbsp; || [https://twitter.com/RNW @RNW] || Twitter || English Twitter
 |-
-| '''È«ÇòÖ®Éù''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E4%B9%8B%E8%81%B2 Î¬»ù°Ù¿Æ]
+| '''å…¨çƒä¹‹å£°''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E4%B9%8B%E8%81%B2 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://globalvoicesonline.org] || Web || English Homepage
 |-
 | &nbsp; || [https://twitter.com/GlobalVoices @GlobalVoices] || Twitter || English Twitter
 |-
-| &nbsp; || [http://zh.globalvoicesonline.org/hans] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://zh.globalvoicesonline.org/hans] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://zh.globalvoicesonline.org/hans/feed/ ĞÂÎÅ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://zh.globalvoicesonline.org/hans/feed/ æ–°é—»è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://zh.globalvoicesonline.org/hant] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://zh.globalvoicesonline.org/hant] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://zh.globalvoicesonline.org/hant/feed/ ĞÂÂ„Ó†é‡] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://zh.globalvoicesonline.org/hant/feed/ æ–°èè¨‚é–²] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| '''ÎŞ¹ú½ç¼ÇÕß''' || &nbsp; || &nbsp; || Ó¢ÎÄËõĞ´RSF ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85 Î¬»ù°Ù¿Æ]
+| '''æ— å›½ç•Œè®°è€…''' || &nbsp; || &nbsp; || è‹±æ–‡ç¼©å†™RSF ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.rsf.org/-Anglais-.html] || Web || English Homepage
 |-
-| &nbsp; || [http://www.rsf-chinese.org/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.rsf-chinese.org/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.rsf-chinese.org/spip.php?page=backend ĞÂÎÅ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.rsf-chinese.org/spip.php?page=backend æ–°é—»è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |}
 
-== ±±ÃÀ ==
+== åŒ—ç¾ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''Å¦Ô¼Ê±±¨''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5 Î¬»ù°Ù¿Æ]
+| '''çº½çº¦æ—¶æŠ¥''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.nytimes.com/] || Web || English Homepage
 |-
-| &nbsp; || [http://cn.nytimes.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://cn.nytimes.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://cn.nytimes.com/zh-hk/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://cn.nytimes.com/zh-hk/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://cn.nytimes.com/rss/news.xml ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://cn.nytimes.com/rss/news.xml è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
 | &nbsp; || [https://twitter.com/nytimes @nytimes] || Twitter || English Twitter
 |-
-| &nbsp; || [https://twitter.com/NYTchinese @NYTchinese] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/NYTchinese @NYTchinese] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ÓĞÏßĞÂÎÅÍø''' || &nbsp; || &nbsp; || Ó¢ÎÄËõĞ´CNN ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/CNN Î¬»ù°Ù¿Æ]
+| '''æœ‰çº¿æ–°é—»ç½‘''' || &nbsp; || &nbsp; || è‹±æ–‡ç¼©å†™CNN ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/CNN ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.cnn.com/] || Web || English Homepage
 |-
@@ -123,465 +123,465 @@
 |-
 | &nbsp; || [https://twitter.com/CNNi @CNNi] || Twitter || CNN International on Twitter
 |-
-| '''ÃÀ¹úÖ®Òô''' || &nbsp; || &nbsp; || Ó¢ÎÄËõĞ´VOA ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3 Î¬»ù°Ù¿Æ]
+| '''ç¾å›½ä¹‹éŸ³''' || &nbsp; || &nbsp; || è‹±æ–‡ç¼©å†™VOA ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://voanews.com/] || Web || English Homepage
 |-
-| &nbsp; || [http://voanews.com/chinese] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://voanews.com/chinese] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.voanews.com/templates/Articles.rss?sectionPath=/chinese/news/china ĞÂÎÅ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.voanews.com/templates/Articles.rss?sectionPath=/chinese/news/china æ–°é—»è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/VOAchinese @VOAchinese] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/VOAchinese @VOAchinese] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''×ÔÓÉÑÇÖŞµçÌ¨''' || &nbsp; || &nbsp; || Ó¢ÎÄËõĞ´RFA ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0 Î¬»ù°Ù¿Æ]
+| '''è‡ªç”±äºšæ´²ç”µå°''' || &nbsp; || &nbsp; || è‹±æ–‡ç¼©å†™RFA ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.rfa.org/] || Web || English Home
 |-
-| &nbsp; || [http://www.rfa.org/mandarin/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.rfa.org/mandarin/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [https://twitter.com/RFAchinese @RFAchinese] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/RFAchinese @RFAchinese] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| &nbsp; || [http://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/RSS ÖĞ¹úÍ¸ÊÓ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/RSS ä¸­å›½é€è§†è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://www.rfa.org/mandarin/yataibaodao/RSS ÑÇÌ«±¨µÀ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.rfa.org/mandarin/yataibaodao/RSS äºšå¤ªæŠ¥é“è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://www.rfa.org/mandarin/pinglun/RSS ÌØÔ¼ÆÀÂÛ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.rfa.org/mandarin/pinglun/RSS ç‰¹çº¦è¯„è®ºè®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://www.rfa.org/mandarin/zhuanlan/diaochabaodao/RSS µ÷²é±¨µÀ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.rfa.org/mandarin/zhuanlan/diaochabaodao/RSS è°ƒæŸ¥æŠ¥é“è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://www.rfa.org/mandarin/zhuanlan/huashengdunshouji/RSS »ªÊ¢¶ÙÊÖ¼Ç¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.rfa.org/mandarin/zhuanlan/huashengdunshouji/RSS åç››é¡¿æ‰‹è®°è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| '''²©Ñ¶''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E5%8D%9A%E8%AE%AF Î¬»ù°Ù¿Æ]
+| '''åšè®¯''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E5%8D%9A%E8%AE%AF ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.boxun.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.boxun.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.peacehall.com/] || Web || ÁíÒ»¸öÓòÃû ÄÚÈİÍ¬ÉÏ
+| &nbsp; || [http://www.peacehall.com/] || Web || å¦ä¸€ä¸ªåŸŸå å†…å®¹åŒä¸Š
 |-
 | &nbsp; || [http://www.boxun.us/] || Web || English Homepage
 |-
-| &nbsp; || [http://news.boxun.com/news/rss/focus.xml ½¹µãĞÂÎÅ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ½ö±êÌâÊä³ö
+| &nbsp; || [http://news.boxun.com/news/rss/focus.xml ç„¦ç‚¹æ–°é—»è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ ä»…æ ‡é¢˜è¾“å‡º
 |-
-| &nbsp; || [http://news.boxun.com/news/rss/pol.xml ÕşÖÎĞÂÎÅ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ½ö±êÌâÊä³ö
+| &nbsp; || [http://news.boxun.com/news/rss/pol.xml æ”¿æ²»æ–°é—»è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ ä»…æ ‡é¢˜è¾“å‡º
 |-
-| '''±±ÃÀÊÀ½çÈÕˆó''' || &nbsp; || &nbsp; || ë`ŒÙÌ¨³Â“ºÏˆóÏµ ÓĞÓHÖĞ¹²ƒAÏò ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E5%8C%97%E7%BE%8E%E4%B8%96%E7%95%8C%E6%97%A5%E5%A0%B1 Î¬»ù°Ù¿Æ]
+| '''åŒ—ç¾ä¸–ç•Œæ—¥å ±''' || &nbsp; || &nbsp; || éš¸å±¬å°ç£è¯åˆå ±ç³» æœ‰è¦ªä¸­å…±å‚¾å‘ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E5%8C%97%E7%BE%8E%E4%B8%96%E7%95%8C%E6%97%A5%E5%A0%B1 ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.worldjournal.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.worldjournal.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| '''ÍòÎ¬¶ÁÕßÍø''' || &nbsp; || &nbsp; || 1999ÄêÓÉÂÃÃÀ»ªÈË´´°ì ¾İËµ2009Äê¹ÉÈ¨±ä¸üºóÁ¢³¡ÒÑ×ª±ä
+| '''ä¸‡ç»´è¯»è€…ç½‘''' || &nbsp; || &nbsp; || 1999å¹´ç”±æ—…ç¾åäººåˆ›åŠ æ®è¯´2009å¹´è‚¡æƒå˜æ›´åç«‹åœºå·²è½¬å˜
 |-
-| &nbsp; || [http://www.creaders.net/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.creaders.net/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://www.creaders.net/?language=gb2312] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.creaders.net/?language=gb2312] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [http://www.creadersnet.com/] || Web || English Homepage
 |}
 
-== Ïã¸Û ==
+== é¦™æ¸¯ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''Ã÷ˆó''' || &nbsp; || &nbsp; || ´óÃû¶¦¶¦µÄ½ğÓ¹„“Şk ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E6%98%8E%E5%A0%B1 ¾S»ù°Ù¿Æ]
+| '''æ˜å ±''' || &nbsp; || &nbsp; || å¤§åé¼é¼çš„é‡‘åº¸å‰µè¾¦ ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E6%98%8E%E5%A0%B1 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.mingpaonews.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.mingpaonews.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [https://twitter.com/MingPaoCom @MingPaoCom] || Twitter || ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/MingPaoCom @MingPaoCom] || Twitter || ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ÌO¹ûÈÕˆó''' || &nbsp; || &nbsp; || „“ŞkÈËÀèÖÇÓ¢ ÉÙ”µÅúÔu±±¾©¼°¸Û¸®µÄ´óˆó ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF) ¾S»ù°Ù¿Æ]
+| '''è˜‹æœæ—¥å ±''' || &nbsp; || &nbsp; || å‰µè¾¦äººé»æ™ºè‹± å°‘æ•¸æ‰¹è©•åŒ—äº¬åŠæ¸¯åºœçš„å¤§å ± ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF) ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://hk.nextmedia.com/] || Web || Ïã¸Û°æµÄ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://hk.nextmedia.com/] || Web || é¦™æ¸¯ç‰ˆçš„ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [https://twitter.com/HKAppleDaily @HKAppleDaily] || Twitter || Ïã¸Û°æµÄ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/HKAppleDaily @HKAppleDaily] || Twitter || é¦™æ¸¯ç‰ˆçš„ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''†ÖŞÖÜ¿¯''' || &nbsp; || &nbsp; || 1994Äê±»Ã÷ˆó¼¯ˆFÊÕÙ ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%B4%B2%E9%80%B1%E5%88%8A ¾S»ù°Ù¿Æ]
+| '''äºæ´²å‘¨åˆŠ''' || &nbsp; || &nbsp; || 1994å¹´è¢«æ˜å ±é›†åœ˜æ”¶è³¼ ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%B4%B2%E9%80%B1%E5%88%8A ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.yzzk.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.yzzk.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://www.yzzk.com/rss/rss.xml ĞÂÂ„Ó†é‡] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://www.yzzk.com/rss/rss.xml æ–°èè¨‚é–²] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| '''ÄÏÈAÔçˆó''' || &nbsp; || &nbsp; || Ó¢ÎÄ¿sŒ‘SCMP ÕşÖÎÁ¢ˆöÖĞÆ«×ó ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E5%8D%97%E8%8F%AF%E6%97%A9%E5%A0%B1 ¾S»ù°Ù¿Æ]
+| '''å—è¯æ—©å ±''' || &nbsp; || &nbsp; || è‹±æ–‡ç¸®å¯«SCMP æ”¿æ²»ç«‹å ´ä¸­åå·¦ ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E5%8D%97%E8%8F%AF%E6%97%A9%E5%A0%B1 ç¶­åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.scmp.com/] || Web || English Homepage
 |-
-| &nbsp; || [http://www.nanzao.com/sc] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.nanzao.com/sc] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.nanzao.com/tc] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.nanzao.com/tc] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://www.nanzao.com/sc/rss/all/rss.xml ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://www.nanzao.com/sc/rss/all/rss.xml è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| &nbsp; || [http://www.nanzao.com/tc/rss/all/rss.xml Ó†é‡] || RSS || ·±ówÖĞÎÄ È«ÎÄİ”³ö
+| &nbsp; || [http://www.nanzao.com/tc/rss/all/rss.xml è¨‚é–²] || RSS || ç¹é«”ä¸­æ–‡ å…¨æ–‡è¼¸å‡º
 |-
-| &nbsp; || [https://twitter.com/SCMP_News @SCMP_News] || Twitter || ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/SCMP_News @SCMP_News] || Twitter || ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''Ïã¸ÛªšÁ¢Ã½ów''' || &nbsp; || &nbsp; || ì¶2004ÄêÆßÒ»ß[ĞĞáá³ÉÁ¢ ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94 ¾S»ù°Ù¿Æ]
+| '''é¦™æ¸¯ç¨ç«‹åª’é«”''' || &nbsp; || &nbsp; || æ–¼2004å¹´ä¸ƒä¸€éŠè¡Œå¾Œæˆç«‹ ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.inmediahk.net/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.inmediahk.net/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://inmediahk.net/full/feed Ó†é‡] || RSS || ·±ówÖĞÎÄ È«ÎÄİ”³ö
+| &nbsp; || [http://inmediahk.net/full/feed è¨‚é–²] || RSS || ç¹é«”ä¸­æ–‡ å…¨æ–‡è¼¸å‡º
 |-
-| &nbsp; || [https://twitter.com/inmediahk @inmediahk] || Twitter || ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/inmediahk @inmediahk] || Twitter || ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ŸáÑª•rˆó''' || &nbsp; || &nbsp; || ÔÚ2012Äê9ÔÂ9ÈÕ³ÉÁ¢ Á¢ˆö·´¹² ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E7%86%B1%E8%A1%80%E6%99%82%E5%A0%B1 ¾S»ù°Ù¿Æ]
+| '''ç†±è¡€æ™‚å ±''' || &nbsp; || &nbsp; || åœ¨2012å¹´9æœˆ9æ—¥æˆç«‹ ç«‹å ´åå…± ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E7%86%B1%E8%A1%80%E6%99%82%E5%A0%B1 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.passiontimes.hk/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.passiontimes.hk/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [https://twitter.com/Passiontimes @Passiontimes] || Twitter || ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/Passiontimes @Passiontimes] || Twitter || ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ĞÇuÈÕˆó''' || &nbsp; || &nbsp; || ÈAƒS¸»ÉÌºúÎÄ»¢ì¶1938Äê„“Şk Ó^ücÓHÖĞ¹²ºÍ½¨ÖÆÅÉ ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1 ¾S»ù°Ù¿Æ]
+| '''æ˜Ÿå³¶æ—¥å ±''' || &nbsp; || &nbsp; || è¯åƒ‘å¯Œå•†èƒ¡æ–‡è™æ–¼1938å¹´å‰µè¾¦ è§€é»è¦ªä¸­å…±å’Œå»ºåˆ¶æ´¾ ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.singtao.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.singtao.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| '''Ïã¸ÛëŠÒ•V²¥ÓĞÏŞ¹«Ë¾''' || &nbsp; || &nbsp; || Ó¢ÎÄ¿sŒ‘TVB ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%A6%96%E5%BB%A3%E6%92%AD%EF%BC%88%E5%9C%8B%E9%9A%9B%EF%BC%89 ¾S»ù°Ù¿Æ]
+| '''é¦™æ¸¯é›»è¦–å»£æ’­æœ‰é™å…¬å¸''' || &nbsp; || &nbsp; || è‹±æ–‡ç¸®å¯«TVB ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%A6%96%E5%BB%A3%E6%92%AD%EF%BC%88%E5%9C%8B%E9%9A%9B%EF%BC%89 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.tvb.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.tvb.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [https://twitter.com/TVBcom @TVBcom] || Twitter || ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/TVBcom @TVBcom] || Twitter || ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''Ïã¸Û†ÖŞëŠÒ•''' || &nbsp; || &nbsp; || Ó¢ÎÄ¿sŒ‘ATV ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%B4%B2%E9%9B%BB%E8%A6%96 ¾S»ù°Ù¿Æ]
+| '''é¦™æ¸¯äºæ´²é›»è¦–''' || &nbsp; || &nbsp; || è‹±æ–‡ç¸®å¯«ATV ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%B4%B2%E9%9B%BB%E8%A6%96 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.hkatv.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.hkatv.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://www.hkatv.com/v5/index_cn.html] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.hkatv.com/v5/index_cn.html] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| '''Ïã¸ÛëŠÅ_''' || &nbsp; || &nbsp; || Ó¢ÎÄ¿sŒ‘RTHK ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0 ¾S»ù°Ù¿Æ]
+| '''é¦™æ¸¯é›»è‡º''' || &nbsp; || &nbsp; || è‹±æ–‡ç¸®å¯«RTHK ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://rthk.hk/index.htm] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://rthk.hk/index.htm] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://gbcode.rthk.org.hk/TuniS/rthk.hk/index.htm] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://gbcode.rthk.org.hk/TuniS/rthk.hk/index.htm] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [http://rthk.hk/index_eng.htm] || Web || English Homepage
 |}
 
-== Å_³ ==
+== è‡ºç£ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''ÌO¹ûÈÕˆó''' || &nbsp; || Web || „“ŞkÈËÀèÖÇÓ¢ ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_%28%E5%8F%B0%E7%81%A3%29 ¾S»ù°Ù¿Æ]
+| '''è˜‹æœæ—¥å ±''' || &nbsp; || Web || å‰µè¾¦äººé»æ™ºè‹± ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_%28%E5%8F%B0%E7%81%A3%29 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://tw.nextmedia.com/] || Web || Å_³°æµÄ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://tw.nextmedia.com/] || Web || è‡ºç£ç‰ˆçš„ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || Å_³°æµÄ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || è‡ºç£ç‰ˆçš„ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''×ÔÓÉ•rˆó''' || &nbsp; || &nbsp; || Ó¢ÎÄ¿sŒ‘LTN Ó^ücÆ«¾G ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E5%A0%B1 ¾S»ù°Ù¿Æ]
+| '''è‡ªç”±æ™‚å ±''' || &nbsp; || &nbsp; || è‹±æ–‡ç¸®å¯«LTN è§€é»åç¶  ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E5%A0%B1 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.ltn.com.tw/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.ltn.com.tw/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://news.ltn.com.tw/rss/focus.xml ½¹ücĞÂÂ„] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://news.ltn.com.tw/rss/focus.xml ç„¦é»æ–°è] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [http://news.ltn.com.tw/rss/politics.xml ÕşÖÎĞÂÂ„] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://news.ltn.com.tw/rss/politics.xml æ”¿æ²»æ–°è] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [http://news.ltn.com.tw/rss/society.xml Éç•şĞÂÂ„] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://news.ltn.com.tw/rss/society.xml ç¤¾æœƒæ–°è] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [http://news.ltn.com.tw/rss/world.xml ‡øëHĞÂÂ„] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://news.ltn.com.tw/rss/world.xml åœ‹éš›æ–°è] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| '''ÖĞÑëÍ¨ÓÉç''' || &nbsp; || &nbsp; || Ó¢ÎÄ¿sŒ‘CNA ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%80%9A%E8%A8%8A%E7%A4%BE ¾S»ù°Ù¿Æ]
+| '''ä¸­å¤®é€šè¨Šç¤¾''' || &nbsp; || &nbsp; || è‹±æ–‡ç¸®å¯«CNA ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%80%9A%E8%A8%8A%E7%A4%BE ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.cna.com.tw/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.cna.com.tw/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://feeds.feedburner.com/cnaFirstNews ÖØücĞÂÂ„] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://feeds.feedburner.com/cnaFirstNews é‡é»æ–°è] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [http://feeds.feedburner.com/rsscna/politics ÕşÖÎĞÂÂ„] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://feeds.feedburner.com/rsscna/politics æ”¿æ²»æ–°è] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [http://feeds.feedburner.com/rsscna/mainland ‡øëHĞÂÂ„] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://feeds.feedburner.com/rsscna/mainland åœ‹éš›æ–°è] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| '''Â“ºÏĞÂÂ„¾W''' || &nbsp; || &nbsp; || Â“ºÏˆó‚SµÄºËĞÄ¾WÕ¾ Ó^ücÆ«Ë{ ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2 ¾S»ù°Ù¿Æ]
+| '''è¯åˆæ–°èç¶²''' || &nbsp; || &nbsp; || è¯åˆå ±ä¿‚çš„æ ¸å¿ƒç¶²ç«™ è§€é»åè— ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://udn.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://udn.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://udn.com/udnrss/latest.xml ×îĞÂˆóµÀÓ†é‡] || RSS || ·±ówÖĞÎÄÕªÒªİ”³ö
+| &nbsp; || [http://udn.com/udnrss/latest.xml æœ€æ–°å ±é“è¨‚é–²] || RSS || ç¹é«”ä¸­æ–‡æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [http://udn.com/udnrss/international.xml ‡øëHĞÂÂ„Ó†é‡] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://udn.com/udnrss/international.xml åœ‹éš›æ–°èè¨‚é–²] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| '''ÖĞ‡ø•rˆó''' || &nbsp; || &nbsp; || Ó^ücÆ«Ë{ ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%99%82%E5%A0%B1 ¾S»ù°Ù¿Æ]
+| '''ä¸­åœ‹æ™‚å ±''' || &nbsp; || &nbsp; || è§€é»åè— ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%99%82%E5%A0%B1 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.chinatimes.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.chinatimes.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://www.chinatimes.com/cn/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.chinatimes.com/cn/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| '''–|É­ëŠÒ•''' || &nbsp; || &nbsp; || –|É­ëŠÒ•Å_µÄ¹Ù·½¾WÕ¾
+| '''æ±æ£®é›»è¦–''' || &nbsp; || &nbsp; || æ±æ£®é›»è¦–è‡ºçš„å®˜æ–¹ç¶²ç«™
 |-
-| &nbsp; || [http://www.ebc.net.tw/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.ebc.net.tw/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |}
 
-== ÈÕ±¾ ==
+== æ—¥æœ¬ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| ¹²Í¬Í¨Ñ¶Éç || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E5%85%B1%E5%90%8C%E9%80%9A%E8%AE%AF%E7%A4%BE Î¬»ù°Ù¿Æ]
+| å…±åŒé€šè®¯ç¤¾ || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E5%85%B1%E5%90%8C%E9%80%9A%E8%AE%AF%E7%A4%BE ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://china.kyodonews.jp/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://china.kyodonews.jp/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://tchina.kyodonews.jp/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://tchina.kyodonews.jp/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| ³¯ÈÕĞÂÎÅ || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E Î¬»ù°Ù¿Æ]
+| æœæ—¥æ–°é—» || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://asahichinese.com/locale/change/zh-cn] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://asahichinese.com/locale/change/zh-cn] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://asahichinese.com/locale/change/zh-tw] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://asahichinese.com/locale/change/zh-tw] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |}
 
-== ¶«ÄÏÑÇ ==
+== ä¸œå—äºš ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''ÁªºÏÔç±¨''' || &nbsp; || &nbsp; || ĞÂ¼ÓÆÂÖ÷Òª»ªÎÄ±¨Ö½ Ç×ÖĞ¹²µÄÇ÷ÊÆÖğ½¥Ã÷ÏÔ ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5 Î¬»ù°Ù¿Æ]
+| '''è”åˆæ—©æŠ¥''' || &nbsp; || &nbsp; || æ–°åŠ å¡ä¸»è¦åæ–‡æŠ¥çº¸ äº²ä¸­å…±çš„è¶‹åŠ¿é€æ¸æ˜æ˜¾ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5 ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.zaobao.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.zaobao.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [https://twitter.com/ZaoBaoChina @ZaoBaoChina] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/ZaoBaoChina @ZaoBaoChina] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| &nbsp; || [http://realtime.zaobao.com/news.xml ¼´Ê±±¨µÀ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ½ö±êÌâÊä³ö
+| &nbsp; || [http://realtime.zaobao.com/news.xml å³æ—¶æŠ¥é“è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ ä»…æ ‡é¢˜è¾“å‡º
 |-
-| &nbsp; || [http://www.zaobao.com/gj/gj.xml ¹ú¼ÊĞÂÎÅ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ½ö±êÌâÊä³ö
+| &nbsp; || [http://www.zaobao.com/gj/gj.xml å›½é™…æ–°é—»è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ ä»…æ ‡é¢˜è¾“å‡º
 |}
 
 
 ----
 
-= ÕşÖÎÀàÍøÕ¾ =
+= æ”¿æ²»ç±»ç½‘ç«™ =
 
-== µç×ÓÔÓÖ¾Àà ==
+== ç”µå­æ‚å¿—ç±» ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''Ñô¹âÊ±ÎñÖÜ¿¯''' || &nbsp; || &nbsp; || 2011Äê´´°ìµÄÖĞÎÄÊ±ÕşÔÓÖ¾ Ö÷±à³¤Æ½ÊÇ´óÂ½ÖªÃûÇÒ¸ÒÑÔµÄÃ½ÌåÈË ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E9%99%BD%E5%85%89%E6%99%82%E5%8B%99%E9%80%B1%E5%88%8A Î¬»ù°Ù¿Æ]
+| '''é˜³å…‰æ—¶åŠ¡å‘¨åˆŠ''' || &nbsp; || &nbsp; || 2011å¹´åˆ›åŠçš„ä¸­æ–‡æ—¶æ”¿æ‚å¿— ä¸»ç¼–é•¿å¹³æ˜¯å¤§é™†çŸ¥åä¸”æ•¢è¨€çš„åª’ä½“äºº ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E9%99%BD%E5%85%89%E6%99%82%E5%8B%99%E9%80%B1%E5%88%8A ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.isunaffairs.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.isunaffairs.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://www.isunaffairs.com/?feed=rss2 ¶©ÔÄ] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://www.isunaffairs.com/?feed=rss2 è®¢é˜…] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [https://plus.google.com/105389029463525925239/posts +Ñô¹âÊ±ÎñÖÜ¿¯] || G+ || ¼òÌåÖĞÎÄ
+| &nbsp; || [https://plus.google.com/105389029463525925239/posts +é˜³å…‰æ—¶åŠ¡å‘¨åˆŠ] || G+ || ç®€ä½“ä¸­æ–‡
 |-
-| &nbsp; || [https://twitter.com/isunaffairs @isunaffairs] || Twitter || ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/isunaffairs @isunaffairs] || Twitter || ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ÖĞ¹ú±¨µÀÖÜ¿¯''' || &nbsp; || &nbsp; || ÄÚÈİ°üÀ¨ ÕşÖÎ¡¢¾­¼Ã¡¢ĞÂÎÅ¡¢Ñ§Êõ¡¢ÀúÊ·¡¢¾üÊÂµÈ
+| '''ä¸­å›½æŠ¥é“å‘¨åˆŠ''' || &nbsp; || &nbsp; || å†…å®¹åŒ…æ‹¬ æ”¿æ²»ã€ç»æµã€æ–°é—»ã€å­¦æœ¯ã€å†å²ã€å†›äº‹ç­‰
 |-
-| &nbsp; || [http://www.china-week.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.china-week.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [https://twitter.com/chinaweek @ChinaWeek] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/chinaweek @ChinaWeek] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| &nbsp; || [http://feeds.feedburner.com/china-week ÎÄÕÂ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://feeds.feedburner.com/china-week æ–‡ç« è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| '''ÃñÖ÷ÖĞ¹ú''' || &nbsp; || &nbsp; || ÒÔÕşÖÎÆÀÂÛÎªÖ÷
+| '''æ°‘ä¸»ä¸­å›½''' || &nbsp; || &nbsp; || ä»¥æ”¿æ²»è¯„è®ºä¸ºä¸»
 |-
-| &nbsp; || [http://minzhuzhongguo.org/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://minzhuzhongguo.org/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [http://www.democraticchina.org/] || Web || English Home
 |-
-| &nbsp; || [https://twitter.com/minzhuzhongguo @MinZhuZhongGuo] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/minzhuzhongguo @MinZhuZhongGuo] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''±±¾©Ö®´º(ÔÂ¿¯)''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 ºúÆ½]µ£ÈÎÖ÷±à ¹Ø×¢ÈËÈ¨¡¢ÃñÖ÷»¯¡¢Éç»á¹«Õı
+| '''åŒ—äº¬ä¹‹æ˜¥(æœˆåˆŠ)''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 èƒ¡å¹³]æ‹…ä»»ä¸»ç¼– å…³æ³¨äººæƒã€æ°‘ä¸»åŒ–ã€ç¤¾ä¼šå…¬æ­£
 |-
-| &nbsp; || [http://bjzc.org/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://bjzc.org/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [http://bjzc.org/en/] || Web || English Home
 |-
-| &nbsp; || [http://beijingspring.com/big5bjs/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://beijingspring.com/big5bjs/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| '''×İÀÀÖĞ¹ú''' || &nbsp; || &nbsp; || ÆÕÁÖË¹¶ÙÖĞ¹úÑ§ÉçÖ÷°ì ¹Ø×¢Ê±Õş¡¢½ü´úÊ· ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%B8%B1%E8%A6%BD%E4%B8%AD%E5%9C%8B Î¬»ù°Ù¿Æ]
+| '''çºµè§ˆä¸­å›½''' || &nbsp; || &nbsp; || æ™®æ—æ–¯é¡¿ä¸­å›½å­¦ç¤¾ä¸»åŠ å…³æ³¨æ—¶æ”¿ã€è¿‘ä»£å² ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%B8%B1%E8%A6%BD%E4%B8%AD%E5%9C%8B ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.chinainperspective.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.chinainperspective.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.chinainperspective.com/rss.aspx ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.chinainperspective.com/rss.aspx è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| '''é_·ÅësÕI(ÔÂ¿¯)''' || &nbsp; || &nbsp; || Î»ì¶Ïã¸Û Á¢ˆö·´¹² ½é½B…¢ÒŠ[https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E6%9D%82%E5%BF%97 ¾S»ù°Ù¿Æ]
+| '''é–‹æ”¾é›œèªŒ(æœˆåˆŠ)''' || &nbsp; || &nbsp; || ä½æ–¼é¦™æ¸¯ ç«‹å ´åå…± ä»‹ç´¹åƒè¦‹[https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E6%9D%82%E5%BF%97 ç¶­åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.open.com.hk/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.open.com.hk/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [https://twitter.com/openmagazinehk @OpenMagazineHK] || Twitter || ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/openmagazinehk @OpenMagazineHK] || Twitter || ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''¹Û²ì(Ë«ÔÂ¿¯)''' || &nbsp; || &nbsp; || ×ÛºÏĞÔ¿¯Îï Î»ÓÚÃÀ¹ú °üÀ¨ĞÂÎÅ¼°¸÷ÖÖ×¨À¸±¨µÀ
+| '''è§‚å¯Ÿ(åŒæœˆåˆŠ)''' || &nbsp; || &nbsp; || ç»¼åˆæ€§åˆŠç‰© ä½äºç¾å›½ åŒ…æ‹¬æ–°é—»åŠå„ç§ä¸“æ æŠ¥é“
 |-
-| &nbsp; || [http://www.observechina.net/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.observechina.net/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [http://www.observechina.net/info_eng/Index.asp] || Web || English Home
 |-
-| '''»Æ»¨¸ÚÔÓÖ¾''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 ĞÁ®Äê]Ö÷°ì£¬²àÖØÓÚÌì³¯½ü´úÊ·£¬ÓÚ2001Äê10ÔÂ10ÈÕ´´¿¯
+| '''é»„èŠ±å²—æ‚å¿—''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 è¾›çå¹´]ä¸»åŠï¼Œä¾§é‡äºå¤©æœè¿‘ä»£å²ï¼Œäº2001å¹´10æœˆ10æ—¥åˆ›åˆŠ
 |-
-| &nbsp; || [http://www.huanghuagang.org/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.huanghuagang.org/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |}
 
-== Î¬È¨ ==
+== ç»´æƒ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''ĞÂ¹«ÃñÔË¶¯''' || &nbsp; || &nbsp; || ¡°ĞÂ¹«ÃñÔË¶¯¡±µÄ¹ÙÍø ÄÚÈİ°üÀ¨ÕşÖÎÆÀÂÛ¡¢Î¬È¨¡¢NGOµÈ ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E6%96%B0%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8 Î¬»ù°Ù¿Æ]
+| '''æ–°å…¬æ°‘è¿åŠ¨''' || &nbsp; || &nbsp; || â€œæ–°å…¬æ°‘è¿åŠ¨â€çš„å®˜ç½‘ å†…å®¹åŒ…æ‹¬æ”¿æ²»è¯„è®ºã€ç»´æƒã€NGOç­‰ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E6%96%B0%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8 ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://xgmyd.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://xgmyd.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://xgmyd.com/feed] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://xgmyd.com/feed] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/gongminyundong @GongMinYunDong] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/gongminyundong @GongMinYunDong] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ÖĞ¹úÈËÈ¨''' || &nbsp; || &nbsp; || ÄÚÈİ°üÀ¨ĞÂÎÅ¡¢Î¬È¨¡¢ÁùËÄµÈ ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83_%28%E7%BB%84%E7%BB%87%29 Î¬»ù°Ù¿Æ]
+| '''ä¸­å›½äººæƒ''' || &nbsp; || &nbsp; || å†…å®¹åŒ…æ‹¬æ–°é—»ã€ç»´æƒã€å…­å››ç­‰ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83_%28%E7%BB%84%E7%BB%87%29 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.hrichina.org/] || Web || English Home
 |-
-| &nbsp; || [http://www.hrichina.org/cn/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.hrichina.org/cn/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.hrichina.org/hk/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.hrichina.org/hk/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [https://twitter.com/hrichina @hriChina] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/hrichina @hriChina] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| &nbsp; || [http://biweekly.hrichina.org/] || Web || ¡¶ÖĞ¹úÈËÈ¨Ë«ÖÜ¿¯¡·µç×ÓÔÓÖ¾
+| &nbsp; || [http://biweekly.hrichina.org/] || Web || ã€Šä¸­å›½äººæƒåŒå‘¨åˆŠã€‹ç”µå­æ‚å¿—
 |-
-| '''ÈËÈ¨¹Û²ì''' || &nbsp; || &nbsp; || ÊÀ½çĞÔµÄ·ÇÕş¸®×éÖ¯ ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F Î¬»ù°Ù¿Æ]
+| '''äººæƒè§‚å¯Ÿ''' || &nbsp; || &nbsp; || ä¸–ç•Œæ€§çš„éæ”¿åºœç»„ç»‡ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.hrw.org/] || Web || English Home
 |-
-| &nbsp; || [http://www.hrw.org/zh-hans] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.hrw.org/zh-hans] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [https://twitter.com/HRW @HRW] || Twitter || English Twitter
 |-
-| &nbsp; || [https://twitter.com/hrw_chinese @HRW_chinese] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/hrw_chinese @HRW_chinese] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''²ÎÓë''' || &nbsp; || &nbsp; || ÄÚÈİ°üÀ¨Î¬È¨ºÍÃñÔËµÈ
+| '''å‚ä¸''' || &nbsp; || &nbsp; || å†…å®¹åŒ…æ‹¬ç»´æƒå’Œæ°‘è¿ç­‰
 |-
-| &nbsp; || [http://www.canyu.org/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.canyu.org/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.canyu.org/chinese.aspx?big5=1] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.canyu.org/chinese.aspx?big5=1] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://www.canyu.org/rssFeed.aspx] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.canyu.org/rssFeed.aspx] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| '''ÁùËÄÌìÍø''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6 »Æçù]Ö÷°ìµÄ¹úÄÚµÚÒ»¼ÒÎ¬È¨ÍøÕ¾ ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E5%A4%A9%E7%BD%91 Î¬»ù°Ù¿Æ]
+| '''å…­å››å¤©ç½‘''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6 é»„ç¦]ä¸»åŠçš„å›½å†…ç¬¬ä¸€å®¶ç»´æƒç½‘ç«™ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E5%A4%A9%E7%BD%91 ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://64tianwang.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://64tianwang.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| '''ÖĞ¹úÀÍ¹¤Í¨Ñ¶''' || &nbsp; || &nbsp; || ÓÉ¡°ÁùËÄÔË¶¯¡±µÄ¹¤ÈËÁìĞä[https://zh.wikipedia.org/wiki/%E9%9F%A9%E4%B8%9C%E6%96%B9 º«¶«·½]´´°ì
+| '''ä¸­å›½åŠ³å·¥é€šè®¯''' || &nbsp; || &nbsp; || ç”±â€œå…­å››è¿åŠ¨â€çš„å·¥äººé¢†è¢–[https://zh.wikipedia.org/wiki/%E9%9F%A9%E4%B8%9C%E6%96%B9 éŸ©ä¸œæ–¹]åˆ›åŠ
 |-
 | &nbsp; || [http://www.clb.org.hk/en/] || Web || English Home
 |-
-| &nbsp; || [http://www.clb.org.hk/schi/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.clb.org.hk/schi/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.clb.org.hk/chi/rss.xml] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://www.clb.org.hk/chi/rss.xml] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| '''Î¬È¨Íø''' || &nbsp; || &nbsp; || ÈçÆäÃû£¬ÄÚÈİÖ÷ÒªÊÇÎ¬È¨
+| '''ç»´æƒç½‘''' || &nbsp; || &nbsp; || å¦‚å…¶åï¼Œå†…å®¹ä¸»è¦æ˜¯ç»´æƒ
 |-
-| &nbsp; || [http://www.weiquanwang.org/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.weiquanwang.org/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://wqw2010.blogspot.com/feeds/posts/default] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://wqw2010.blogspot.com/feeds/posts/default] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |}
 
-== ¡°ÁùËÄ¡±Ïà¹Ø ==
+== â€œå…­å››â€ç›¸å…³ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''Î¬»ù°Ù¿ÆÏà¹Ø´ÊÌõ''' || &nbsp; || &nbsp; || ÕâÊÇ°³ËÑÂŞÓë¡°ÁùËÄ¡±Ïà¹ØµÄ´ÊÌõ
+| '''ç»´åŸºç™¾ç§‘ç›¸å…³è¯æ¡''' || &nbsp; || &nbsp; || è¿™æ˜¯ä¿ºæœç½—ä¸â€œå…­å››â€ç›¸å…³çš„è¯æ¡
 |-
-| &nbsp; || [https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 ÁùËÄÊÂ¼ş] || wiki || ±È½Ï¿Í¹ÛµØ½éÉÜÊÂ¼şÈ«¹ı³Ì
+| &nbsp; || [https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 å…­å››äº‹ä»¶] || wiki || æ¯”è¾ƒå®¢è§‚åœ°ä»‹ç»äº‹ä»¶å…¨è¿‡ç¨‹
 |-
-| &nbsp; || [https://zh.wikipedia.org/wiki/%E8%83%A1%E8%80%80%E9%82%A6 ºúÒ«°î] || wiki || ËûµÄËÀ³ÉÎªÁùËÄµÄµ¼»ğË÷
+| &nbsp; || [https://zh.wikipedia.org/wiki/%E8%83%A1%E8%80%80%E9%82%A6 èƒ¡è€€é‚¦] || wiki || ä»–çš„æ­»æˆä¸ºå…­å››çš„å¯¼ç«ç´¢
 |-
-| &nbsp; || [https://zh.wikipedia.org/wiki/%E8%B6%99%E7%B4%AB%E9%99%BD ÕÔ×ÏÑô] || wiki || ËûÒòÎª²»¿ÏÕòÑ¹Ñ§Éú¶ø±»µËĞ¡Æ½°Õ÷í
+| &nbsp; || [https://zh.wikipedia.org/wiki/%E8%B6%99%E7%B4%AB%E9%99%BD èµµç´«é˜³] || wiki || ä»–å› ä¸ºä¸è‚¯é•‡å‹å­¦ç”Ÿè€Œè¢«é‚“å°å¹³ç½¢é»œ
 |-
-| &nbsp; || [https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%96%80%E6%96%87%E4%BB%B6 ¡¶Ìì°²ÃÅÎÄ¼ş¡·] || wiki || ÓÖÃû¡¶ÖĞ¹úÁùËÄÕæÏà¡· ´ó²¿·ÖÄÚÈİÀ´×ÔÖĞ¹²¸ß²ãĞ¹Â©µÄÎÄ¼ş
+| &nbsp; || [https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%96%80%E6%96%87%E4%BB%B6 ã€Šå¤©å®‰é—¨æ–‡ä»¶ã€‹] || wiki || åˆåã€Šä¸­å›½å…­å››çœŸç›¸ã€‹ å¤§éƒ¨åˆ†å†…å®¹æ¥è‡ªä¸­å…±é«˜å±‚æ³„æ¼çš„æ–‡ä»¶
 |-
-| '''ÁùËÄµµ°¸''' || [http://www.64memo.com/] || Web || ÓÉ[https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 ·â´ÓµÂ]£¨ÁùËÄÑ§ÉúÁìĞäÖ®Ò»£©´´°ì ÓĞ¶à±¾ÁùËÄÏà¹Øµç×ÓÊéµÄÔÚÏßÔÄ¶Á
+| '''å…­å››æ¡£æ¡ˆ''' || [http://www.64memo.com/] || Web || ç”±[https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 å°ä»å¾·]ï¼ˆå…­å››å­¦ç”Ÿé¢†è¢–ä¹‹ä¸€ï¼‰åˆ›åŠ æœ‰å¤šæœ¬å…­å››ç›¸å…³ç”µå­ä¹¦çš„åœ¨çº¿é˜…è¯»
 |-
-| '''ÁùËÄ×ÊÁÏ@²©Ñ¶''' || [http://www.boxun.com/hero/64/] || Web || ²©Ñ¶Íø»ã×ÜµÄÁùËÄÏà¹Ø×ÊÁÏ
+| '''å…­å››èµ„æ–™@åšè®¯''' || [http://www.boxun.com/hero/64/] || Web || åšè®¯ç½‘æ±‡æ€»çš„å…­å››ç›¸å…³èµ„æ–™
 |-
-| '''Ìì°²ÃÅÄ¸Ç×''' || [http://www.tiananmenmother.org/] || Web || ÓÉËÀÄÑÕß¼ÒÊô[https://zh.wikipedia.org/wiki/%E4%B8%81%E5%AD%90%E9%9C%96 ¶¡×ÓÁØ]µÈÈË·¢Æğ
+| '''å¤©å®‰é—¨æ¯äº²''' || [http://www.tiananmenmother.org/] || Web || ç”±æ­»éš¾è€…å®¶å±[https://zh.wikipedia.org/wiki/%E4%B8%81%E5%AD%90%E9%9C%96 ä¸å­éœ–]ç­‰äººå‘èµ·
 |-
-| '''Ö§Â“•ş''' || [http://www.alliance.org.hk/] || Web || È«·QÊÇ¡°Ïã¸ÛÊĞÃñÖ§Ô®Û‡øÃñÖ÷ß\„ÓÂ“ºÏ•ş¡± ÁùËÄÆÚég´óÁ¦Ö§³Ö±±¾©µÄŒWß\
+| '''æ”¯è¯æœƒ''' || [http://www.alliance.org.hk/] || Web || å…¨ç¨±æ˜¯â€œé¦™æ¸¯å¸‚æ°‘æ”¯æ´æ„›åœ‹æ°‘ä¸»é‹å‹•è¯åˆæœƒâ€ å…­å››æœŸé–“å¤§åŠ›æ”¯æŒåŒ—äº¬çš„å­¸é‹
 |-
-| '''Ìì°²ÃÅ¶ÔÖÅ''' || [http://www.tiananmenduizhi.com/] || Web || ¡¶Ìì°²ÃÅ¶ÔÖÅ¡·ÊÇÒ»±¾Êé ÕâÊÇ´ËÊé×÷ÕßµÄ²©¿Í
+| '''å¤©å®‰é—¨å¯¹å³™''' || [http://www.tiananmenduizhi.com/] || Web || ã€Šå¤©å®‰é—¨å¯¹å³™ã€‹æ˜¯ä¸€æœ¬ä¹¦ è¿™æ˜¯æ­¤ä¹¦ä½œè€…çš„åšå®¢
 |-
-| '''ÁùËÄÃñÔËÖ¾''' || &nbsp; || &nbsp; || ÕâÊÇÒ»±¾¹ØÓÚÁùËÄµÄÊé
+| '''å…­å››æ°‘è¿å¿—''' || &nbsp; || &nbsp; || è¿™æ˜¯ä¸€æœ¬å…³äºå…­å››çš„ä¹¦
 |-
-| &nbsp; || [http://www.ngensis.com/june4/june4s.htm] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.ngensis.com/june4/june4s.htm] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.ngensis.com/june4/june4.htm] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.ngensis.com/june4/june4.htm] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| '''¼ÍÂ¼Æ¬¡¶Ìì°²ÃÅ¡·''' || &nbsp; || &nbsp; || ¸Ã¼ÍÂ¼Æ¬µÄ¹Ù·½ÍøÕ¾ ´ËÆ¬µÄ²¿·ÖÄÚÈİÓĞÕùÒé
+| '''çºªå½•ç‰‡ã€Šå¤©å®‰é—¨ã€‹''' || &nbsp; || &nbsp; || è¯¥çºªå½•ç‰‡çš„å®˜æ–¹ç½‘ç«™ æ­¤ç‰‡çš„éƒ¨åˆ†å†…å®¹æœ‰äº‰è®®
 |-
 | &nbsp; || [http://www.tsquare.tv/] || Web || English Home
 |-
-| &nbsp; || [http://www.tsquare.tv/chinese/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.tsquare.tv/chinese/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| '''¡¶»Ø¹ËÁùËÄ¡·ÏµÁĞ²©ÎÄ''' || [http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html program-think.blogspot.com] || Web || ÕâÊÇ°³Ğ´µÄÏµÁĞ²©ÎÄ °ï²»Çå³ş¡°ÁùËÄ¡±µÄÍøÓÑÁË½âÄÇ¶ÎÀúÊ·
+| '''ã€Šå›é¡¾å…­å››ã€‹ç³»åˆ—åšæ–‡''' || [http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html program-think.blogspot.com] || Web || è¿™æ˜¯ä¿ºå†™çš„ç³»åˆ—åšæ–‡ å¸®ä¸æ¸…æ¥šâ€œå…­å››â€çš„ç½‘å‹äº†è§£é‚£æ®µå†å²
 |}
 
-== ¾ÛºÏÀà ==
+== èšåˆç±» ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''ÖĞ¹úÊı×ÖÊ±´ú''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3 Î¬»ù°Ù¿Æ]
+| '''ä¸­å›½æ•°å­—æ—¶ä»£''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://chinadigitaltimes.net/] || Web || English Home
 |-
-| &nbsp; || [http://chinadigitaltimes.net/chinese/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://chinadigitaltimes.net/chinese/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [https://chinadigitaltimes.net/feed/ ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [https://chinadigitaltimes.net/feed/ è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
 | &nbsp; || [https://plus.google.com/102352597823180899622/posts +China Digital Times] || G+ || English
 |-
-| &nbsp; || [https://plus.google.com/114542928368198238414/posts +ÖĞ¹úÊı×ÖÊ±´ú] || G+ || ¼òÌåÖĞÎÄ
+| &nbsp; || [https://plus.google.com/114542928368198238414/posts +ä¸­å›½æ•°å­—æ—¶ä»£] || G+ || ç®€ä½“ä¸­æ–‡
 |-
 | &nbsp; || [https://twitter.com/cdt @cdt] || Twitter || English
 |-
-| &nbsp; || [https://twitter.com/CDTChinese @CDTChinese] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/CDTChinese @CDTChinese] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''Ç½ÍâÂ¥''' || &nbsp; || &nbsp; || ´´°ìÈËÎ´Öª ÄÚÈİÀàËÆÓÚ¡°ÖĞ¹úÊı×ÖÊ±´ú¡±
+| '''å¢™å¤–æ¥¼''' || &nbsp; || &nbsp; || åˆ›åŠäººæœªçŸ¥ å†…å®¹ç±»ä¼¼äºâ€œä¸­å›½æ•°å­—æ—¶ä»£â€
 |-
-| &nbsp; || [http://www.letscorp.net/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.letscorp.net/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://feeds.feedburner.com/letscorp/aDmw ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö£»
+| &nbsp; || [http://feeds.feedburner.com/letscorp/aDmw è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡ºï¼›
 |-
-| &nbsp; || [https://twitter.com/letscorp @letscorp] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/letscorp @letscorp] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ÅİÅİ''' || &nbsp; || &nbsp; || Óë [https://zh.wikipedia.org/wiki/GreatFire GreatFire] ÊÇÒ»¼Ò×Ó
+| '''æ³¡æ³¡''' || &nbsp; || &nbsp; || ä¸ [https://zh.wikipedia.org/wiki/GreatFire GreatFire] æ˜¯ä¸€å®¶å­
 |-
-| &nbsp; || [https://pao-pao.net/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [https://pao-pao.net/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [https://pao-pao.net/rss.xml ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö£»
+| &nbsp; || [https://pao-pao.net/rss.xml è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡ºï¼›
 |-
-| &nbsp; || [https://twitter.com/paopaonet @paopaonet] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/paopaonet @paopaonet] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ÆæÎÅÂ¼''' || &nbsp; || &nbsp; || Ö÷Òª»ã×ÜĞÂÀËÎ¢²©ºÍ Twitter µÄÈÈÃÅÑÔÂÛ
+| '''å¥‡é—»å½•''' || &nbsp; || &nbsp; || ä¸»è¦æ±‡æ€»æ–°æµªå¾®åšå’Œ Twitter çš„çƒ­é—¨è¨€è®º
 |-
-| &nbsp; || [http://qiwen.lu/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://qiwen.lu/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://qiwen.lu/feed ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://qiwen.lu/feed è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/qiwenlu @qiwenlu] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/qiwenlu @qiwenlu] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''×ÔÓÉÎ¢²©''' || &nbsp; || &nbsp; || Óë [https://zh.wikipedia.org/wiki/GreatFire GreatFire] ÊÇÒ»¼Ò×Ó ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A Î¬»ù°Ù¿Æ]
+| '''è‡ªç”±å¾®åš''' || &nbsp; || &nbsp; || ä¸ [https://zh.wikipedia.org/wiki/GreatFire GreatFire] æ˜¯ä¸€å®¶å­ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BE%AE%E5%8D%9A ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [https://freeweibo.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [https://freeweibo.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [https://freeweibo.com/en/] || Web || English Home
 |-
-| &nbsp; || [https://freeweibo.com/?rss ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [https://freeweibo.com/?rss è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| '''²©Ì¸Íø''' || &nbsp; || &nbsp; || ´´°ìÈËÎ´Öª ÄÚÈİÀàËÆÓÚ¡°ÖĞ¹úÊı×ÖÊ±´ú¡±
+| '''åšè°ˆç½‘''' || &nbsp; || &nbsp; || åˆ›åŠäººæœªçŸ¥ å†…å®¹ç±»ä¼¼äºâ€œä¸­å›½æ•°å­—æ—¶ä»£â€
 |-
-| &nbsp; || [http://www.botanwang.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.botanwang.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.botanwang.com/rss.xml ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://www.botanwang.com/rss.xml è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |}
 
 
 ----
 
-= ²Æ¾­ÀàÍøÕ¾ =
+= è´¢ç»ç±»ç½‘ç«™ =
 
-ÏÂÃæÁĞ³öµÄÊÇ²àÖØÓÚ²Æ¾­±¨µÀµÄÍøÕ¾£¨°üÀ¨Ä³Ğ©±¨¿¯¡¢ÔÓÖ¾µÄ¹Ù·½ÍøÕ¾µÈ£©¡£
+ä¸‹é¢åˆ—å‡ºçš„æ˜¯ä¾§é‡äºè´¢ç»æŠ¥é“çš„ç½‘ç«™ï¼ˆåŒ…æ‹¬æŸäº›æŠ¥åˆŠã€æ‚å¿—çš„å®˜æ–¹ç½‘ç«™ç­‰ï¼‰ã€‚
 
-ÎªÁË¿´ÆğÀ´·½±ã£¬°´ÕÕµØÇø·ÖÀà¡£
+ä¸ºäº†çœ‹èµ·æ¥æ–¹ä¾¿ï¼ŒæŒ‰ç…§åœ°åŒºåˆ†ç±»ã€‚
 
-== ±±ÃÀ ==
+== åŒ—ç¾ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''»ª¶û½ÖÈÕ±¨''' || &nbsp; || &nbsp; || Ó¢ÎÄËõĞ´WSJ ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5 Î¬»ù°Ù¿Æ]
+| '''åå°”è¡—æ—¥æŠ¥''' || &nbsp; || &nbsp; || è‹±æ–‡ç¼©å†™WSJ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://online.wsj.com/home-page] || Web || U.S. Edition Homepage
 |-
@@ -591,11 +591,11 @@
 |-
 | &nbsp; || [https://twitter.com/WSJ @WSJ] || Twitter || English Twitter
 |-
-| &nbsp; || [http://chinese.wsj.com/gb/index.asp] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://chinese.wsj.com/gb/index.asp] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://chinese.wsj.com/big5/index.asp] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://chinese.wsj.com/big5/index.asp] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| '''¸£²¼Ë¹''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B8%83%E6%96%AF Î¬»ù°Ù¿Æ]
+| '''ç¦å¸ƒæ–¯''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B8%83%E6%96%AF ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.forbes.com/] || Web || English Homepage
 |-
@@ -603,31 +603,31 @@
 |-
 | &nbsp; || [https://twitter.com/forbes @Forbes] || Twitter || English Twitter
 |-
-| &nbsp; || [http://www.forbeschina.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.forbeschina.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.forbes.conn.tw/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.forbes.conn.tw/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| '''Åí²©ÉÌÒµÖÜ¿¯''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E5%BD%AD%E5%8D%9A%E5%95%86%E4%B8%9A%E5%91%A8%E5%88%8A Î¬»ù°Ù¿Æ] ËüµÄ¡°MBAÅÅĞĞ°ñ¡±ºÜÓĞÃû
+| '''å½­åšå•†ä¸šå‘¨åˆŠ''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E5%BD%AD%E5%8D%9A%E5%95%86%E4%B8%9A%E5%91%A8%E5%88%8A ç»´åŸºç™¾ç§‘] å®ƒçš„â€œMBAæ’è¡Œæ¦œâ€å¾ˆæœ‰å
 |-
 | &nbsp; || [http://www.businessweek.com/] || Web || English Homepage
 |-
 | &nbsp; || [https://twitter.com/BW @BW] || Twitter || English Twitter
 |-
-| '''²Æ¸»''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E8%B2%A1%E5%AF%8C_%28%E9%9B%9C%E8%AA%8C%29 Î¬»ù°Ù¿Æ] ËüµÄ¡°ÆóÒµ500Ç¿ÅÅĞĞ°ñ¡±¹ãÎªÈËÖª
+| '''è´¢å¯Œ''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E8%B2%A1%E5%AF%8C_%28%E9%9B%9C%E8%AA%8C%29 ç»´åŸºç™¾ç§‘] å®ƒçš„â€œä¼ä¸š500å¼ºæ’è¡Œæ¦œâ€å¹¿ä¸ºäººçŸ¥
 |-
 | &nbsp; || [http://www.fortune.com/] || Web || English Homepage
 |-
 | &nbsp; || [https://twitter.com/fortunemagazine @FortuneMagazine] || Twitter || English Twitter
 |-
-| &nbsp; || [http://www.fortunechina.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.fortunechina.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |}
 
-== Å·ÖŞ ==
+== æ¬§æ´² ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''½ğÈÚÊ±±¨''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E6%99%82%E5%A0%B1 Î¬»ù°Ù¿Æ]
+| '''é‡‘èæ—¶æŠ¥''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E6%99%82%E5%A0%B1 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.ft.com/] || Web || English Homepage
 |-
@@ -637,15 +637,15 @@
 |-
 | &nbsp; || [https://twitter.com/financialtimes @FinancialTimes] || Twitter || English Twitter
 |-
-| &nbsp; || [http://www.ftchinese.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.ftchinese.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.ftchinese.com/rss/news ½ñÈÕ½¹µã] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.ftchinese.com/rss/news ä»Šæ—¥ç„¦ç‚¹] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://www.ftchinese.com/rss/feed Ã¿ÈÕĞÂÎÅ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.ftchinese.com/rss/feed æ¯æ—¥æ–°é—»] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://www.ftchinese.com/rss/hotstoryby7day Ò»ÖÜÊ®´óÈÈÃÅÎÄÕÂ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.ftchinese.com/rss/hotstoryby7day ä¸€å‘¨åå¤§çƒ­é—¨æ–‡ç« ] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| '''¾­¼ÃÑ§ÈË''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA Î¬»ù°Ù¿Æ]
+| '''ç»æµå­¦äºº''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.economist.com/] || Web || English Homepage
 |-
@@ -660,95 +660,95 @@
 | &nbsp; || [https://twitter.com/TheEconomist @TheEconomist] || Twitter || English Twitter
 |}
 
-== Ìì³¯ ==
+== å¤©æœ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''²ÆĞÂ´«Ã½''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E8%B4%A2%E6%96%B0%E4%BC%A0%E5%AA%92 Î¬»ù°Ù¿Æ]
+| '''è´¢æ–°ä¼ åª’''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E8%B4%A2%E6%96%B0%E4%BC%A0%E5%AA%92 ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.caixin.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.caixin.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://blog.caixin.com/feed ²ÆĞÂ²©¿Í] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://blog.caixin.com/feed è´¢æ–°åšå®¢] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/caing_com @caing_com] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/caing_com @caing_com] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''¾­¼Ã¹Û²ì±¨''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F%E6%8A%A5 Î¬»ù°Ù¿Æ]
+| '''ç»æµè§‚å¯ŸæŠ¥''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F%E6%8A%A5 ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.eeo.com.cn/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.eeo.com.cn/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [http://www.eeo.com.cn/ens/] || Web || English Homepage
 |-
-| &nbsp; || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=17 Õş¾­ÒªÎÅ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=17 æ”¿ç»è¦é—»] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=64 ÉÌÒµÆÀÂÛ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=64 å•†ä¸šè¯„è®º] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=96 ¹Û²ì¼Ò] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=96 è§‚å¯Ÿå®¶] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| '''21ÊÀ¼Í¾­¼Ã±¨µÀ''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93 Î¬»ù°Ù¿Æ]
+| '''21ä¸–çºªç»æµæŠ¥é“''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93 ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.21cbh.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.21cbh.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://news.21cbh.com/?c=focus ½ñÈÕ½¹µã] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://news.21cbh.com/?c=focus ä»Šæ—¥ç„¦ç‚¹] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| &nbsp; || [http://news.21cbh.com/?c=blog ²©¿Í] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://news.21cbh.com/?c=blog åšå®¢] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| '''²Æ¾­Íø''' || [http://www.caijing.com.cn/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| '''è´¢ç»ç½‘''' || [http://www.caijing.com.cn/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |}
 
-== Ïã¸Û ==
+== é¦™æ¸¯ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''Ïã¸Û½›úÈÕˆó''' || [http://www.hket.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| '''é¦™æ¸¯ç¶“æ¿Ÿæ—¥å ±''' || [http://www.hket.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| '''Ïã¸ÛÉÌ±¨-ÖĞ‡ø´°''' || [http://www.hkcd.com.hk/] || Web || ·±ówÖĞÎÄÖ÷í“
+| '''é¦™æ¸¯å•†æŠ¥-ä¸­åœ‹çª—''' || [http://www.hkcd.com.hk/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |}
 
-== Å_³ ==
+== è‡ºç£ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| ÉÌÒµÖÜ¿¯ || &nbsp; || &nbsp; || Ì¨Íå·¢ĞĞÁ¿×î´óµÄ²Æ¾­Àà¿¯Îï ×Ü²¿ÔÚÌ¨±± £¨¸úÃÀ¹úµÄ¡¶ÉÌÒµÖÜ¿¯¡·Ã»¹ØÏµ£©
+| å•†ä¸šå‘¨åˆŠ || &nbsp; || &nbsp; || å°æ¹¾å‘è¡Œé‡æœ€å¤§çš„è´¢ç»ç±»åˆŠç‰© æ€»éƒ¨åœ¨å°åŒ— ï¼ˆè·Ÿç¾å›½çš„ã€Šå•†ä¸šå‘¨åˆŠã€‹æ²¡å…³ç³»ï¼‰
 |-
-| &nbsp; || [http://www.businessweekly.com.tw/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://www.businessweekly.com.tw/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://feeds.feedburner.com/bw-mix ×îĞÂ¾CºÏÎÄÕÂ] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://feeds.feedburner.com/bw-mix æœ€æ–°ç¶œåˆæ–‡ç« ] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [http://feeds.feedburner.com/bw-news Ã¿ÈÕØ”½›¾WÕª] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://feeds.feedburner.com/bw-news æ¯æ—¥è²¡ç¶“ç¶²æ‘˜] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [http://feeds.feedburner.com/bw-ranking ±¾ßLŸáéTÅÅĞĞ] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://feeds.feedburner.com/bw-ranking æœ¬é€±ç†±é–€æ’è¡Œ] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |}
 
-== ÈÕ±¾ ==
+== æ—¥æœ¬ ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| ÈÕ±¾¾­¼ÃĞÂÎÅ || &nbsp; || &nbsp; || ºÅ³ÆÈÕ±¾·¢ĞĞÁ¿×î´ó´ò²Æ¾­±¨Ö½ ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%B6%93%E6%BF%9F%E6%96%B0%E8%81%9E Î¬»ù°Ù¿Æ]
+| æ—¥æœ¬ç»æµæ–°é—» || &nbsp; || &nbsp; || å·ç§°æ—¥æœ¬å‘è¡Œé‡æœ€å¤§æ‰“è´¢ç»æŠ¥çº¸ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%B6%93%E6%BF%9F%E6%96%B0%E8%81%9E ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://cn.nikkei.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://cn.nikkei.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://zh.cn.nikkei.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://zh.cn.nikkei.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://cn.nikkei.com/rss.html ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://cn.nikkei.com/rss.html è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| &nbsp; || [http://zh.cn.nikkei.com/rss.html Ó†é‡] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://zh.cn.nikkei.com/rss.html è¨‚é–²] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |}
 
 
 ----
 
-= IT¼¼ÊõÀàÍøÕ¾ =
+= ITæŠ€æœ¯ç±»ç½‘ç«™ =
 
-== ¹úÍâ ==
+== å›½å¤– ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''Á¬Ïß''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E8%BF%9E%E7%BA%BF Î¬»ù°Ù¿Æ]
+| '''è¿çº¿''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E8%BF%9E%E7%BA%BF ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://wired.com/] || Web || Engilsh Homepage
 |-
@@ -756,13 +756,13 @@
 |-
 | &nbsp; || [https://twitter.com/WIRED @WIRED] || Twitter || English Twitter
 |-
-| &nbsp; || [http://wired.tw/] || Web || ·±ówÖĞÎÄÖ÷í“ 2012Äê„‚ÉÏ¾€²»¾Ã
+| &nbsp; || [http://wired.tw/] || Web || ç¹é«”ä¸­æ–‡ä¸»é  2012å¹´å‰›ä¸Šç·šä¸ä¹…
 |-
-| &nbsp; || [http://feeds.feedburner.com/wired/tw WIRED.tw] || RSS || ·±ówÖĞÎÄ ÕªÒªİ”³ö
+| &nbsp; || [http://feeds.feedburner.com/wired/tw WIRED.tw] || RSS || ç¹é«”ä¸­æ–‡ æ‘˜è¦è¼¸å‡º
 |-
-| &nbsp; || [https://twitter.com/WiredTaiwan @WIRED] || Twitter || ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/WiredTaiwan @WIRED] || Twitter || ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''Ars Technica''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/Ars_Technica Î¬»ù°Ù¿Æ]
+| '''Ars Technica''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/Ars_Technica ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://arstechnica.com/] || Web || Engilsh Homepage
 |-
@@ -774,11 +774,11 @@
 |-
 | &nbsp; || [https://plus.google.com/+ArsTechnica +ArsTechnica] || G+ || English
 |-
-| '''TechCrunch''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/TechCrunch Î¬»ù°Ù¿Æ]
+| '''TechCrunch''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/TechCrunch ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://techcrunch.com/] || Web || Engilsh Homepage
 |-
-| &nbsp; || [http://techcrunch.cn/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://techcrunch.cn/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [http://feeds.feedburner.com/TechCrunch/ Feed] || RSS || English, summary
 |-
@@ -786,7 +786,7 @@
 |-
 | &nbsp; || [https://plus.google.com/+TechCrunch +TechCrunch] || G+ || English
 |-
-| '''Mashable''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/Mashable Î¬»ù°Ù¿Æ]
+| '''Mashable''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/Mashable ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://mashable.com/] || Web || Engilsh Homepage
 |-
@@ -796,7 +796,7 @@
 |-
 | &nbsp; || [https://plus.google.com/+Mashable +Mashable] || G+ || English
 |-
-| '''Engadget''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://en.wikipedia.org/wiki/Engadget Î¬»ù°Ù¿Æ]
+| '''Engadget''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://en.wikipedia.org/wiki/Engadget ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.engadget.com/] || Web || Engilsh Homepage
 |-
@@ -806,27 +806,27 @@
 |-
 | &nbsp; || [https://plus.google.com/+Engadget +Engadget] || G+ || English
 |-
-| &nbsp; || [http://cn.engadget.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://cn.engadget.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://cn.engadget.com/rss.xml ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö Æ½¾ù110Ìû/ÖÜ
+| &nbsp; || [http://cn.engadget.com/rss.xml è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º å¹³å‡110å¸–/å‘¨
 |-
-| &nbsp; || [http://chinese.engadget.com/] || Web || ·±ówÖĞÎÄÖ÷í“
+| &nbsp; || [http://chinese.engadget.com/] || Web || ç¹é«”ä¸­æ–‡ä¸»é 
 |-
-| &nbsp; || [http://chinese.engadget.com/rss.xml Ó†é†] || RSS || ·±ówÖĞÎÄ È«ÎÄİ”³ö Æ½¾ù110Ìû/ÖÜ
+| &nbsp; || [http://chinese.engadget.com/rss.xml è¨‚é–±] || RSS || ç¹é«”ä¸­æ–‡ å…¨æ–‡è¼¸å‡º å¹³å‡110å¸–/å‘¨
 |-
-| &nbsp; || [https://twitter.com/engadgettaiwan @EngadgetTaiwan] || Twitter || ·±ówÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/engadgettaiwan @EngadgetTaiwan] || Twitter || ç¹é«”ä¸­æ–‡æ¨ç‰¹
 |-
-| '''Hacker News''' || &nbsp; || &nbsp; || Ó¢ÎÄËõĞ´HN ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/Hacker_News Î¬»ù°Ù¿Æ]
+| '''Hacker News''' || &nbsp; || &nbsp; || è‹±æ–‡ç¼©å†™HN ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/Hacker_News ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://news.ycombinator.com/] || Web || Engilsh Homepage
 |-
 | &nbsp; || [http://news.ycombinator.com/rss Feed] || RSS || English, full text
 |-
-| &nbsp; || [http://www.daemonology.net/hn-daily/index.rss Daily Feed] || RSS || NHµÄ·¢ÌûÁ¿Ì«´óÁË ÕâÊÇÓÉµÚÈı·½Ìá¹©µÄÃ¿ÈÕ¾«Ñ¡
+| &nbsp; || [http://www.daemonology.net/hn-daily/index.rss Daily Feed] || RSS || NHçš„å‘å¸–é‡å¤ªå¤§äº† è¿™æ˜¯ç”±ç¬¬ä¸‰æ–¹æä¾›çš„æ¯æ—¥ç²¾é€‰
 |-
 | &nbsp; || [https://twitter.com/newsycombinator @HackerNews] || Twitter || English
 |-
-| '''Reddit''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/Reddit Î¬»ù°Ù¿Æ]
+| '''Reddit''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/Reddit ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [https://www.reddit.com/] || Web || Engilsh Homepage
 |-
@@ -834,7 +834,7 @@
 |-
 | &nbsp; || [https://plus.google.com/+reddit +reddit] || G+ || English
 |-
-| '''Slashdot''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/Slashdot Î¬»ù°Ù¿Æ]
+| '''Slashdot''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/Slashdot ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.slashdot.org/] || Web || Engilsh Homepage
 |-
@@ -844,11 +844,11 @@
 |-
 | &nbsp; || [https://plus.google.com/+slashdot +slashdot] || G+ || English
 |-
-| '''MIT ¼¼ÊõÆÀÂÛ''' || &nbsp; || &nbsp; || ÓĞÒ»°Ù¶àÄêÀúÊ· ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%A7%91%E6%8A%80%E5%88%9B%E4%B8%9A Î¬»ù°Ù¿Æ]
+| '''MIT æŠ€æœ¯è¯„è®º''' || &nbsp; || &nbsp; || æœ‰ä¸€ç™¾å¤šå¹´å†å² ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%A7%91%E6%8A%80%E5%88%9B%E4%B8%9A ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.technologyreview.com/] || Web || Engilsh Homepage
 |-
-| &nbsp; || [http://www.techreviewchina.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.techreviewchina.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [http://feeds.technologyreview.com/technology_review_top_stories Technology Review Top Stories] || RSS || English, summary, 100 posts/week
 |-
@@ -857,122 +857,122 @@
 | &nbsp; || [https://plus.google.com/+technologyreview +TechnologyReview] || G+ || English
 |}
 
-== ¹úÄÚ ==
+== å›½å†… ==
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''Solidot''' || &nbsp; || &nbsp; || ÍêÈ«Ä£·ÂSlashdot ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/Solidot Î¬»ù°Ù¿Æ]
+| '''Solidot''' || &nbsp; || &nbsp; || å®Œå…¨æ¨¡ä»¿Slashdot ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/Solidot ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.solidot.org/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.solidot.org/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://feeds.feedburner.com/solidot ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö ·¢ÌûÁ¿Í¦´ó Æ½¾ù100Ìû/ÖÜ
+| &nbsp; || [http://feeds.feedburner.com/solidot è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º å‘å¸–é‡æŒºå¤§ å¹³å‡100å¸–/å‘¨
 |-
-| &nbsp; || [https://twitter.com/solidot @solidot] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/solidot @solidot] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''°®·¶¶ù''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%88%B1%E8%8C%83%E5%84%BF Î¬»ù°Ù¿Æ]
+| '''çˆ±èŒƒå„¿''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%88%B1%E8%8C%83%E5%84%BF ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.ifanr.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.ifanr.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://www.ifanr.com/feed ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://www.ifanr.com/feed è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/ifanr @ifanr] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/ifanr @ifanr] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''36ë´''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/36%E6%B0%AA Î¬»ù°Ù¿Æ]
+| '''36æ°ª''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/36%E6%B0%AA ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://36kr.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://36kr.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://36kr.com/feed ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://36kr.com/feed è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/36kr @36kr] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/36kr @36kr] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''cnBeta''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/zh/CnBeta.COM Î¬»ù°Ù¿Æ]
+| '''cnBeta''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/zh/CnBeta.COM ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.cnbeta.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.cnbeta.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://rss.cnbeta.com/rss ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://rss.cnbeta.com/rss è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
-| '''V2EX''' || &nbsp; || &nbsp; || ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/V2EX Î¬»ù°Ù¿Æ]
+| '''V2EX''' || &nbsp; || &nbsp; || ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/V2EX ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [https://v2ex.com/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [https://v2ex.com/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [https://v2ex.com/index.xml ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [https://v2ex.com/index.xml è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/v2ex @V2EX] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/v2ex @V2EX] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |}
 
 
 ----
 
-= ¿ÆÆÕÀàÍøÕ¾ =
+= ç§‘æ™®ç±»ç½‘ç«™ =
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''¿ÆÑ§ÃÀ¹úÈË''' || &nbsp; || &nbsp; || Ê¼ÓÚ1845Äê ÃÀ¹ú´æ»îÖÁ½ñ×î³¤ÃüµÄÔÓÖ¾ ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%BE%8E%E5%9B%BD%E4%BA%BA Î¬»ù°Ù¿Æ]
+| '''ç§‘å­¦ç¾å›½äºº''' || &nbsp; || &nbsp; || å§‹äº1845å¹´ ç¾å›½å­˜æ´»è‡³ä»Šæœ€é•¿å‘½çš„æ‚å¿— ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%BE%8E%E5%9B%BD%E4%BA%BA ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.scientificamerican.com/] || Web || Engilsh Homepage
 |-
-| &nbsp; || [http://www.huanqiukexue.com/ »·Çò¿ÆÑ§] || Web || ¼òÌåÖĞÎÄÖ÷Ò³ ÊÚÈ¨¸ø¡¶µçÄÔ±¨¡·ÔÓÖ¾Éç
+| &nbsp; || [http://www.huanqiukexue.com/ ç¯çƒç§‘å­¦] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ æˆæƒç»™ã€Šç”µè„‘æŠ¥ã€‹æ‚å¿—ç¤¾
 |-
-| &nbsp; || [http://sa.ylib.com/ ¿ÆŒWÈË] || Web || ·±ówÖĞÎÄÖ÷í“ ÊÚÈ¨¸øÌ¨ÍåßhÁ÷³ö°æ¹«Ë¾
+| &nbsp; || [http://sa.ylib.com/ ç§‘å­¸äºº] || Web || ç¹é«”ä¸­æ–‡ä¸»é  æˆæƒç»™å°æ¹¾é æµå‡ºç‰ˆå…¬å¸
 |-
-| '''¿ÆÑ§ËÉÊó»á''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E5%B5%87%E6%99%93%E5%8D%8E ¼§Ê®Èı]´´°ì ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E6%9D%BE%E9%BC%A0%E4%BC%9A Î¬»ù°Ù¿Æ]
+| '''ç§‘å­¦æ¾é¼ ä¼š''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E5%B5%87%E6%99%93%E5%8D%8E å§¬åä¸‰]åˆ›åŠ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E6%9D%BE%E9%BC%A0%E4%BC%9A ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://songshuhui.net/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://songshuhui.net/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://songshuhui.net/feed ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://songshuhui.net/feed è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/songshuhui @songshuhui] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/songshuhui @songshuhui] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |-
-| '''ĞÂÓïË¿''' || &nbsp; || &nbsp; || ·½ÖÛ×Ó´´°ì ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/%E6%96%B0%E8%AF%AD%E4%B8%9D Î¬»ù°Ù¿Æ]
+| '''æ–°è¯­ä¸''' || &nbsp; || &nbsp; || æ–¹èˆŸå­åˆ›åŠ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/%E6%96%B0%E8%AF%AD%E4%B8%9D ç»´åŸºç™¾ç§‘]
 |-
-| &nbsp; || [http://www.xys.org/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.xys.org/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
-| &nbsp; || [http://feeds.feedburner.com/xys ¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ È«ÎÄÊä³ö
+| &nbsp; || [http://feeds.feedburner.com/xys è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ å…¨æ–‡è¾“å‡º
 |-
-| &nbsp; || [https://twitter.com/xys @xys] || Twitter || ¼òÌåÖĞÎÄÍÆÌØ
+| &nbsp; || [https://twitter.com/xys @xys] || Twitter || ç®€ä½“ä¸­æ–‡æ¨ç‰¹
 |}
 
 
 ----
 
-= ±à³ÌÀàÍøÕ¾ =
+= ç¼–ç¨‹ç±»ç½‘ç«™ =
 
 {|
-! Ãû³Æ !! Á´½Ó !! ÀàĞÍ !! ËµÃ÷
+! åç§° !! é“¾æ¥ !! ç±»å‹ !! è¯´æ˜
 |-
-| '''Stack Overflow''' || &nbsp; || &nbsp; || ×îºÃµÄ±à³ÌÎÊ´ğÍøÕ¾(Ã»ÓĞ¡°Ö®Ò»¡±) ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/Stack_Overflow Î¬»ù°Ù¿Æ]
+| '''Stack Overflow''' || &nbsp; || &nbsp; || æœ€å¥½çš„ç¼–ç¨‹é—®ç­”ç½‘ç«™(æ²¡æœ‰â€œä¹‹ä¸€â€) ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/Stack_Overflow ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://stackoverflow.com/] || Web || Engilsh Homepage
 |-
-| '''GitHub''' || &nbsp; || &nbsp; || ×îºÃµÄ¿ªÔ´ÏîÄ¿¼¯É¢µØ(Ã»ÓĞ¡°Ö®Ò»¡±) ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/GitHub Î¬»ù°Ù¿Æ]
+| '''GitHub''' || &nbsp; || &nbsp; || æœ€å¥½çš„å¼€æºé¡¹ç›®é›†æ•£åœ°(æ²¡æœ‰â€œä¹‹ä¸€â€) ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/GitHub ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [https://github.com/] || Web || Engilsh Homepage
 |-
-| '''Code Project''' || &nbsp; || &nbsp; || ÀÏÅÆµÄ±à³ÌÉçÇø ½éÉÜ²Î¼û[https://en.wikipedia.org/wiki/Code_Project Î¬»ù°Ù¿Æ]
+| '''Code Project''' || &nbsp; || &nbsp; || è€ç‰Œçš„ç¼–ç¨‹ç¤¾åŒº ä»‹ç»å‚è§[https://en.wikipedia.org/wiki/Code_Project ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://codeproject.com/] || Web || Engilsh Homepage
 |-
-| '''CodeCademy''' || &nbsp; || &nbsp; || Õâ¸öÊÊºÏĞÂÊÖÈëÃÅ ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/Codecademy Î¬»ù°Ù¿Æ]
+| '''CodeCademy''' || &nbsp; || &nbsp; || è¿™ä¸ªé€‚åˆæ–°æ‰‹å…¥é—¨ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/Codecademy ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.codecademy.com/] || Web || Engilsh Homepage
 |-
-| '''IBM DeveloperWorks''' || &nbsp; || &nbsp; || °üº¬¸÷¸öÁìÓòµÄ±à³ÌÎÄµµ ½éÉÜ²Î¼û[https://en.wikipedia.org/wiki/IBM_DeveloperWorks Î¬»ù°Ù¿Æ]
+| '''IBM DeveloperWorks''' || &nbsp; || &nbsp; || åŒ…å«å„ä¸ªé¢†åŸŸçš„ç¼–ç¨‹æ–‡æ¡£ ä»‹ç»å‚è§[https://en.wikipedia.org/wiki/IBM_DeveloperWorks ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://www.ibm.com/developerworks] || Web || Engilsh Homepage
 |-
-| &nbsp; || [http://www.ibm.com/developerworks/cn/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://www.ibm.com/developerworks/cn/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |-
 | &nbsp; || [http://www.ibm.com/developerworks/views/global/rss/libraryview.jsp Technical Library Feed] || RSS || English, summary
 |-
-| &nbsp; || [http://www.ibm.com/developerworks/cn/views/global/rss/libraryview.jsp ÎÄµµ¿â¶©ÔÄ] || RSS || ¼òÌåÖĞÎÄ ÕªÒªÊä³ö
+| &nbsp; || [http://www.ibm.com/developerworks/cn/views/global/rss/libraryview.jsp æ–‡æ¡£åº“è®¢é˜…] || RSS || ç®€ä½“ä¸­æ–‡ æ‘˜è¦è¾“å‡º
 |-
 | &nbsp; || [https://twitter.com/developerWorks @developerWorks] || Twitter || English
 |-
-| '''MSDN''' || &nbsp; || &nbsp; || WindowsÆ½Ì¨±à³Ì±¸²é ½éÉÜ²Î¼û[https://zh.wikipedia.org/wiki/MSDN%E6%8A%80%E6%9C%AF%E8%B5%84%E6%BA%90%E5%BA%93 Î¬»ù°Ù¿Æ]
+| '''MSDN''' || &nbsp; || &nbsp; || Windowså¹³å°ç¼–ç¨‹å¤‡æŸ¥ ä»‹ç»å‚è§[https://zh.wikipedia.org/wiki/MSDN%E6%8A%80%E6%9C%AF%E8%B5%84%E6%BA%90%E5%BA%93 ç»´åŸºç™¾ç§‘]
 |-
 | &nbsp; || [http://msdn.microsoft.com/en-us/library/] || Web || Engilsh Homepage
 |-
-| &nbsp; || [http://msdn.microsoft.com/zh-cn/library/] || Web || ¼òÌåÖĞÎÄÖ÷Ò³
+| &nbsp; || [http://msdn.microsoft.com/zh-cn/library/] || Web || ç®€ä½“ä¸­æ–‡ä¸»é¡µ
 |}
