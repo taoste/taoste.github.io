@@ -4,7 +4,7 @@
 |-
 | '''首页''' || [https://github.com/taoste/taoste.github.io/blob/master/README.wiki (一)导航大全] || wiki || README.wiki
 |}
-详见↓↓↓
+更多↓↓↓
 = =
 = 科技博客 =
 陆续补充中>>>
