@@ -1,3 +1,3 @@
-<h1>网址收藏夹</h1>
+<h1>收藏夹</h1>
 
 1.[https://github.com/programthink/sites 【编程随想】收藏的各色网站]
