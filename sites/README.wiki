@@ -3,8 +3,8 @@
 详见↓↓↓
 = =
 
-= 技术博客 =
-== 技术&科普 ==
+= 科技博客 =
+== 技术科普类 ==
 {|
 1.编程随想的博客
 {|
@@ -39,7 +39,33 @@
 | &nbsp; || [https://github.com/program-think/blog] || web || GreatFire.org维护的博客镜像[此页已不再可用。]
 |}
 
-2.未分类
-
+2.月光博客
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''月光博客''' ||  &nbsp; || &nbsp; ||-关注互联网和搜索引擎的IT科技博客-介绍参见[https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2 维基百科] 
+|-
+| &nbsp; || [http://www.williamlong.info/] || web ||【月光博客】的主站点
+|-
+| &nbsp; || [http://www.williamlong.info/blog/ ] || web || 月光微博客
+|-
+| &nbsp; || [http://feed.williamlong.info/ 订阅博客] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://weibo.com/williamlong 关注新浪微博] || 微博 || 简体中文
+|-
+| &nbsp; || [http://t.qq.com/williamlong 关注腾讯微博] || 微博 || 简体中文
+|-
+| &nbsp; || [http://williamlong.qzone.qq.com/ 关注认证空间] || QZone || QQ空间-简体中文
+|-
+| '''推荐栏目''' ||  &nbsp; || &nbsp; ||介绍参见[http://www.williamlong.info/archives/ 网站导航]
+|-
+| &nbsp; || [http://www.williamlong.info/google/] || web || 谷歌地图观察
+|-
+| &nbsp; || [http://www.williamlong.info/apps/] || web || 移动应用观察
+|-
+| &nbsp; || [http://www.williamlong.info/info/] || web || 网站运营优化
+|-
+| &nbsp; || [http://www.williamlong.info/anni/] || web || 安妮宝贝的文集
+|}
 
 
