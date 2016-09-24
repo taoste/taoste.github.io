@@ -7,7 +7,7 @@ taoste.github.io
 |-
 | '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/sites (二)技术网站收藏夹] || wiki || README.wiki
 |}
-详见↓↓↓
+更多↓↓↓
 = =
 
 = 国际网站 =
