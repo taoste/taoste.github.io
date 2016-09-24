@@ -49,6 +49,10 @@
 |-
 | &nbsp; || [https://program-think.blogspot.com/] || web ||【编程随想】的博客主站点 (BlogSpot) 
 |-
+| &nbsp; || [http://feeds2.feedburner.com/programthink 订阅博客] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://program-think.blogspot.com/2013/06/email-subscription.html 邮件订阅] || Email || 简体中文 全文输出
+|-
 | &nbsp; || [mailtao:program.think@gmail.com] || web ||【编程随想】的邮箱 (Gmail) 
 |-
 | &nbsp; || [https://plus.google.com/113559088971921339544/posts] || web ||【编程随想】的Google+ 
@@ -69,8 +73,17 @@
 |-
 | '''外部链接''' ||  &nbsp; || &nbsp; ||介绍参见[https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2 维基百科] 
 |-
+| &nbsp; || [https://ptbooks.1984.city/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/ 热心读者提供的【博客镜像】] || web || &nbsp; 
+|-
+| &nbsp; || [https://ptbooks.1984.city/ 热心读者提供的【各类电子书镜像】] || web || &nbsp; 
+|-
 | &nbsp; || [https://github.com/greatfire/wiki] || web || GreatFire.org为编程随想开发的免翻墙APP
 |-
 | &nbsp; || [https://github.com/program-think/blog] || web || GreatFire.org维护的博客镜像[此页已不再可用。]
+|【免翻墙】的资源 |博客打包下载（用于离线浏览） 
+BTSync 同步密钥：（[https://program-think.blogspot.com/2015/03/blog-sync.html 使用说明]） 
+B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V 
+[https://ptbooks.1984.city/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/ 热心读者提供的【博客镜像】]（如失效，就改用上述 BTSync） 
 |}
+
 
