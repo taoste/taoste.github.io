@@ -81,7 +81,7 @@
 |-
 | &nbsp; || [https://github.com/program-think/blog] || web || GreatFire.org维护的博客镜像[此页已不再可用。]
 |}
-【免翻墙】的资源&nbsp;博客打包下载（用于离线浏览）&nbsp; 
+【免翻墙】的【编程随想的博客】资源&nbsp;博客打包下载（用于离线浏览）&nbsp; 
 BTSync 同步密钥：（[https://program-think.blogspot.com/2015/03/blog-sync.html 使用说明]） &nbsp;
 B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V 
 &nbsp;
