@@ -1,6 +1,10 @@
-<h1>技术网站收藏夹</h1>
+<h1>(二)技术网站收藏夹</h1>
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''首页''' || 返回[https://github.com/taoste/taoste.github.io/blob/master/README.wiki (一)导航大全] || wiki || README.wiki
+|}
 详见↓↓↓
-
 = =
 = 科技博客 =
 陆续补充中>>>
