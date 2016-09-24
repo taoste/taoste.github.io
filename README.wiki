@@ -1,11 +1,11 @@
 taoste.github.io
 
-<h1>网址收藏</h1>
+<h1>网址收藏[首页]</h1>
 
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/sites 技术网站收藏夹] || wiki || README.wiki
+| '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/sites (二)技术网站收藏夹] || wiki || README.wiki
 |}
 详见↓↓↓
 = =
