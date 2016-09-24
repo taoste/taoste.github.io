@@ -1,5 +1,5 @@
 # taoste.github.io
-Blog test
+<h1>Blog test</h1>
 
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
