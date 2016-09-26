@@ -98,6 +98,8 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |-
 | &nbsp; || [https://github.com/] || web || GitHub官方主站点
 |-
+| &nbsp; || [https://github.com/lifesinger] || GitHub || 淘宝著名前端工程师：玉伯lifesinger
+|-
 | &nbsp; || [https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng] || GitHub || 把廖雪峰Git教程整理成PDF版
 |-
 | &nbsp; || [https://github.com/hoosin/EveryDaySport] || GitHub || 天天锻炼计划
