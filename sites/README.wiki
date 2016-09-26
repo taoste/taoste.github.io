@@ -114,7 +114,7 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |-
 | &nbsp; || [http://www.liaoxuefeng.com/] || web || 廖雪峰的官方网站
 |-
-| &nbsp; || [http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000] || web ||  廖雪峰：Git教程
+| &nbsp; || [http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000 Git教程] || web ||  廖雪峰：Git教程
 |-
 | &nbsp; || [http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000 Python教程] || web || 廖雪峰：Python教程
 |-
