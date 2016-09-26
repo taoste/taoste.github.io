@@ -96,7 +96,9 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |-
 | '''GitHub源代码托管&开源社区''' ||  &nbsp; || &nbsp; ||介绍参见[https://zh.wikipedia.org/wiki/GitHub 维基百科] 
 |-
-| &nbsp; || [https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng] || web || 把廖雪峰Git教程整理成PDF版
+| &nbsp; || [https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng] || GitHub || 把廖雪峰Git教程整理成PDF版
 |-
-| &nbsp; || [https://github.com/hoosin/EveryDaySport] || web || 天天锻炼计划
+| &nbsp; || [https://github.com/hoosin/EveryDaySport] || GitHub || 天天锻炼计划
+|-
+| &nbsp; || [https://github.com/hoosin/free-programming-books-zh_CN] || GitHub || 免费的计算机编程类中文书籍
 |}
