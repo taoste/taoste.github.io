@@ -105,4 +105,18 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 | &nbsp; || [https://github.com/hoosin/EveryDaySport] || GitHub || 天天锻炼计划
 |-
 | &nbsp; || [https://github.com/hoosin/free-programming-books-zh_CN] || GitHub || 免费的计算机编程类中文书籍
+|-
+| '''GitHub 使用手册''' || &nbsp;  || &nbsp; ||介绍参见[] 
+|-
+| &nbsp; || [http://wiki.jikexueyuan.com/project/github-basics/] || web || GitHub 使用手册 - 基础篇
+|-
+| '''廖雪峰的官方网站''' || &nbsp;  || &nbsp; ||介绍参见[http://www.zhihu.com/people/liaoxuefeng 知乎] 
+|-
+| &nbsp; || [http://www.liaoxuefeng.com/] || web || 廖雪峰的官方网站
+|-
+| &nbsp; || [http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000] || web ||  廖雪峰：Git教程
+|-
+| &nbsp; || [http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000 Python教程] || web || 廖雪峰：Python教程
+|-
+| &nbsp; || [http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000 JavaScript教程] || web || 廖雪峰：JavaScript教程
 |}
