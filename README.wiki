@@ -29,6 +29,8 @@ taoste.github.io
 |-
 | &nbsp; || [https://www.google.com/?hl=zh_CN] ||  Web || Google谷歌-[简体中文]
 |-
+| &nbsp; || [https://www.google.com/doodles/?hl=zh_CN] ||  Web || Google 涂鸦-[简体中文]
+|-
 | &nbsp; || [https://translate.google.com/?hl=zh-CN] ||  Web || Google翻译-[简体中文]
 |-
 | &nbsp; || [https://translate.google.com/toolkit/?hl=zh-CN] ||  Web || Google 翻译（企业版）：译者工具包
