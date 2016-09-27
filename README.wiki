@@ -1,18 +1,38 @@
 taoste.github.io
 
-<h1>首页-README.wiki</h1>
+<h1>README.wiki</h1>
 
-<h2>①网址收藏-README.wiki</h2>
+<h2>①首页-README</h2>
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites (一)网址收藏[首页]] || wiki || ./intl/sites/
+| '''taoste.github.io''' || &nbsp; || &nbsp; || &nbsp;
 |-
-| '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites/Technology%20Web%20site%20Favorites (二)技术网站收藏夹] || wiki || ./intl/sites/Technology Web site Favorites/
+| &nbsp; ||[https://github.com/taoste/taoste.github.io/tree/master/images ./images/] || wiki || 图片
 |-
-| '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites/Software%20Web%20site%20Favorites (三)软件收藏夹] || wiki || ./intl/sites/Software Web site Favorites/
+| &nbsp; ||  [https://github.com/taoste/taoste.github.io/tree/master/intl ./intl/] || wiki || 
+|-
+| &nbsp; ||  &nbsp; || Blog || &nbsp;
+|-
+| &nbsp; ||  &nbsp; || Link || &nbsp;
+|-
+| &nbsp; ||  &nbsp; || Tool || &nbsp;
+|-
+| &nbsp; ||  &nbsp; || Web || &nbsp;
+|-
+| &nbsp; ||  &nbsp; || sites || &nbsp;
+|-
+| &nbsp; ||  &nbsp; || test || &nbsp;
+|-
+| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/.gitignore .gitignore] || wiki || 
+|-
+| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/CNAME CNAME] || wiki ||  
+|-
+| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/LICENSE LICENSE] || wiki || 
+|-
+| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/README.wiki README.wiki || wiki || &nbsp;
 |}
- 网址收藏[https://github.com/taoste/taoste.github.io/tree/master/intl/sites 更多↓↓↓]
+
  
 <h2>①网址收藏-README.wiki</h2>
 {|
