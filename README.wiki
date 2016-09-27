@@ -55,5 +55,6 @@ taoste.github.io 更多↓↓↓
 
 == ③图片==
 
-![美女养眼](https://github.com/taoste/taoste.github.io/blob/master/images/mm.jpg)
+![美女养眼](https://github.com/taoste/taoste.github.io/images/mm.jpg)
+![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
 
