@@ -100,7 +100,7 @@ taoste.github.io
 |-
 | &nbsp; || [https://github.com/racaljk/hosts google-hosts文件] ||  Web ||最新可用的google hosts文件
 |-
-| &nbsp; || [https://github.com/racaljk/hosts google-hosts文件-镜像] ||  Web ||最新可用的google hosts文件：[https://coding.net/u/scaffrey/p/hosts/git coding镜像] 
+| &nbsp; || [https://coding.net/u/scaffrey/p/hosts/git google-hosts文件-镜像] ||  Web ||google hosts文件：[https://coding.net/u/scaffrey/p/hosts/git coding镜像] 
 |}
 
 == 微软Microsoft ==
