@@ -66,10 +66,10 @@
 |}
 
 == ③美图赏析 ==
-<img>https://github.com/taoste/taoste.github.io/blob/master/images/mm.jpg</img>
-![](https://github.com/taoste/taoste.github.io/blob/master/images/mm.jpg?raw=true)
+# <img>https://github.com/taoste/taoste.github.io/blob/master/images/mm.jpg</img>
+# <img>https://github.com/taoste/taoste.github.io/blob/master/images/shengshi.png</img>
+# <img>https://github.com/taoste/taoste.github.io/blob/master/images/ziwu.jpg</img>
 
 == ④关注微信==
-<img>https://github.com/taoste/taoste.github.io/blob/master/images/qrcode.jpg</img>
-![](https://github.com/taoste/taoste.github.io/blob/master/images/qrcode.jpg?raw=true)
+# <img>https://github.com/taoste/taoste.github.io/blob/master/images/qrcode.jpg</img>
 
