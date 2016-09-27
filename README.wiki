@@ -1,16 +1,22 @@
-taoste.github.io
 
 <h1>README.wiki</h1>
+taoste.github.io 更多↓↓↓
+= =
 
-<h2>①首页-README</h2>
+= 阅读说明README.wiki =
+
+为了看起来方便，按照files分类。
+
+== ①首页-README ==
+
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
 | '''taoste.github.io''' || &nbsp; || &nbsp; || &nbsp;
 |-
-| &nbsp; ||[https://github.com/taoste/taoste.github.io/tree/master/images ./images/] || wiki || 图片
+| &nbsp; ||[https://github.com/taoste/taoste.github.io/tree/master/images ./images/] || Files || 图片
 |-
-| &nbsp; ||  [https://github.com/taoste/taoste.github.io/tree/master/intl ./intl/] || wiki || 
+| &nbsp; ||  [https://github.com/taoste/taoste.github.io/tree/master/intl ./intl/] || Files || 
 |-
 | &nbsp; ||  &nbsp; || Blog || &nbsp;
 |-
@@ -34,7 +40,8 @@ taoste.github.io
 |}
 
  
-<h2>①网址收藏-README.wiki</h2>
+== ②网址收藏-README ==
+
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
