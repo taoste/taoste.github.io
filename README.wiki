@@ -67,7 +67,9 @@
 
 == ③美图赏析 ==
 <img>https://github.com/taoste/taoste.github.io/blob/master/images/mm.jpg</img>
-== ④关注我哟==
+![](https://github.com/taoste/taoste.github.io/blob/master/images/mm.jpg?raw=true)
+
+== ④关注微信==
 <img>https://github.com/taoste/taoste.github.io/blob/master/images/qrcode.jpg</img>
-![](/images/qrcode.jpg?raw=true)
+![](https://github.com/taoste/taoste.github.io/blob/master/images/qrcode.jpg?raw=true)
 
