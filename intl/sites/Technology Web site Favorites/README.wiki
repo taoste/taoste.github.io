@@ -134,6 +134,8 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |-
 | &nbsp; || [http://pein0119.github.io/] || web || 参见github ：[https://github.com/pein0119/pein0119.github.io pein0119] 
 |-
+| &nbsp; || [http://laobie.github.io] || web || 参见github ：[https://github.com/laobie/laobie.github.io Jaeger] 
+|-
 | &nbsp; || [http://blog.cssforest.org/] || web || CSS森林(CSS Forest)
 
 |}
