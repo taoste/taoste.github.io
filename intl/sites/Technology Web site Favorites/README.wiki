@@ -2,7 +2,11 @@
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''首页''' || [https://github.com/taoste/taoste.github.io/blob/master/README.wiki (一)导航大全] || wiki || README.wiki
+| '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites (一)网址收藏[首页]] || wiki || ./intl/sites/
+|-
+| '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites/Technology%20Web%20site%20Favorites (二)技术网站收藏夹] || wiki || ./intl/sites/Technology Web site Favorites/
+|-
+| '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites/Software%20Web%20site%20Favorites (三)软件收藏夹] || wiki || ./intl/sites/Software Web site Favorites/
 |}
 更多↓↓↓
 
