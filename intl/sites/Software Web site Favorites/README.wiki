@@ -1,0 +1,268 @@
+<h1>(三)软件收藏夹</h1>
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''首页''' || [https://github.com/taoste/taoste.github.io/blob/master/README.wiki (一)导航大全] || wiki || README.wiki
+|-
+| '''首页''' || [https://github.com/taoste/taoste.github.io/blob/master/README.wiki (二)导航大全] || wiki || README.wiki
+|}
+更多↓↓↓
+
+= =
+
+= PC系统&应用类 =
+陆续补充中>>>
+
+== 1.操作系统 ==
+
+{|
+! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
+|-
+| '''Linux''' ||  &nbsp; || &nbsp; || ☆☆★☆☆ ||--介绍参见[ 维基百科] 
+|-
+| &nbsp; || [http://www.williamlong.info/]  || ★★★★★ || PC || Debian Linux 操作系统
+|-
+| '''虚拟机''' ||  &nbsp;  || ★★★★★ || &nbsp; ||介绍参见[ 网站导航]
+|-
+| &nbsp; || [https://www.virtualbox.org/wiki/Downloads VirtualBox] || ★★★★★  || PC || （开源虚拟机）官网下载
+|}
+
+== 2.应用软件 ==
+
+{|
+! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
+|-
+| '''网页浏览器''' ||  &nbsp;  || ★★★★★ || &nbsp; ||介绍参见[ 网站导航]
+|-
+| &nbsp; || [Google Chrome] || ★★★★★  || PC || 推荐官网下载（谷歌浏览器）国际版
+|-
+| &nbsp; || [Mozilla Firefox ] || ★★★★★  || PC || 推荐官网下载（火狐）国际版
+|-
+| &nbsp; || [liebao] || ★★★★★  || PC || 推荐官网下载（金山猎豹）国际版
+|-
+| '''网页浏览器插件''' ||  &nbsp;  || ★★★★★ || &nbsp; ||介绍参见[ 网站导航]
+|-
+| &nbsp; || [有道云笔记网页剪报] || ★★★★★  || PC || 推荐[https://chrome.google.com/webstore/category/appsChrome 网上应用店]-下载
+|-
+| &nbsp; || [https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?utm_source=chrome-app-launcher-info-dialog 印象笔记·剪藏] || ★★★★★  || PC || 推荐[https://chrome.google.com/webstore/category/appsChrome 网上应用店]-下载
+|-
+| &nbsp; || [https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb?utm_source=chrome-app-launcher-info-dialog 惠惠购物助手] || ★★★★★  || PC || 推荐[https://chrome.google.com/webstore/category/appsChrome 网上应用店]-下载
+|-
+| '''Office办公''' ||  &nbsp;  || ★★★★★ || &nbsp; ||介绍参见[ 网站导航]
+|-
+| &nbsp; || [Microsoft Office 2016] || ★★★★★  || PC || 推荐官网下载
+|-
+| &nbsp; || [office2003 官方兼容包（向上兼容2007、2010、2013）] || ★★★★★  || PC || 推荐官网下载
+|-
+| &nbsp; || [金山 WPS Office] || ★★★★★  || PC || 推荐官网下载
+|-
+| &nbsp; || [Solid PDF Tools v9 （PDF编辑软件）] || ★★★★★  || PC || 推荐官网下载
+|-
+| &nbsp; || [PDF to PowerPoint 1.4.1.0] || ★★★★★  || PC || PDF 转换为 PPT、PPTX 转换器
+|-
+| &nbsp; || [PDF to PowerPoint 1.4.1.0] || ★★★★★  || PC || PDF虚拟打印机破解版
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 印象笔记
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 有道云笔记
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 侠客密码查看工具
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Advanced Office Password Recovery
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || FPDFCJK.BIN 是 Foxit Reader中、日、韩CJK文字符支持包(下载)
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 方正静蕾简体 免激活版
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 音标字体Kingsoft+Phonetic+Plain.ttf
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 好压(HaoZip)
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 7-zip(开源解压缩软件)
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Avast Free Antivirus
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || CCleaner（64bit）电脑垃圾清理工具
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || rufus-2.2（Windows 10安装U盘创建工具）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || TinyTask 1.50 - 免费的电脑操作步骤录制与播放软件
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || PCHunter64系统检测小工具
+|-
+| &nbsp; || [http://www.microsoft.com/zh-cn/download/details.aspx?id=35844 BingDesktopSetup] || ★★★★★  || PC || 必应Bing缤纷桌面-是微软必应(Bing)推出的新一代桌面客户端。它可以自动把必应首页每日美图同步为你的电脑壁纸，同时在桌面嵌有必应搜索框，让你无须打开浏览器，即可开始快捷搜索，且支持在文档/浏览器中直接划词搜索。附带的焦点资讯、热门图片每日更新，让你随时与世界保持信息同步。最大的特色是支持必应小助手，可自定义制作自己的专属头像，可爱语音为你播报天气和新闻。
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 驱动精灵
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 钉钉
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 阿里旺旺
+|-
+| &nbsp; || [ Tencent QQ ] || ★★★★★  || PC || （QQ国际版）
+|-
+| &nbsp; || [http://weixin.qq.com/] || ★★★★★  || PC || 微信PC客户端
+|-
+| &nbsp; || [QQPlayer] || ★★★★★  || PC ||  （QQ影音）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 酷狗音乐
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 酷我K歌（酷我LRC歌词编辑工具 V1.0 绿色版）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Kodi 中文版开源多媒体影音中心播放器 - 打造家庭影院高清电影库必备软件神器
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || KMPlayer万能播放器
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || foobar2000音频播放软件
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 音乐间谍V2.9
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || TagScanner(MP3标签编辑批量更名)
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 电脑音效增强软件[09最新版SRS Audio Sandbox 1.9.0.4内附注册机及汉化程序]
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 开启麦克风调控补丁
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || FormatFactory （格式工厂）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 奇艺qsv格式转换器(qsv2flv) v3.1
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || ultraiso光盘刻录
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || IrfanView （开源看图软件）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Aneesoft3DFlashGallery_2.4.0.0_PortableSoft
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Kindle
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || calibre-portable电子书阅读管理软件-绿色便携版
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || FileZilla Client （FTP网站文件上传）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Thunder （迅雷）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || EagleGet （猎鹰下载）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 百度云管家
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 腾讯微云
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 金山快盘-云U盘
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 天翼云ecloud
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 360云盘
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 线刷宝
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 刷机精灵
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || U大师启动盘制作工具
+|}
+
+== 2.效率工具 ==
+
+{|
+! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || TeamViewer
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 向日葵客户端（绿色版）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || XMind
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || MindManager
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Notepad++(文本编辑器)
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || gephi-0.9.0-windows
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || PPT播放提示钟 PPTTimer
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Fastcopy 汉化绿色版_最快文件拷贝工具
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Everything(文件快速搜索工具)
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || FastStone Capture(FSCapture)绿色汉化版
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || FindDupFile (搜索重复文件)
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 录制屏幕Screen2Exe免费汉化版
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || FinalData数据恢复
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 硬盘数据恢复 Ontrack EasyRecovery Ent 11.0.1.0 汉化特别版
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Recuva 1.52.1086 绿色完全汉化版_修复被误删除的文件
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || SmartDraw(图表绘制软件) V6.0 绿色汉化精简版(jb51.net)
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || JRelation人际关系管理软件
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 艺术签名设计系统 v2.0 [绿色破解版]
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 金山打字通
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 宏达会务管理系统绿色版 1.0
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 小骥会务管理系统
+|}
+
+== 3.设计师工具 ==
+
+{|
+! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 美图秀秀
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || GifCam最佳免费gif动画精细录制剪辑软件
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || USBWebserver （网站测试）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 快速产品原型设计软件- Axure RP Pro
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 【字体同步工具：SkyFonts】
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Photoshop CS6 (64bit）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Corel VideoStudio X9【会声会影】
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || CorelDRAW X7 (64-Bit)
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Adobe_After_Effects_CS6
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || Adobe Illustrator CS6
+|}
+
+== 4.网络攻防工具 ==
+
+{|
+! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || MyLanViewer绿色中文破解版_局域网扫描工具
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || 掌控局域网监控软件 1.028
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || VeraCrypt （开源加密软件）【新】
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || TrueCrypt（已停止开源更新不安全）【弃】
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || BitTorrent Sync （文件同步传输）
+|-
+| &nbsp; || [ ] || ★★★★★  || PC || BitComet
+|}
+
+== 5.科学上网 ==
+
+{|
+! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
+|-
+| &nbsp; || [https://www.getlantern.org/ Lantern] || ★★★★★  || PC || 【蓝灯】[https://github.com/getlantern/lantern github]
+|-
+| &nbsp; || [Zeronet] || ★★★★★  || PC ||  【零网】
+|-
+| &nbsp; || [https://www.torproject.org/download/download-easy.html.en  Start Tor Browser] || ★★★★★  || PC || 【Tor】[https://www.torproject.org/官网]
+|-
+| &nbsp; || [Psiphon] || ★★★★★  || PC || Psiphon[PC/Android]
+|-
+| &nbsp; || [I2P router console] || ★★★★★  || PC || 【I2P】
+|}
