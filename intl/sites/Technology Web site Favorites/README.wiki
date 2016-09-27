@@ -110,6 +110,10 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |-
 | &nbsp; || [https://github.com/hoosin/free-programming-books-zh_CN] || GitHub || 免费的计算机编程类中文书籍
 |-
+| '''coding.net源代码托管''' || &nbsp;  || &nbsp; || Coding-代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单
+|-
+| &nbsp; || [https://coding.net/] || web || coding官方主站点[https://coding.net/help/ Help帮助]
+|-
 | '''廖雪峰的官方网站''' || &nbsp;  || &nbsp; ||介绍参见[http://www.zhihu.com/people/liaoxuefeng 知乎] 
 |-
 | &nbsp; || [http://www.liaoxuefeng.com/] || web || 廖雪峰的官方网站
