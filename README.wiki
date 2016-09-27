@@ -6,7 +6,7 @@ taoste.github.io 更多↓↓↓
 = 阅读说明 =
 
 为了看起来方便，按照files分类。
->（欢迎使用**Cmd Markdown 编辑阅读器**，参阅：[https://github.com/taoste/Cmd-Markdown-help/issues/1 Cmd-Markdown-help] ）
+（欢迎使用 Cmd Markdown 编辑阅读器，参阅：[https://github.com/taoste/Cmd-Markdown-help/issues/1 Cmd-Markdown-help] ）
 
 == ①首页 ==
 
