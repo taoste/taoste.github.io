@@ -41,15 +41,15 @@
 |-
 | ./README.wiki|| [https://github.com/taoste/taoste.github.io/blob/master/README.wiki] || &nbsp; || 說明文档
 |-
-| ./README.zh-cn.md|| [https://github.com/taoste/taoste.github.io/blob/master/README.zh-cn.md] || &nbsp; || 說明文档【 语言版本: 简体中文】
+| ./README.zh-cn.md|| [https://github.com/taoste/taoste.github.io/blob/master/README.zh-cn.md] || &nbsp; || -语言版本: 简体中文
 |-
-| ./README.zh-tw.md|| [https://github.com/taoste/taoste.github.io/blob/master/README.zh-tw.md] || &nbsp; || 說明文档【 语言版本: 正體中文】
+| ./README.zh-tw.md|| [https://github.com/taoste/taoste.github.io/blob/master/README.zh-tw.md] || &nbsp; || -语言版本: 正體中文
 |-
-| ./README.en-us.md || [https://github.com/taoste/taoste.github.io/blob/master/README.en-us.md] || &nbsp; || 說明文档【 语言版本:  English】
+| ./README.en-us.md || [https://github.com/taoste/taoste.github.io/blob/master/README.en-us.md] || &nbsp; || -语言版本:  English
 |-
-| ./README.ja.md|| [https://github.com/taoste/taoste.github.io/blob/master/README.ja.md] || &nbsp; || 說明文档【 语言版本: 日本語】
+| ./README.ja.md|| [https://github.com/taoste/taoste.github.io/blob/master/README.ja.md] || &nbsp; || -语言版本: 日本語
 |-
-| ./README.ko.md|| [https://github.com/taoste/taoste.github.io/blob/master/README.ko.md] || &nbsp; || 說明文档【 语言版本:한국어】
+| ./README.ko.md|| [https://github.com/taoste/taoste.github.io/blob/master/README.ko.md] || &nbsp; || -语言版本:한국어
 |}
 
  
