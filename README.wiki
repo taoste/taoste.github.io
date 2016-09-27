@@ -32,11 +32,11 @@ taoste.github.io 更多↓↓↓
 |-
 | &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/.gitignore ./.gitignore] || wiki || &nbsp;
 |-
-| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/CNAME ./CNAME] || wiki ||  域名
+|./CNAME || [https://github.com/taoste/taoste.github.io/blob/master/CNAME] || &nbsp; ||  域名
 |-
-| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/LICENSE ./LICENSE] || wiki || &nbsp;
+|  ./LICENSE || [https://github.com/taoste/taoste.github.io/blob/master/LICENSE] || &nbsp; || &nbsp;
 |-
-| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/README.wiki ./README.wiki || wiki || &nbsp;
+| ./README.wiki|| [https://github.com/taoste/taoste.github.io/blob/master/README.wiki] || &nbsp; || &nbsp;
 |}
 
  
