@@ -49,7 +49,7 @@
 |-
 | &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/README.ja.md  README.ja.md] || &nbsp; || -语言版本: 日本語
 |-
-| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/README.ko.md README.ko.md] || &nbsp; || -语言版本:한국어
+| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/README.ko.md README.ko.md] || &nbsp; || -语言版本: 한국어
 |}
 
  
