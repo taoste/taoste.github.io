@@ -30,13 +30,13 @@ taoste.github.io 更多↓↓↓
 |-
 | &nbsp; ||  [https://github.com/taoste/taoste.github.io/tree/master/intl/test ./intl/test ] || Files || test 
 |-
-| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/.gitignore ./.gitignore] || wiki || &nbsp;
+| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/.gitignore ./.gitignore] || &nbsp; || &nbsp;
 |-
 |./CNAME || [https://github.com/taoste/taoste.github.io/blob/master/CNAME] || &nbsp; ||  域名
 |-
-|  ./LICENSE || [https://github.com/taoste/taoste.github.io/blob/master/LICENSE] || &nbsp; || &nbsp;
+|  ./LICENSE || [https://github.com/taoste/taoste.github.io/blob/master/LICENSE] || &nbsp; || 许可协议
 |-
-| ./README.wiki|| [https://github.com/taoste/taoste.github.io/blob/master/README.wiki] || &nbsp; || &nbsp;
+| ./README.wiki|| [https://github.com/taoste/taoste.github.io/blob/master/README.wiki] || &nbsp; || 說明文档
 |}
 
  
@@ -51,4 +51,4 @@ taoste.github.io 更多↓↓↓
 |-
 | '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites/Software%20Web%20site%20Favorites (三)软件收藏夹] || wiki || ./intl/sites/Software Web site Favorites/
 |}
- 网址收藏[https://github.com/taoste/taoste.github.io/tree/master/intl/sites 更多↓↓↓]
+ 网址收藏[https://github.com/taoste/taoste.github.io/tree/master/intl/sites 更多]
