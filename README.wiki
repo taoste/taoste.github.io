@@ -53,3 +53,6 @@ taoste.github.io 更多↓↓↓
 | '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites/Software%20Web%20site%20Favorites (三)软件收藏夹] || wiki || ./intl/sites/Software Web site Favorites/
 |}
 
+== ③图片==
+美女养眼
+![美女养眼](https://github.com/taoste/taoste.github.io/blob/master/images/mm.jpg)
