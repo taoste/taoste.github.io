@@ -114,8 +114,10 @@ taoste.github.io
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''维基百科''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91 维基百科]
+| '''维基百科''' || &nbsp; || &nbsp; || wikipedia介绍参见[https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91 维基百科]
 |-
-| &nbsp; || [https://zh.wikipedia.org/wiki/] ||  Web || 简体中文主页
+| &nbsp; || [https://zh.wikipedia.org/wiki/] ||  Web || 维基百科-简体中文主页
+|-
+| &nbsp; || [https://zh.wikipedia.org/wiki/Help:%E7%9B%AE%E5%BD%95 帮助:目录] ||  Web || 中文维基百科-帮助:目录
 |}
 
