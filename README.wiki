@@ -56,9 +56,8 @@
 |}
 
 == ③美图赏析 ==
-[[ /tree/master/images/mm.jpg ]]
-
+<img>https://github.com/taoste/taoste.github.io/blob/master/images/mm.jpg</img>
 == ④关注我哟==
-
+<img>https://github.com/taoste/taoste.github.io/blob/master/images/qrcode.jpg</img>
 ![](/images/qrcode.jpg?raw=true)
 
