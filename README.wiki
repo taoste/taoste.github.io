@@ -12,7 +12,7 @@ taoste.github.io 更多↓↓↓
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''目录结构''' || taoste.github.io || &nbsp; || &nbsp;
+| '''目录结构''' || &nbsp; || &nbsp; || taoste.github.io
 |-
 |  ./images/ ||[https://github.com/taoste/taoste.github.io/tree/master/images] || Files || 图片存储
 |-
