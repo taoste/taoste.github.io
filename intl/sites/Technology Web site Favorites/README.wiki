@@ -93,8 +93,21 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 &nbsp;
 [https://ptbooks.1984.city/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/ 热心读者提供的【博客镜像】]（如失效，就改用上述 BTSync） 
 
+= 科学上网 =
+陆续补充中>>>
 
-== 10.未分类 ==
+== 1.GFW与翻墙 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''GFW BLOG''' ||  &nbsp; || &nbsp; ||-GFW BLOG（功夫网与翻墙）-介绍参见[https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E 维基百科] 
+|-
+| &nbsp; || [http://www.chinagfw.org/] || web ||【GFW BLOG】的主站点
+|}
+
+
+== 0.未分类 ==
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
