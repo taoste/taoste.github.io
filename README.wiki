@@ -9,7 +9,7 @@
 # 使用 Cmd Markdown 编辑阅读器（参阅：[https://github.com/taoste/Cmd-Markdown-help/issues/1 Cmd-Markdown-help] ）
 # 更多↓↓↓
 
-== ①首页 ==
+== ①首页说明 ==
 
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
@@ -42,7 +42,7 @@
 |}
 
  
-== ②网址==
+== ②网址大全==
 [https://github.com/taoste/taoste.github.io/tree/master/intl/sites 更多收藏]↓↓↓
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
@@ -54,7 +54,7 @@
 | '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites/Software%20Web%20site%20Favorites (三)软件收藏夹] || wiki || ./intl/sites/Software Web site Favorites/
 |}
 
-== ③图片==
-
-![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
-
+== ③美图赏析 ==
+== ④关注我哟==
+![关注我的微信公号](https://github.com/taoste/taoste.github.io/blob/master/images/qrcode.jpg?raw=true)
+注：千万别忘了链接地址末尾的 ?raw=true 
