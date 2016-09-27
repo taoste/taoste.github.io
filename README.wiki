@@ -55,7 +55,7 @@
 |}
 
 == ③美图赏析 ==
-[[ https://github.com/taoste/taoste.github.io/tree/master/images/mm.jpg | height = 100px ]]
+[[ https://github.com/taoste/taoste.github.io/tree/master/images/mm.jpg ]]
 
 == ④关注我哟==
 
