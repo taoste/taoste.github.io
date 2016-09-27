@@ -43,7 +43,7 @@
 
  
 == ②网址大全==
-[https://github.com/taoste/taoste.github.io/tree/master/intl/sites 更多收藏]↓↓↓
+[https://github.com/taoste/taoste.github.io/tree/master/intl/sites 更多网址收藏]↓↓↓
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
@@ -56,5 +56,6 @@
 
 == ③美图赏析 ==
 == ④关注我哟==
-![关注我的微信公号](https://github.com/taoste/taoste.github.io/blob/master/images/qrcode.jpg?raw=true)
-注：千万别忘了链接地址末尾的 ?raw=true 
+关注我的微信公号
+![](https://github.com/taoste/taoste.github.io/blob/master/images/qrcode.jpg?raw=true)
+（注：千万别忘了链接地址末尾的 ?raw=true） 
