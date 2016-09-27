@@ -1,6 +1,6 @@
-
+# [`欢迎访问taoste.github.io `](https://taoste.github.io)
 <h1>README.wiki</h1>
-taoste.github.io 更多↓↓↓
+更多↓↓↓
 = =
 
 = 阅读说明 =
@@ -55,6 +55,5 @@ taoste.github.io 更多↓↓↓
 
 == ③图片==
 
-![美女养眼](https://github.com/taoste/taoste.github.io/images/mm.jpg)
 ![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
 
