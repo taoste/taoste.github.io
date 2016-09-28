@@ -123,7 +123,7 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |-
 | &nbsp; || [https://coding.net/] || web || coding官方主站点[https://coding.net/help/ Help帮助]
 |-
-| &nbsp; || [https://github.com/taoste/awesome-blogs 最佳Coding-Pages博客合集] || web || coding官方[https://github.com/Coding github站点]&[http://pages.coding.me 最佳Coding-Pages博客合集 ]
+| &nbsp; || [https://github.com/taoste/awesome-blogs 最佳Coding-Pages博客合集] || web || coding官方[https://github.com/Coding github]站点&最佳[http://pages.coding.me Coding-Pages]博客合集
 |-
 | '''廖雪峰的官方网站''' || &nbsp;  || &nbsp; ||介绍参见[http://www.zhihu.com/people/liaoxuefeng 知乎] 
 |-
