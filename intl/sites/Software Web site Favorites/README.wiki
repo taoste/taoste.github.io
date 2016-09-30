@@ -21,11 +21,11 @@
 {|
 ! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
 |-
-| '''Linux''' || &nbsp; || ★★★★★ || &nbsp; || -Linux-介绍参见[https://zh.wikipedia.org/wiki/Linux 维基百科]-[https://www.kernel.org/ Linux官方网站]
+| '''Linux''' || &nbsp; || &nbsp; || &nbsp; || -Linux-介绍参见[https://zh.wikipedia.org/wiki/Linux 维基百科]-[https://www.kernel.org/ Linux官方网站]
 |-
 | &nbsp; || [https://www.debian.org/]  || ★★★★★ || sys || Debian Linux 操作系统 --介绍参见[https://zh.wikipedia.org/wiki/Debian 维基百科] 
 |-
-| '''虚拟机''' ||  &nbsp;  || ★★★★★ || &nbsp; ||介绍参见[https://zh.wikipedia.org/wiki/VirtualBox 维基百科]
+| '''虚拟机''' ||  &nbsp;  || &nbsp; || &nbsp; ||介绍参见[https://zh.wikipedia.org/wiki/VirtualBox 维基百科]
 |-
 | &nbsp; || [https://www.virtualbox.org/ VirtualBox] || ★★★★★  || PC || （开源虚拟机）[https://www.virtualbox.org/wiki/Downloads VirtualBox]官网下载
 |}
@@ -37,11 +37,11 @@
 |-
 | '''网页浏览器''' ||  &nbsp;  || ★★★★★ || &nbsp; ||介绍参见[ 网站导航]
 |-
-| &nbsp; || [Google Chrome] || ★★★★★  || PC || 推荐官网下载（谷歌浏览器）国际版
+| &nbsp; || [https://www.google.com/chrome/ Google Chrome] || ★★★★★  || PC || 推荐[https://www.google.com/chrome/browser/desktop/index.html 官网下载]（谷歌浏览器）国际版
 |-
-| &nbsp; || [Mozilla Firefox ] || ★★★★★  || PC || 推荐官网下载（火狐）国际版
+| &nbsp; || [https://www.mozilla.org/zh-CN/firefox/new/ Mozilla Firefox ] || ★★★★★  || PC || -介绍参见[https://zh.wikipedia.org/wiki/Firefox  维基百科]-推荐[https://www.mozilla.org/zh-CN/firefox/new/ 官网下载]（火狐）国际版
 |-
-| &nbsp; || [liebao] || ☆★★★☆  || PC || 推荐官网下载（金山猎豹）国际版
+| &nbsp; || [http://www.liebao.cn/ liebao] || ☆★★★☆  || PC || 推荐官网下载（[http://www.liebao.cn/download.html 金山猎豹]）[http://www.cmcm.com/en-us/cm-browser/ 国际版]
 |-
 | '''网页浏览器插件''' ||  &nbsp;  || ★★★★★ || &nbsp; ||介绍参见[ 网站导航]
 |-
