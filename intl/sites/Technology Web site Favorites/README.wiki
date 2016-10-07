@@ -227,7 +227,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |  &nbsp; || [http://127.0.0.1:43110/0net123.bit/?Post:2:%E4%B8%AD%E6%96%87%E8%AE%BA%E5%9D%9B%E5%92%8C%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90 中文论坛和软件资源] || &nbsp; ||  &nbsp;
 |}
 
-== 5.开源&代码托管 ==
+== 5.开源&代码 ==
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
@@ -249,7 +249,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://github.com/Coding/awesome-blogs 最佳Coding-Pages博客合集] || web || coding官方[https://github.com/Coding github]站点&最佳[http://pages.coding.me Coding-Pages]博客合集
 |-
-| '''参考资料''' || &nbsp;  || &nbsp; || &nbsp;
+| '''➤参考资料➤''' || &nbsp;  || &nbsp; || &nbsp;
 |-
 | &nbsp; || [http://wiki.jikexueyuan.com/project/github-basics/ 极客学院] || web || GitHub 使用手册 - 基础篇
 |-
