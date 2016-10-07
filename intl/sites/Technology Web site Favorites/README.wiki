@@ -277,9 +277,42 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 = 科学上网拯救智商 =
 陆续补充中>>>
 
-== 1.GFW与翻墙 ==
+== 1.翻墙资讯 ==
 ➤翻越防火长城，你可以到达世界上的每一个角落。（Across the Great Firewall, you can reach every corner in the world.）
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''ProPublica''' ||  &nbsp; || &nbsp; || ProPublica介绍参见[https://zh.wikipedia.org/wiki/ProPublica 维基百科]
+|-
+| &nbsp; || [https://projects.propublica.org/] || web || 非盈利新闻编辑部-调查报道
+|-
+| '''爱翻墙''' ||  &nbsp; || &nbsp; || &nbsp;
+|-
+| &nbsp; || [http://www.ifanqiang.com/] || web ||【爱翻墙】的主站点
+|-
+| '''翻阅''' ||  &nbsp; || &nbsp; || &nbsp;
+|-
+| &nbsp; || [http://www.fanyue.info/] || web || &nbsp;
+|-
+| '''翻墙后''' ||  &nbsp; || &nbsp; || &nbsp;
+|-
+| &nbsp; || [http://fanqianghou.com/] || web || 维护：[http://www.wenyunchao.com/ 温云超]（网名北风）
+|-
+| '''翻墙网''' ||  &nbsp; || &nbsp; || &nbsp;
+|-
+| &nbsp; || [http://www.atgfw.org/] || web || &nbsp;
+|-
+| '''墙外楼''' ||  &nbsp; || &nbsp; || &nbsp;
+|-
+| &nbsp; || [http://www.letscorp.net/] || web || 墙外楼（@letscorp） 网络热门话题追踪；
+|-
+| &nbsp; || [https://twitter.com/letscorp 推特] || web || 墙外楼（@letscorp）
+|}
+
+== 2.GFW与翻墙 ==
 ➤[https://zh.wikipedia.org/wiki/Category:%E5%8C%BF%E5%90%8D%E7%B6%B2%E8%B7%AF 匿名网络]-[https://zh.wikipedia.org/wiki/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5 突破网络封锁技术]:简称破网，俗称翻墙或科学上网，指绕过互联网审查封锁技术（IP封锁、端口封锁、关键词过滤、域名劫持等），实现对网络内容的访问。
+
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
@@ -335,40 +368,6 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://zh.greatfire.org/] || web || GreatFire.org - 扩展中国乃至全球的网络言论自由
 |}
-
-== 2.翻墙资讯 ==
-翻越防火长城，你可以到达世界上的每一个角落。（Across the Great Firewall, you can reach every corner in the world.）
-
-{|
-! 名称 !! 链接 !! 类型 !! 说明
-|-
-| '''ProPublica''' ||  &nbsp; || &nbsp; || ProPublica介绍参见[https://zh.wikipedia.org/wiki/ProPublica 维基百科]
-|-
-| &nbsp; || [https://projects.propublica.org/] || web || 非盈利新闻编辑部-调查报道
-|-
-| '''爱翻墙''' ||  &nbsp; || &nbsp; || &nbsp;
-|-
-| &nbsp; || [http://www.ifanqiang.com/] || web ||【爱翻墙】的主站点
-|-
-| '''翻阅''' ||  &nbsp; || &nbsp; || &nbsp;
-|-
-| &nbsp; || [http://www.fanyue.info/] || web || &nbsp;
-|-
-| '''翻墙后''' ||  &nbsp; || &nbsp; || &nbsp;
-|-
-| &nbsp; || [http://fanqianghou.com/] || web || 维护：[http://www.wenyunchao.com/ 温云超]（网名北风）
-|-
-| '''翻墙网''' ||  &nbsp; || &nbsp; || &nbsp;
-|-
-| &nbsp; || [http://www.atgfw.org/] || web || &nbsp;
-|-
-| '''墙外楼''' ||  &nbsp; || &nbsp; || &nbsp;
-|-
-| &nbsp; || [http://www.letscorp.net/] || web || 墙外楼（@letscorp） 网络热门话题追踪；
-|-
-| &nbsp; || [https://twitter.com/letscorp 推特] || web || 墙外楼（@letscorp）
-|}
-
 
 
 
