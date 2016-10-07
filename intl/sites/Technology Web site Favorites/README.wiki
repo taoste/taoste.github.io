@@ -143,6 +143,8 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [http://127.0.0.1:43110/] || web || 成功安装[ZeroNet]以后的访问IP
 |-
+| &nbsp; || [https://bit.no.com:43110/] || web || 未安装，则可使用ZeroNet的网关bit.no.com访问Namecoin Web代理
+|-
 | '''➤参考资料➤''' || &nbsp; || &nbsp; || &nbsp;
 |-
 | &nbsp; || [http://chinadigitaltimes.net/chinese/2016/03/zeronet%E7%B3%BB%E5%88%97-%E7%AE%80%E5%8D%95%E6%89%AB%E7%9B%B2-zeronet-%E5%8F%8A%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/ 中国数字时代] || web || ZeroNet系列——简单扫盲 ZeroNet 及基本使用(2016年3月27日 18:37)
@@ -165,7 +167,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [http://127.0.0.1:43110/zsyf.bit/  📚在水一方] || P2P ||  &nbsp;
 |-
-| &nbsp; || [http://127.0.0.1:43110/1D41D7ybgaDypUV3wJ12NHRdJSL35kLiSJ/ 📚土木坛子] || P2P ||  &nbsp;
+| &nbsp; || [http://127.0.0.1:43110/1D41D7ybgaDypUV3wJ12NHRdJSL35kLiSJ/ 📚土木坛子] || P2P || [https://bit.no.com:43110/1D41D7ybgaDypUV3wJ12NHRdJSL35kLiSJ 使用ZeroNet的网关bit.no.com访问]
 |-
 | &nbsp; || [http://127.0.0.1:43110/12ygu8wKLgAyK5u7fScYDsubRXHAHUoFQL/ 📚NEXT ] || P2P ||  &nbsp;
 |-
