@@ -86,6 +86,8 @@
 | &nbsp; || [https://zhao.1984.city/index.php/%E9%A6%96%E9%A1%B5] || web || 赵家百科 
 |-
 | &nbsp; || [https://github.com/program-think/blog] || web || GreatFire.org维护的博客镜像[此页已不再可用。]
+|-
+| &nbsp; || [http://127.0.0.1:43110/15gfg6DUVkp7ApLSMQvC2ig5qy8j91jXeW/ ZeroNet镜像] || web || ZeroNet维护的博客镜像[https://zh.wikipedia.org/wiki/ZeroNet 维基百科ZeroNet]
 |}
 【免翻墙】的【编程随想的博客】资源&nbsp;博客打包下载（用于离线浏览）&nbsp; 
 BTSync 同步密钥：（[https://program-think.blogspot.com/2015/03/blog-sync.html 使用说明]） &nbsp;
