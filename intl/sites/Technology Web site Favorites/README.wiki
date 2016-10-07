@@ -283,6 +283,30 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
+| '''GFW BLOG''' ||  &nbsp; || &nbsp; || GFW BLOG（功夫网与翻墙）介绍参见[https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E 维基百科] 
+|-
+| &nbsp; || [http://www.chinagfw.org/] || web ||【GFW BLOG】的主站点
+|-
+| &nbsp; || [https://twitter.com/chinagfw 推特] || twitter ||【GFW BLOG】的twitter
+|-
+| &nbsp; || [https://plus.google.com/u/0/+gfwblog Google+] || G+ ||【GFW BLOG】的G+
+|-
+| &nbsp; || [https://www.youtube.com/playlist?list=PL7Hid_7hBkfQvEB98PlucQDdaFmyBDbA8 YouTube列表] || YouTube ||【GFW BLOG】的YouTube列表
+|-
+| '''中国数字时代''' ||  &nbsp; || &nbsp; || 中国数字时代-介绍参见[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3 维基百科] 
+|-
+| &nbsp; || [https://chinadigitaltimes.net/chinese/] || web ||【中国数字时代】的主站点
+|-
+| &nbsp; || [https://github.com/cdtmirrors/cdt.unblocked] || github ||数字时代免翻墙浏览器扩展
+|-
+| &nbsp; || [http://chinadigitaltimes.net/chinese/%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3facebook%E7%B3%BB%E5%88%97%E9%A1%B5%E9%9D%A2/ Facebook系列] || web || 数字时代Facebook系列页面
+|-
+| &nbsp; || [http://chinadigitaltimes.net/chinese/%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3twitter-%E7%B3%BB%E5%88%97%E9%A1%B5%E9%9D%A2/ Twitter系列页面] || web || 数字时代Twitter 系列页面
+|-
+| &nbsp; || [http://chinadigitaltimes.net/chinese/%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3google%E7%B3%BB%E5%88%97%E9%A1%B5%E9%9D%A2/ Google+系列页面] || web || 数字时代Google+系列页面
+|-
+| &nbsp; || [http://chinadigitaltimes.net/chinese/%E8%AE%A2%E9%98%85%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3-rss%E5%AF%BC%E8%88%AA/ RSS订阅] || web || 中国数字时代 RSS订阅导航
+|-
 | '''ProPublica''' ||  &nbsp; || &nbsp; || ProPublica介绍参见[https://zh.wikipedia.org/wiki/ProPublica 维基百科]
 |-
 | &nbsp; || [https://projects.propublica.org/] || web || 非盈利新闻编辑部-调查报道
@@ -320,33 +344,17 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''GFW BLOG''' ||  &nbsp; || &nbsp; || GFW BLOG（功夫网与翻墙）介绍参见[https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E 维基百科] 
-|-
-| &nbsp; || [http://www.chinagfw.org/] || web ||【GFW BLOG】的主站点
-|-
-| &nbsp; || [https://twitter.com/chinagfw 推特] || twitter ||【GFW BLOG】的twitter
-|-
-| &nbsp; || [https://plus.google.com/u/0/+gfwblog Google+] || G+ ||【GFW BLOG】的G+
-|-
-| &nbsp; || [https://www.youtube.com/playlist?list=PL7Hid_7hBkfQvEB98PlucQDdaFmyBDbA8 YouTube列表] || YouTube ||【GFW BLOG】的YouTube列表
-|-
-| '''中国数字时代''' ||  &nbsp; || &nbsp; || 中国数字时代-介绍参见[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3 维基百科] 
-|-
-| &nbsp; || [https://chinadigitaltimes.net/chinese/] || web ||【中国数字时代】的主站点
-|-
-| &nbsp; || [https://github.com/cdtmirrors/cdt.unblocked] || github ||数字时代免翻墙浏览器扩展
-|-
-| &nbsp; || [http://chinadigitaltimes.net/chinese/%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3facebook%E7%B3%BB%E5%88%97%E9%A1%B5%E9%9D%A2/ Facebook系列] || web || 数字时代Facebook系列页面
-|-
-| &nbsp; || [http://chinadigitaltimes.net/chinese/%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3twitter-%E7%B3%BB%E5%88%97%E9%A1%B5%E9%9D%A2/ Twitter系列页面] || web || 数字时代Twitter 系列页面
-|-
-| &nbsp; || [http://chinadigitaltimes.net/chinese/%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3google%E7%B3%BB%E5%88%97%E9%A1%B5%E9%9D%A2/ Google+系列页面] || web || 数字时代Google+系列页面
-|-
-| &nbsp; || [http://chinadigitaltimes.net/chinese/%E8%AE%A2%E9%98%85%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3-rss%E5%AF%BC%E8%88%AA/ RSS订阅] || web || 中国数字时代 RSS订阅导航
-|-
 | '''Tor''' ||  &nbsp; || &nbsp; || Tor-介绍参见[https://zh.wikipedia.org/wiki/Tor 维基百科] 
 |-
 | &nbsp; || [https://www.torproject.org/] || 匿名 ||【Tor】的官方站点获取[https://bridges.torproject.org/ 网桥中继]
+|-
+| '''BitTorrent Sync''' ||  &nbsp; || &nbsp; || 简称：BT Sync-介绍参见[https://zh.wikipedia.org/wiki/BitTorrent_Sync 维基百科] 
+|-
+| &nbsp; || [https://www.getsync.com] || P2P ||【BT Sync】的官方站点 [https://www.resilio.com/  网桥中继]
+|-
+| &nbsp; || [https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html 编程随想的博客] || Web || 扫盲 BT Sync——不仅是同步利器，而且是【分布式】网盘（2015年1月18日）
+|-
+| &nbsp; || [http://www.iplaysoft.com/bittorrent-sync.html 异次元软件iplaysoft] || Web || BitTorrent Sync - 神奇的文件同步软件，无需服务器让多台电脑互相同步！（2013-08-07）
 |-
 | '''ZeroNet''' ||  &nbsp; || &nbsp; || ZeroNet（P2P去中心化分布式网络）-介绍参见[https://zh.wikipedia.org/wiki/ZeroNet 维基百科] 
 |-
