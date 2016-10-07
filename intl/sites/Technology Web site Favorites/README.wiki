@@ -117,8 +117,6 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |-
 | &nbsp; || [https://www.reddit.com/r/zeronet/ Reddit] || web || 【ZeroNet网络】官方Reddit
 |-
-| &nbsp; || [http://www.wanbizu.com/news/201603086775.html 相关新闻] || web || ZeroNet ：去中心化、无需证明、比特币支持的点对点种子客户端
-|-
 | &nbsp; || [https://github.com/HelloZeroNet/ZeroNet Github] || git || 【ZeroNet网络】代码托管[https://github.com/HelloZeroNet/ZeroNet Github]
 |-
 | &nbsp; || [https://github.com/HelloZeroNet/ZeroBundle/raw/master/dist/ZeroBundle-win.zip win安装包] || win || 【ZeroNet网络】安装包的官方镜像地址，其他操作系统的安装包只需把以上地址的末尾替换成如下即可：
@@ -144,6 +142,8 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 | &nbsp; || [https://tumutanzi.com/archives/15178 土木坛子] || web || 简评ZeroNet分布式P2P网络(2016年4月10日)
 |-
 | &nbsp; || [http://www.chinagfw.org/2016/08/zeronet.html GFW BLOG（功夫网与翻墙）] || web || 介绍ZeroNet - 点对点去中心化的互联网(2016-8-26 18:30:00)
+|-
+| &nbsp; || [http://www.wanbizu.com/news/201603086775.html 相关新闻] || web || ZeroNet ：去中心化、无需证明、比特币支持的点对点种子客户端
 |-
 | ZeroNet原创中文博客 || &nbsp; || &nbsp; || &nbsp;
 |-
