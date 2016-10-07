@@ -145,6 +145,13 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://bit.no.com:43110/] || web || 未安装，则可使用ZeroNet的网关bit.no.com访问Namecoin Web代理
 |-
+| &nbsp; || [http://127.0.0.1:43110/gfwtalk.bit/] || web || 代理访问[https://bit.no.com:43110/gfwtalk.bit/ gfwtalk.bit]
+
+|-
+| &nbsp; || [http://127.0.0.1:43110/shadowsocksr.bit/] || web || 代理访问[https://bit.no.com:43110/shadowsocksr.bit/ shadowsocksr.bit]
+|-
+| &nbsp; || [http://127.0.0.1:43110/shadowsocksr.bit/] || web || 代理访问[https://bit.no.com:43110/shadowsocksr.bit/ shadowsocksr.bit]
+|-
 | '''➤参考资料➤''' || &nbsp; || &nbsp; || &nbsp;
 |-
 | &nbsp; || [http://chinadigitaltimes.net/chinese/2016/03/zeronet%E7%B3%BB%E5%88%97-%E7%AE%80%E5%8D%95%E6%89%AB%E7%9B%B2-zeronet-%E5%8F%8A%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/ 中国数字时代] || web || ZeroNet系列——简单扫盲 ZeroNet 及基本使用(2016年3月27日 18:37)
@@ -389,8 +396,36 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 | &nbsp; || [https://zh.greatfire.org/] || web || GreatFire.org - 扩展中国乃至全球的网络言论自由
 |}
 
-
-
+== 0.分级网站 ==
+➤警告 / WARNING :[https://zh.wikipedia.org/wiki/Category:%E6%83%85%E8%89%B2%E8%88%87%E8%89%B2%E6%83%85%E7%B6%B2%E7%AB%99 成人娱乐网站]
+本物品內容可能令人反感；不可將本物品內容派發，傳閱，出售，出租，交給或出借予年齡未滿18歲的人士出示，播放或播映。(This article contains material which may offernd and may not be distributed, circulated, sold, hired, given, lent, shown, played or projected to a person under the age of 18 years. All models are 18 or older. ) （成年人知道自己能做什么不能做什么，不需要他人指指点点，未成年人请绕行。）继续更新中……
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''草榴社区''' ||  &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E8%8D%89%E6%A6%B4%E7%A4%BE%E5%8C%BA 维基百科]
+|-
+| &nbsp; || [http://t66y.com/] || web || 草榴在手，夫复何求，成人网站中的良心。“[http://t66y.com/thread0806.php?fid=7 技术讨论区]”中经常讨论中国社会热点事件，总有些人品爆棚的网友分享自己汇总整合的一些稀奇古怪的资源。
+|-
+| '''Pornhub''' ||  &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/zh-hans/Pornhub 维基百科]
+|-
+| &nbsp; || [https://www.pornhub.com] || web || Pornhub是一个网上最大的成人影片分享网站。
+|-
+| '''xvideos''' ||  &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/ 维基百科]
+|-
+| &nbsp; || [http://www.xvideos.com/] || web || 排名第二，号称片量最多。
+|-
+| '''YouPorn''' ||  &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/YouPorn 维基百科]
+|-
+| &nbsp; || [https://www.youporn.com] || web || YouPorn是一个成人影片分享网站。排名第三，很多私拍写真短片。
+|-
+| '''RedTube''' ||  &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/RedTube 维基百科]
+|-
+| &nbsp; || [https://www.RedTube.com] || web || RedTube是一个成人影片分享网站。
+|-
+| '''X-Art''' ||  &nbsp; || &nbsp; || 推特@[https://twitter.com/xart X-Art]
+|-
+| &nbsp; || [http://x-art.com/] || web || （唯美，花点钱翻墙和花点钱上这个网站都是值得的，做个高端大气上档次的撸客。）
+|}
 
 
 
