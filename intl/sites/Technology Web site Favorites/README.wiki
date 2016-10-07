@@ -275,7 +275,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |}
 
 = 科学上网拯救智商 =
-陆续补充中>>>
+[https://github.com/taoste/taoste.github.io/blob/master/intl/sites/Software%20Web%20site%20Favorites/README.wiki#5科学上网 更多专题].陆续补充中>>>
 
 == 1.翻墙资讯 ==
 ➤翻越防火长城，你可以到达世界上的每一个角落。（Across the Great Firewall, you can reach every corner in the world.）
