@@ -105,6 +105,48 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 | &nbsp; || [http://yyyyiiii.blogspot.com] || web || [译者]官方主站点
 |}
 
+== 4.ZeroNet ==
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''ZeroNet''' || &nbsp;  || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/ZeroNet 维基百科]-ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络。
+|-
+| &nbsp; || [http://zeronet.io/] || web || [ZeroNet]官方主站点
+|-
+| &nbsp; || [http://127.0.0.1:43110/] || web || [ZeroNet]成功安装以后的访问IP
+|-
+| ZeroNet原创中文博客 || &nbsp; || &nbsp; || &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/15gfg6DUVkp7ApLSMQvC2ig5qy8j91jXeW/ 编程随想的博客镜像-ZeroNet] || P2P || 编程随想的博客[http://program-think.blogspot.com/ 官方主站点]
+|-
+| &nbsp; || [http://127.0.0.1:43110/shenrui.bit/ 📚杨深锐的博客] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/mosen.bit/ 📚浮生網志] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/19CY4ZtRDoWugjsRSBBDcniKWB7rdPNCqD/  📚冲虚志 ] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/zsyf.bit/  📚在水一方] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/1D41D7ybgaDypUV3wJ12NHRdJSL35kLiSJ/ 📚土木坛子] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/12ygu8wKLgAyK5u7fScYDsubRXHAHUoFQL/ 📚NEXT ] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/mydf.bit/ 📚东先生的ZeroBlog] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/fenxiang.bit/ 📚Something for Sharing！] || P2P ||  &nbsp;
+
+|-
+| &nbsp; || [http://127.0.0.1:43110/18RhKKsiCDSH588kHWBuPJLr5dUx3yC9pz 📚微隐世界] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/zsyf.bit/  📚在水一方] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/1D41D7ybgaDypUV3wJ12NHRdJSL35kLiSJ/ 📚土木坛子] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/zsyf.bit/  📚在水一方] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/1D41D7ybgaDypUV3wJ12NHRdJSL35kLiSJ/ 📚土木坛子] || P2P ||  &nbsp;
+|}
+
 == 9.未分类 ==
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
