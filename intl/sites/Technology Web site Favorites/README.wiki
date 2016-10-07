@@ -115,6 +115,7 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |}
 
 == 4.ZeroNet ==
+ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络。(ZeroNet使用了比特币加密技术和BitTorrent网络)
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
