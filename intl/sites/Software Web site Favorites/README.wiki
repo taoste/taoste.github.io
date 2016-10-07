@@ -255,7 +255,7 @@
 |}
 
 == 5.科学上网 ==
-
+➤翻越防火长城，你可以到达世界上的每一个角落。（Across the Great Firewall, you can reach every corner in the world.）...[https://github.com/taoste/taoste.github.io/blob/master/intl/sites/Technology%20Web%20site%20Favorites/README.wiki#科学上网拯救智商 《更多专题》]
 {|
 ! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
 |-
