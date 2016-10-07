@@ -370,7 +370,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://freenetproject.org/] || 开源 ||【FreeNet】官方网站-[https://freenetproject.org/help.html#faq 常见问题解答faq]
 |-
-| &nbsp; || [http://www.chinagfw.org/2016/03/freenet.html GFW BLOG（功夫网与翻墙）] || Web || Freenet 完全指南
+| &nbsp; || [http://www.chinagfw.org/2016/03/freenet.html GFW BLOG（功夫网与翻墙）] || Web || Freenet 完全指南--专题：[http://freenetcn.blogspot.com/?view=classic Freenet 中文]
 |-
 | &nbsp; || [http://chinadigitaltimes.net/chinese/2016/03/freenet-%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%80%EF%BC%89%E4%BB%8B%E7%BB%8D/ 中国数字时代] || Web || Freenet 完全指南
 |-
