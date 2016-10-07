@@ -16,11 +16,11 @@
 陆续补充中>>>
 
 == 1.月光博客 ==
-
+-关注互联网和搜索引擎的IT科技博客-
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''月光博客''' ||  &nbsp; || &nbsp; || -关注互联网和搜索引擎的IT科技博客-介绍参见[https://zh.wikipedia.org/wiki/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2 维基百科] 
+| '''月光博客''' ||  &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2 维基百科] 
 |-
 | &nbsp; || [http://www.williamlong.info/] || web ||【月光博客】的主站点
 |-
@@ -34,6 +34,8 @@
 |-
 | &nbsp; || [http://williamlong.qzone.qq.com/ 关注认证空间] || QZone || QQ空间-简体中文
 |-
+| &nbsp; || [https://plus.google.com/+WilliamLong/posts 关注认证Google+帐号] || G+ || [https://plus.google.com/+WilliamlongInfo Google+页面]
+|-
 | '''推荐栏目''' ||  &nbsp; || &nbsp; ||介绍参见[http://www.williamlong.info/archives/ 网站导航]
 |-
 | &nbsp; || [http://www.williamlong.info/google/] || web || 谷歌地图观察
@@ -46,6 +48,13 @@
 |}
 
 == 2.编程随想的博客 ==
+-博客主要内容-
+➤提升思维能力
+➤普及政治常识
+➤各种翻墙姿势
+➤党国的阴暗面
+➤网络安全知识
+➤软件开发技术
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
@@ -195,7 +204,7 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |-
 | WWW镜像网站 || &nbsp; || &nbsp; || &nbsp;
 |-
-| &nbsp; || [http://127.0.0.1:43110/bcsx.bit/ 编程随想的博客镜像] || P2P || 编程随想的博客-[http://program-think.blogspot.com/ 官方原站点]-[http://127.0.0.1:43110/15gfg6DUVkp7ApLSMQvC2ig5qy8j91jXeW/ ZeroNet镜像]
+| &nbsp; || [http://127.0.0.1:43110/bcsx.bit/ ➤编程随想的博客镜像] || P2P || 编程随想的博客-[http://program-think.blogspot.com/ 官方原站点]-[http://127.0.0.1:43110/15gfg6DUVkp7ApLSMQvC2ig5qy8j91jXeW/ ZeroNet镜像]
 |-
 | &nbsp; || [http://127.0.0.1:43110/147QaQk6nh6QwM5LJe6eNrTwxQgS1yVT6a/ ➤中国数字时代] || P2P ||  &nbsp;
 |-
