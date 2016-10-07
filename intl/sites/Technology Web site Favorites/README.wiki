@@ -278,8 +278,8 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 陆续补充中>>>
 
 == 1.GFW与翻墙 ==
-翻越防火长城，你可以到达世界上的每一个角落。（Across the Great Firewall, you can reach every corner in the world.）
-
+➤翻越防火长城，你可以到达世界上的每一个角落。（Across the Great Firewall, you can reach every corner in the world.）
+➤[https://zh.wikipedia.org/wiki/Category:%E5%8C%BF%E5%90%8D%E7%B6%B2%E8%B7%AF 匿名网络]-[https://zh.wikipedia.org/wiki/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5 突破网络封锁技术]:简称破网，俗称翻墙或科学上网，指绕过互联网审查封锁技术（IP封锁、端口封锁、关键词过滤、域名劫持等），实现对网络内容的访问。
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
