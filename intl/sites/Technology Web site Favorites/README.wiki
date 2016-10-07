@@ -113,11 +113,22 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 |-
 | &nbsp; || [http://zeronet.io/] || web || [ZeroNet]官方主站点
 |-
-| &nbsp; || [http://127.0.0.1:43110/] || web || [ZeroNet]成功安装以后的访问IP
+| &nbsp; || [https://twitter.com/HelloZeroNet Twitter] || web || [ZeroNet]官方推特
+|-
+| &nbsp; || [https://www.reddit.com/r/zeronet/ Reddit] || web || [ZeroNet]官方Reddit
+|-
+| &nbsp; || [http://www.wanbizu.com/news/201603086775.html 相关新闻] || web || ZeroNet ：去中心化、无需证明、比特币支持的点对点种子客户端
+|-
+| &nbsp; || [https://github.com/HelloZeroNet/ZeroNet Github] || web || [ZeroNet]代码托管
+|-
+| &nbsp; || [https://zeronet.readthedocs.org/en/latest/ en] || web || [ZeroNet]官方文档
+|-
+| &nbsp; || [http://127.0.0.1:43110/] || web || 成功安装[ZeroNet]以后的访问IP
+|-
+| &nbsp; || [http://www.chinagfw.org/2016/08/zeronet.html GFW BLOG（功夫网与翻墙）] || web || 介绍ZeroNet - 点对点去中心化的互联网
+
 |-
 | ZeroNet原创中文博客 || &nbsp; || &nbsp; || &nbsp;
-|-
-| &nbsp; || [http://127.0.0.1:43110/15gfg6DUVkp7ApLSMQvC2ig5qy8j91jXeW/ 编程随想的博客镜像-ZeroNet] || P2P || 编程随想的博客[http://program-think.blogspot.com/ 官方主站点]
 |-
 | &nbsp; || [http://127.0.0.1:43110/shenrui.bit/ 📚杨深锐的博客] || P2P ||  &nbsp;
 |-
@@ -134,17 +145,59 @@ B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 | &nbsp; || [http://127.0.0.1:43110/mydf.bit/ 📚东先生的ZeroBlog] || P2P ||  &nbsp;
 |-
 | &nbsp; || [http://127.0.0.1:43110/fenxiang.bit/ 📚Something for Sharing！] || P2P ||  &nbsp;
-
 |-
 | &nbsp; || [http://127.0.0.1:43110/18RhKKsiCDSH588kHWBuPJLr5dUx3yC9pz 📚微隐世界] || P2P ||  &nbsp;
 |-
-| &nbsp; || [http://127.0.0.1:43110/zsyf.bit/  📚在水一方] || P2P ||  &nbsp;
+| &nbsp; || [http://127.0.0.1:43110/1ML1BufvU2A1KPeg57LPgXSbX7j9gTUEuC 📚蔓草札记] || P2P ||  &nbsp;
 |-
-| &nbsp; || [http://127.0.0.1:43110/1D41D7ybgaDypUV3wJ12NHRdJSL35kLiSJ/ 📚土木坛子] || P2P ||  &nbsp;
+| &nbsp; || [http://127.0.0.1:43110/codegass.bit/ 📚少数派] || P2P ||  &nbsp;
 |-
-| &nbsp; || [http://127.0.0.1:43110/zsyf.bit/  📚在水一方] || P2P ||  &nbsp;
+| &nbsp; || [http://127.0.0.1:43110/1JwFyNA2aKbKLoGkNcScRSCX4auEU5iRJN/ 📚精神污染] || P2P ||  &nbsp;
 |-
-| &nbsp; || [http://127.0.0.1:43110/1D41D7ybgaDypUV3wJ12NHRdJSL35kLiSJ/ 📚土木坛子] || P2P ||  &nbsp;
+| &nbsp; || [http://127.0.0.1:43110/eroz.bit/ 📚z-Ero 谈笑风生的Blog] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/chzj.bit/ 📚彩虹之家] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/1BAHxSB47wUKh1XQjWXFc5jiB324j1usw5/archives/ 📚土也] || P2P || 漂亮的模版
+|-
+| &nbsp; || [http://127.0.0.1:43110/1NvRJawJfguskNV3WLQsmK1ayFKWHEqDLG/ 📚奇闻录] || P2P ||  容量100M+
+|-
+| &nbsp; || [http://127.0.0.1:43110/typeblog.bit/ 📚TypeBlog ZeroBlog] || P2P ||  扩展: 文件上传
+|-
+| &nbsp; || [http://127.0.0.1:43110/1F1MV279QLu3mLWpD4KMBy7dNvZGss6YiJ 📚公共政策参与&公民权利] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/dreamcreator108.bit 📚Chaos的树莓派实验室] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/yangleitj.bit 📚獨財者] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/1PKDXAgCBR77JBwjir4cjjXt2hwSpw78bs 📚丝袜玉足控] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/cxg2014.bit 📚CXG2014] || P2P ||   ZeroNet网站私钥找回教程
+|-
+| &nbsp; || [http://127.0.0.1:43110/knowinfinity.bit 📚知者無涯] || P2P || 闲谈互联网精神与黑客灵魂
+|-
+| WWW镜像网站 || &nbsp; || &nbsp; || &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/bcsx.bit/ 编程随想的博客镜像] || P2P || 编程随想的博客-[http://program-think.blogspot.com/ 官方原站点]-[http://127.0.0.1:43110/15gfg6DUVkp7ApLSMQvC2ig5qy8j91jXeW/ ZeroNet镜像]
+|-
+| &nbsp; || [http://127.0.0.1:43110/147QaQk6nh6QwM5LJe6eNrTwxQgS1yVT6a/ ➤中国数字时代] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/1MpKFgUUAPd9ZxTQjhixCXkzqEGYuozq4y/ ➤国外新闻速递] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/19N6UtHDeGgSuuxw6GpZyffhx1gyQrw1jJ/ ➤王思想的博客镜像] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/inxian.bit/ ➤INXIAN在西安] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/18Tww9kCQ2wzeSJNrQCXXqdurw6ggTZ2mV/ ➤超能网 RSS] || P2P ||  &nbsp;
+|-
+| &nbsp; || [http://127.0.0.1:43110/1Kb5rsRtGyhbhBhQSKAVYdp3TtzWE2GcxU ➤ENSS 影梭空间] || P2P ||  &nbsp;
+|-
+| ZeroNet 其他资源 || &nbsp; || &nbsp; ||  &nbsp;
+|-
+|  &nbsp; || [http://127.0.0.1:43110/0net123.bit/?Post:3:ZeroNet+%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90 ZeroNet 其他资源] 
+|| &nbsp; ||  搜索引擎、电子书、影视资源、种子发布、域名申请、邮件系统、公网代理列表、ZeroNet开发者……
+|-
+|  &nbsp; || [http://127.0.0.1:43110/0net123.bit/?Post:2:%E4%B8%AD%E6%96%87%E8%AE%BA%E5%9D%9B%E5%92%8C%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90 中文论坛和软件资源] || &nbsp; ||  &nbsp;
 |}
 
 == 9.未分类 ==
