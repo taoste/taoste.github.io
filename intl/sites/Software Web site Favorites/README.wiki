@@ -259,7 +259,7 @@
 {|
 ! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
 |-
-| &nbsp; || [https://www.getlantern.org/ Lantern] || ★★★★★  || PC || 【蓝灯】[https://github.com/getlantern/lantern github]
+| &nbsp; || [https://www.getlantern.org/ Lantern] || ★★★★★  || PC || 【蓝灯】[https://github.com/getlantern/lantern github]--[https://github.com/getlantern/forum#蓝灯lantern最新版本下载 蓝灯lantern最新版本下载]
 |-
 | &nbsp; || [Zeronet] || ★★★★★  || PC ||  【零网】
 |-
