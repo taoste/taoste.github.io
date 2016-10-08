@@ -1,0 +1,337 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<title>网站添加冬天雪花代码</title>
+<meta name="keywords" content="寒月博客,Linux,PHP，安卓，嵌入式开发板，emlog插件，emlog模板，Emlog优化，励志，文学,杂七杂八" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link rel="apple-touch-icon" href="http://zjyblog.win/content/templates/limh.me/images/icon.png" />
+<link rel="shortcut icon" href="http://zjyblog.win/content/templates/limh.me/images/favicon.ico" type="image/x-icon" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://zjyblog.win/wlwmanifest.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://zjyblog.win/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/rss+xml" title="RSS"  href="http://zjyblog.win/rss.php" />
+<link rel="stylesheet" type="text/css" href="http://zjyblog.win/content/templates/limh.me/style.css?v=20151004"/>
+<link rel="stylesheet" type="text/css" href="http://zjyblog.win/content/templates/limh.me/font-awesome.min.css?v=20150209">
+<script type="text/javascript" src="http://zjyblog.win/content/templates/limh.me/js/jquery.min.js?v=20150224"></script>
+<script type="text/javascript" src="http://zjyblog.win/content/templates/limh.me/js/bootstrap.min.js"></script>
+<link href="http://zjyblog.win/content/plugins/Liang_zsshare/Liang.popup.min.css" rel="stylesheet" type="text/css"><link href="http://libs.baidu.com/fontawesome/4.2.0/css/font-awesome.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/content/plugins/Fw_player/style/player.css">
+<!--[if lt IE 9]> 
+<script src="http://zjyblog.win/content/templates/limh.me/js/html5.js"></script>
+<style type="text/css">#wenkmPlayer{display:none}</style>
+<![endif]-->
+</head>
+<body>
+<header id="header1">
+  <div class="open-nav"><i class="fa fa-list-ul"></i></div>
+  <div class="logo1">
+    <h1><a rel="index" title="网站首页" pjax="网站首页" href="http://zjyblog.win/"><img src="http://zjyblog.win/content/templates/limh.me/images/logo.png" alt="寒月博客" /></a></h1>
+  </div>
+</header>
+<div id="lmhblog">
+<header id="header">
+  <div class="box">
+    <div class="logo"> <a rel="index" title="寒月博客" pjax="网站首页" href="http://zjyblog.win/"><img src="http://zjyblog.win/content/templates/limh.me/images/icon.png" alt="寒月博客" /></a> </div>
+    <h1><a title="网站首页" pjax="网站首页" href="http://zjyblog.win/">网站添加冬天雪花代码</a></h1>
+    <div class="text">
+      <ul>
+                        <li><a title="查看更多微言碎语" pjax="微言碎语" href="http://zjyblog.win/t">2016年10月7日 - 博客更名为 寒月博客，副标题更改为分享技术，分享快乐。
+有添加本站友链的站长们请更改一下，谢谢浓。</li>
+        </a>
+                <li><a title="查看更多微言碎语" pjax="微言碎语" href="http://zjyblog.win/t">2016年9月1日 - 今天终于开学了，暑假无聊爆了</li>
+        </a>
+                <li><a title="查看更多微言碎语" pjax="微言碎语" href="http://zjyblog.win/t">2016年8月21日 - 前几天刚换了博客系统，从wordpress换成了emlog，感觉wordpress太臃肿了。</li>
+        </a>
+                <li><a title="查看更多微言碎语" pjax="微言碎语" href="http://zjyblog.win/t">2016年8月16日 - 使用微语记录您身边的新鲜事</li>
+        </a>
+              </ul>
+    </div>
+  </div>
+</header>
+<div id="head-nav">
+  <div class="head-nav-wrap clearfix" id="nav">
+    <ul id="menu-index" class="nav">
+      <li class="common"> <a pjax="首页" href="http://zjyblog.win/" >首页</a> </li>
+<li class="common"> <a pjax="微语" href="http://zjyblog.win/t" >微语</a> </li>
+<li class="common"> <a pjax="留言" href="http://zjyblog.win/guestbook.html" >留言</a> </li>
+<li class="common"> <a pjax="互换友链" href="http://zjyblog.win/jhlinks.html" >互换友链</a> </li>
+<li class="common"> <a pjax="端口扫描" href="http://zjyblog.win/ip/index.php" target="_blank">端口扫描</a> </li>
+<!--菜单开始-->
+<li class="dropdown"> <a class="catbtns" href="javascript:">附加功能<i class="arrow"></i></a>
+  <ul class="sub-menu" style="display: none;">
+    <li><a href="http://limh.me/t" pjax="微言碎语">微言碎语</a></li>
+	<li class="photo"><a href="http://limh.me/?plugin=kl_album" pjax="相册图库">相册图库</a></li>
+    <li class="photo"><a href="http://limh.me/links.html" pjax="友情链接">友情链接</a></li>
+    <li class="photo"><a href="http://limh.me/guest.html" pjax="吐槽水军">吐槽水军</a></li>
+  </ul>
+</li><li class="dropdown"> <a class="catbtns" href="javascript:">文章分类<i class="arrow"></i></a>
+  <ul class="sub-menu" style="display: none;">
+    <li> <a pjax="" href="http://zjyblog.win/sort/orangepi">香橙派开发板</a> </li>
+<li> <a pjax="" href="http://zjyblog.win/sort/literature">文学</a> </li>
+<li> <a pjax="" href="http://zjyblog.win/sort/Android">安卓</a> </li>
+<li> <a pjax="" href="http://zjyblog.win/sort/Miscellaneous">杂七杂八</a> </li>
+  </ul>
+</li>
+<!--菜单结束-->
+    </ul>
+    <ul class="m-nav" >
+      <li><a rel="nofollow" title="新浪微博：@Dev-明月浩空 [点击访问]" href="http://weibo.com/u/3496187780" target="_blank"><i class="fa fa-weibo"></i> 微博</a></li>
+      <li> <a rel="nofollow" title="QQ：6354321 [点击临时会话]" href="http://wpa.qq.com/msgrd?v=3&uin=6354321&site=qq&menu=yes" target="_blank"><i class="fa fa-qq"></i> QQ</a></li>
+      <li><a class="wechat" rel="nofollow" title="点击查看微信二维码" href="http://zjyblog.win/content/templates/limh.me/images/weixin.png" target="_blank"><i class="fa fa-wechat"></i> 微信</a></li>
+      <li class="m-sch"> <a class="rss" rel="nofollow" title="RSS订阅" href="http://zjyblog.win/rss.php" target="_blank"><i class="fa fa-rss"></i> 订阅</a> </li>
+    </ul>
+  </div>
+</div>
+<div id="wrapper">
+<div id="container">
+<div id="anitOut"></div><div id="content" role="main">
+  <div class="page">
+    <article role="article">
+      <header class="post-header">
+        <h2>网站添加冬天雪花代码</h2>
+      </header>
+      <address class="post-metaa">
+      <i class="fa fa-home"></i><a pjax="网站首页" href="http://zjyblog.win/" title="返回首页"> 首页</a> &raquo; <i class="fa fa-folder-open-o"></i>
+      <a pjax="杂七杂八" href="http://zjyblog.win/sort/Miscellaneous" title="查看分类“杂七杂八”下的内容">杂七杂八</a>
+      &raquo;
+                  <i class="fa fa-clock-o"></i>
+      2016年10月1日下午       <ul class="tools">
+        <li title="发表吐槽" class="go-comment"><i class="fa fa-comment"></i></li>
+        <a target="_blank" href="https://limh.me/api/qrapibig.php?url=http://zjyblog.win/Miscellaneous/9.html.jpg" class="go-qrcode">
+        <li title="用手机扫描二维码访问"><i class="fa fa-qrcode"></i></li>
+        </a>
+        
+<li title="分享文章" class="open"><i class="fa fa-share-alt"></i></li>
+<div class="Share">
+	<ul>
+		<p class="close"><i class="fa fa-share-alt-square"></i> 分享到各大社区<a href="javascript:;" title="关闭"></a></p>
+		<li title="分享到QQ空间"><a class="share1"></a></li>
+		<li title="分享到新浪微博"><a class="share2"></a></li>
+		<li title="分享到人人网"><a class="share3"></a></li>
+		<li title="分享到朋友网"><a class="share4"></a></li>
+		<li title="分享到腾讯微博"><a class="share5"></a></li>
+		<li title="分享到开心网"><a class="share6"></a></li>
+	</ul>
+</div>
+        <li title="字号" class="size" onclick="size(this)">A</li>
+        <li title="打开/关闭侧边栏" class="fullscreen">
+          <i class="fa fa-share"></i>        </li>
+      </ul>
+      </address>
+      <div class="post-context">
+                <p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	其实实现下雪效果很简单，不需要插件，几行js代码就可以实现。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	这里我直接给出资源，emlog只需要在emlog设置---<span style="margin:0px;padding:0px;font-family:微软雅黑, Arial, Helvetica, sans-serif;line-height:19px;">首页底部信息部位引入以下代码就可以实现了。</span> 
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	其他网站引入到网站合适位置也可实现
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	代码如下：
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	&lt;script type="text/javascript" src="http://xxx.com/snow.js"&gt;&lt;/script&gt;<br />
+&nbsp; &nbsp;&nbsp;<br />
+&lt;script src="http://xxx.com/snow.js"&gt;&lt;/script&gt;<br />
+&nbsp; &nbsp; &lt;!--下面是调用方法和参数说明--&gt;<br />
+&lt;script&gt;<br />
+$(function(){<br />
+$.fn.snow({&nbsp;<br />
+minSize: 5,		//雪花的最小尺寸<br />
+maxSize: 50, 	//雪花的最大尺寸<br />
+newOn: 300		//雪花出现的频率 这个数值越小雪花越多<br />
+});<br />
+});<br />
+&lt;/script&gt;<br />
+&lt;/head&gt;<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	把本站提供的js文件下载后上传到网站根目录，修改<span style="font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">http://xxx.com/snow.js 为</span><span style="font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">http://你的网站/snow.js</span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	<span style="font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);"><br />
+</span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	<img src="http://zjyblog.win/content/uploadfile/snows.jpg" alt="" />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;font-family:'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, SimSun, sans-serif;font-size:13px;line-height:normal;white-space:normal;background-color:rgba(255, 255, 255, 0.8);">
+	<br />
+</p>        
+        <div class="post-lisence">
+          <div class="qrimg"><a target="_blank" href="https://limh.me/api/qrapibig.php?url=http://zjyblog.win/Miscellaneous/9.html.jpg"><img src="http://zjyblog.win/content/templates/limh.me/images/qrapibig.jpg" alt="网站添加冬天雪花代码" title="用手机扫描二维码访问"></a></div>
+		  <div class="post-tags"><i class="fa fa-tags"></i> 本文标签：<a rel="tag" pjax="杂七杂八" href="http://zjyblog.win/tag/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB">杂七杂八</a></div>
+          <i class="fa fa-bullhorn"></i> 版权声明：若无特殊注明，本文皆为《
+          <a pjax="寒月" href="http://zjyblog.win/author/1" title="博客管理员">寒月</a>          》原创，转载请保留文章出处。</br>
+          <i class="fa fa-share-alt-square"></i> 本文链接：网站添加冬天雪花代码 http://zjyblog.win/Miscellaneous/9.html</div>
+        <div class="cutline"><span>正文到此结束</span></div>
+        <div class="post-navigation">
+          <a rel="next" pjax="手动给boot.img添加init.d支持和内核ROOT" href="http://zjyblog.win/Android/6.html"class="next"><span class="icon-wrap"></span><h3>手动给boot.img添加init.d支持和内核ROOT</h3></a>
+        </div>
+		  <br><style>.down_link{background: none repeat scroll 0 0 #FFFCEF; border: 1px solid #FFBB76; border-radius: 2px; color: #DB7C22; font-size: 14px; margin-bottom: 10px; padding: 5px 10px;}.downbtn{background: none repeat scroll 0 0 #1BA1E2; border: 0 none; border-radius: 2px; color: #FFFFFF; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; margin: -4px 20px 0 0; padding: 8px 30px;text-transform:none;text-decoration:none;}
+.downlink a:link{color: #ffffff;}
+.downlink a:visited{color: #ffffff;}
+.downlink a:hover{color: #ffffff;}
+.downlink a:active{color: #ffffff;}
+.downbtn{background: none repeat scroll 0 0 #1BA1E2; border: 0 none; border-radius: 2px; color: #FFFFFF !important; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; margin: -4px 20px 0 0; padding: 8px 30px;}
+.yanshibtn{background: none repeat scroll 0 0 #d33431; border: 0 none; border-radius: 2px; color: #FFFFFF!important; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; margin: -4px 20px 0 0; padding: 8px 30px;text-transform:none;text-decoration:none;}
+.downbtn:hover,.yanshibtn:hover{background: none repeat scroll 0 0 #9B59B6; border: 0 none; border-radius: 2px; color: #FFFFFF!important; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; margin: -4px 20px 0 0; padding: 8px 30px;}
+.downbtn a:hover,.yanshibtn a:hover{background: none repeat scroll 0 0 #9B59B6; border: 0 none; border-radius: 2px; color: #FFFFFF; cursor: pointer; font-family: "Open Sans","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",Arial,Verdana,Tahoma,sans-serif; font-size: 14px; margin: -4px 20px 0 0; padding: 8px 30px;}</style><div class="down_link"><p><strong>下载地址：</strong></p><p></p><p>文件名称：snows.js</p><p style="position:relative;">文件大小：1.34m<span style="position:absolute;left:40%;">适用版本：全部</span></p><p style="position:relative;">更新日期：2016.10.1<span style="position:absolute;left:40%;">作者信息：网络</span></p><p class="downlink"><strong><a class="downbtn" rel="external nofollow" title="snows.js" href="http://zjyblog.win/download.php?id=9" target="_blank">点击下载</a></strong> </p><p></p></div>      </div>
+    </article>
+    <div id="social">
+<div class="social-main">
+<span class="like">
+<a class="liang_zsshare" data-liang_zsshare="9" title="我赞"><i class="fa fa-thumbs-o-up"></i>&nbsp;赞 (<span>2</span>)</a>
+</a>
+<span class="shang-p">
+<a data-dialog="#popup-shang" data-effect="effect-slide-top" title="赞助本站">赏</a>
+</span>
+<span class="share-s">
+<a data-dialog="#popup-share" data-effect="effect-newspaper" title="分享"><i class="fa fa-share-alt"></i>&nbsp;分享</a>
+</span>
+<div class="clear"></div>
+</div>
+</div>
+<div class="popup effect-fade-scale" id="popup-shang">
+<div class="popup-content">
+<p class="zanzhu">您可以选择一种方式赞助本站
+<form target="_blank" method="POST" action="https://shenghuo.alipay.com/send/payment/fill.htm" accept-charset="GBK">
+<input type="hidden" value="891159942@qq.com" name="optEmail">
+<input type="hidden" value="10" name="payAmount">
+<input id="title" type="hidden" value="赞助本站" name="title">
+<input type="hidden" value="请填写您的联系方式，以便答谢！" name="memo">
+<input type="image" value="赞助本站" src="http://i1.tietuku.com/39d52d451dc7221ds.png" width="280" height="100%" name="pay" title="赞助本站">
+</form>支付宝转账赞助
+<p><img width="280" height="280" src="" title="支付宝转账赞助" /></p>
+<p><img width="280" height="280" src="" title="微信转账赞助" /></p>
+</p>
+</div>
+</div>
+<div class="popup effect-fade-scale" id="popup-share">
+<div class="popup-content">
+<h3><i class="fa fa-share-alt"></i>分享到各大网站</h3>
+<div class="bdsharebuttonbox"><a title="分享到QQ空间" href="#" class="bds_qzone" data-cmd="qzone"></a><a title="分享到新浪微博" href="#" class="bds_tsina" data-cmd="tsina"></a><a title="分享到腾讯微博" href="#" class="bds_tqq" data-cmd="tqq"></a><a title="分享到人人网" href="#" class="bds_renren" data-cmd="renren"></a><a title="分享到微信" href="#" class="bds_weixin" data-cmd="weixin"></a><a title="分享到开心网" href="#" class="bds_kaixin001" data-cmd="kaixin001"></a><a title="分享到腾讯朋友" href="#" class="bds_tqf" data-cmd="tqf"></a><a href="#" class="bds_more" data-cmd="more"></a></div>
+</div>
+</div>            <div id="comments">
+      <div id="comment-place">
+  <div class="comment-post" id="comment-post">
+    <h3><i class="fa fa-pencil"></i> 发表吐槽</h3>
+    <div class="cancel-reply" id="cancel-reply" style="display:none"><a href="javascript:void(0);" onclick="cancelReply()"><i class="fa fa-share"></i>取消回复</a></div>
+    <h1>
+      你肿么看？      <a name="respond"></a></h1>
+    <form method="post" name="commentform" action="http://zjyblog.win/index.php?action=addcom" id="commentform">
+      <input type="hidden" name="gid" value="9" />
+                  <p class="num1">你还可以输入 <i id="num" class="num">250 </i> / 250 个字</p>
+      <p>
+        <textarea onkeyup="checkLength(this);" onkeydown="if(event.ctrlKey&&event.keyCode==13){document.getElementById('submit').click();return false};"name="comment" id="comment" class="post-area" rows="10" tabindex="99" placeholder="让评论变得如此简单。"></textarea>
+      <div class="smilebg">
+        <div class="smile">
+          <div class="arrow"></div>
+          ?<a href="javascript:grin('[F1]')" title="嘻嘻"><img src="http://zjyblog.win/content/templates/limh.me/images/face/1.gif" alt="嘻嘻"/></a>
+<a href="javascript:grin('[F2]')" title="大笑"><img src="http://zjyblog.win/content/templates/limh.me/images/face/2.gif" alt="大笑"/></a>
+<a href="javascript:grin('[F3]')" title="可怜"><img src="http://zjyblog.win/content/templates/limh.me/images/face/3.gif" alt="可怜"/></a>
+<a href="javascript:grin('[F4]')" title="吃惊"><img src="http://zjyblog.win/content/templates/limh.me/images/face/4.gif" alt="吃惊"/></a>
+<a href="javascript:grin('[F5]')" title="害羞"><img src="http://zjyblog.win/content/templates/limh.me/images/face/5.gif" alt="害羞"/></a>
+<a href="javascript:grin('[F6]')" title="调皮"><img src="http://zjyblog.win/content/templates/limh.me/images/face/6.gif" alt="调皮"/></a>
+<a href="javascript:grin('[F7]')" title="鄙视"><img src="http://zjyblog.win/content/templates/limh.me/images/face/7.gif" alt="鄙视"/></a>
+<a href="javascript:grin('[F8]')" title="示爱"><img src="http://zjyblog.win/content/templates/limh.me/images/face/8.gif" alt="示爱"/></a>
+<a href="javascript:grin('[F9]')" title="大哭"><img src="http://zjyblog.win/content/templates/limh.me/images/face/9.gif" alt="大哭"/></a>
+<a href="javascript:grin('[F10]')" title="开心"><img src="http://zjyblog.win/content/templates/limh.me/images/face/10.gif" alt="开心"/></a>
+<a href="javascript:grin('[F11]')" title="偷笑"><img src="http://zjyblog.win/content/templates/limh.me/images/face/11.gif" alt="偷笑"/></a>
+<a href="javascript:grin('[F12]')" title="嘘"><img src="http://zjyblog.win/content/templates/limh.me/images/face/12.gif" alt="嘘"/></a>
+<a href="javascript:grin('[F13]')" title="奸笑"><img src="http://zjyblog.win/content/templates/limh.me/images/face/13.gif" alt="奸笑"/></a>
+<a href="javascript:grin('[F14]')" title="委屈"><img src="http://zjyblog.win/content/templates/limh.me/images/face/14.gif" alt="委屈"/></a>
+<a href="javascript:grin('[F15]')" title="抱抱"><img src="http://zjyblog.win/content/templates/limh.me/images/face/15.gif" alt="抱抱"/></a>
+<a href="javascript:grin('[F16]')" title="愤怒"><img src="http://zjyblog.win/content/templates/limh.me/images/face/16.gif" alt="愤怒"/></a>
+<a href="javascript:grin('[F17]')" title="思考"><img src="http://zjyblog.win/content/templates/limh.me/images/face/17.gif" alt="思考"/></a>
+<a href="javascript:grin('[F18]')" title="日了狗"><img src="http://zjyblog.win/content/templates/limh.me/images/face/18.gif" alt="日了狗"/></a>        </div>
+      </div>
+      <div class="sbsb">
+        <div title="插入表情" onclick="embedSmiley()" class="face"><i class="fa fa-smile-o"></i></div>
+		<div title="插入粗体文字" onclick="strong()" class="zujian"><i class="fa fa-bold"></i></div>
+		<div title="插入斜体文字" onclick="em()" class="zujian"><i class="fa fa-italic"></i></div>
+		<div title="插入删除线文字" onclick="del()" class="zujian"><i class="fa fa-strikethrough"></i></div>
+		<div title="插入下划线文字" onclick="underline()" class="zujian"><i class="fa fa-text-width"></i></div>
+        <div title="插入图片" onclick="embedImage()" class="zujian"><i class="fa fa-image"></i></div>
+        <div title="插入链接" onclick="url1()" class="zujian"><i class="fa fa-link"></i></div>
+        <div title="签到" onclick="javascript:SIMPALED.Editor.qiandao();this.style.display='none'" class="zujian"><i class="fa fa-pencil"></i></div>
+        <div title="赞一个" onclick="javascript:SIMPALED.Editor.good();this.style.display='none'" class="zujian"><i class="fa fa-thumbs-o-up"></i></div>
+        <div title="踩一个" onclick="javascript:SIMPALED.Editor.bad();this.style.display='none'" class="zujian"><i class="fa fa-thumbs-o-down"></i></div>
+                <button class="open2" type="button" id="submit" tabindex="6"><i class="fa fa-check"></i> 提交评论</button>
+        <button type="reset"  id="reset" name="reset" tabindex="7"><i class="fa fa-trash-o"></i> 清除</button>
+      </div>
+      </p>
+      <div class="tijiao">
+        <p class="close2">评论信息框<a href="javascript:;" title="关闭"></a></p>
+		        <div id="guest_avatar"> <img src="http://zjyblog.win/content/templates/limh.me/gravatar/default.jpg" id="realtime_avatar" class="avatar" /> </div>
+        <p>
+          <input onkeydown="if(event.keyCode==13){event.returnValue=false;}" class="tex" type="text" name="comname" maxlength="49" value="匿名" size="22" tabindex="1" placeholder="必填">
+          <label for="author"><i class="fa fa-user"></i> 昵称:</label>
+        </p>
+        <p>
+          <input onkeydown="if(event.keyCode==13){event.returnValue=false;}" class="tex" type="email" name="commail" id="email" maxlength="128"  value="" size="22" tabindex="3" placeholder="选填">
+          <label for="email"><i class="fa fa-envelope"></i> 邮箱:</label>
+        </p>
+        <p>
+          <input onkeydown="if(event.keyCode==13){event.returnValue=false;}" class="tex" type="text" id="comurl" name="comurl" maxlength="128" class="respondtext" value="" size="22" tabindex="4" placeholder="选填" pattern="((http|https)://|)+([\w-]+\.)+[\w-]+(/[\w- ./?%&=]*)?"/>
+          <label for="url"><i class="fa fa-globe"></i> 网址:</label>
+        </p>
+		        <p>
+        <div class="ajaxloading">吃奶的力气提交吐槽中...</div>
+        <div class="error"></div>
+        </p>
+        <p>
+          <button type="submit" id="usb" tabindex="5">发表评论</button>
+        </p>
+        <input type="hidden" name="pid" id="comment-pid" value="0" size="22" tabindex="1"/>
+      </div>
+    </form>
+  </div>
+</div>
+      <h3><i class='fa fa-comments-o'></i> 已有1条吐槽</h3>      <a id="comments"></a>
+<div class="commentlist">
+  
+	<div class="timeline_container">
+    <div class="timeline">
+    <div class="plus"></div>
+    <div class="plus2"></div>
+    </div>
+	</div>    <p id="12">
+  <div class="comment" id="comment-12">
+    <div class="comment-body">
+      <h4><a class="forum_level lv1" title="访客等级 LV.1"></a>        <span class='name'><a title="点击访问：http://zjyblog.win/" href="http://zjyblog.win/" target="_blank" rel="nofollow">烟花易冷ヾ</a></span> <span class="floor">沙发</span></h4>
+      <div class="timer"><i class="fa fa-clock-o"></i> 2016-10-06 11:50 <span class="sign1"><i class='fa fa-map-marker'></i> 局域网对方和您在同一内部网</span></div>
+      <div class="reply"> <a href="#comment-12" onclick="commentReply(12,this)"><i class="fa fa-reply"></i>回复</a> </div>
+      <div class="content">欢迎大家参考<div class="sign2">
+<img src='http://zjyblog.win/content/templates/limh.me/img/16/os/null.png'>&nbsp;未知操作系统&nbsp; <img src='http://zjyblog.win/content/templates/limh.me/img/16/browser/null.png'>&nbsp;未知浏览器</div></div>
+            <img src="http://zjyblog.win/content/templates/limh.me/gravatar/8065b130f8f1c3cbc409d2e16c44385c.jpg" class="avatar1" />
+            <myhk></myhk>
+      <em1></em1>
+    </div>
+      </div>
+  </p>
+  </div>
+<div class="pagenavi">   </div>
+    </div>
+  </div>
+</div>
+
+<aside id="sidebar" role="complementary">
+  <h3><i class="fa fa-calendar"></i>日历</h3>
+<ul id="calendar">
+</ul>
+<script>sendinfo('<br />
+<b>Fatal error</b>:  Class 'Calendar' not found in <b>E:\tomcatweb\zoujiayu\wwwroot\content\templates\limh.me\module.php</b> on line <b>604</b><br />
