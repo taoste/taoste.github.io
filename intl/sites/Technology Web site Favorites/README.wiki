@@ -248,7 +248,13 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | '''➤资源索引''' ||  &nbsp; || &nbsp; ||  参见-维基百科：[https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8 匿名服务列表]
 |-
-| &nbsp; || [http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page ] || 匿名 ||『The Hidden Wiki』的索引
+| &nbsp; || [http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page 暗网维基] || .onion ||『The Hidden Wiki』的索引
+|-
+| &nbsp; || [http://torlinkbgs6aabns.onion/ 暗网网址集合] || .onion || &nbsp;
+|-
+| &nbsp; || [http://pfoxkj3p65uyc5pe.onion/bookmarks.htm 暗网书签] || .onion || &nbsp;
+|-
+| &nbsp; || [http://ir5eqhlec4j6n2pz.onion/ 博客] || .onion || 一个建立在暗网的 WordPress 博客
 |-
 | '''➤参考资料''' ||  &nbsp; || &nbsp; ||  &nbsp;
 |-
@@ -261,6 +267,8 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 | &nbsp; || [https://pao-pao.net/article/230  泡泡] || web || Tor“重返”中国：翻墙与进入“深网”（10/23/2014 - 11:34）
 |-
 | &nbsp; || [https://tumutanzi.com/archives/12904 土木坛子] || web || 如何浏览深网？暗网导航+Tor(2014年10月24日)
+|-
+| &nbsp; || [https://us-somesky.rhcloud.com/net/stroll-deep-web.html 打酱油博客] || web ||暗网漫步·步入黑暗(2015-09-23)
 |-
 | &nbsp; || [http://www.ityuedu.com/article/2700183435/ IT阅读网] || web || 使用Tor 的.onion域名创建匿名服务和匿名网站（2014-07-01）
 |-
