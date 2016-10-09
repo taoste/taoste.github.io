@@ -237,12 +237,28 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |}
 
 == 5.深网&暗网 ==
+➤使用Tor的.onion域名创建匿名服务器。>>>Tor不仅可以提供客户端的匿名访问，Tor还可以提供服务器的匿名。 通过使用Tor网络，用户可以维护位置不可知的服务器。 当然如果要访问这个隐蔽的服务，客户端也得安装Tor。
+通过Tor指定的顶级域名（Top Level Domain，TLD）.onion，可以访问其隐藏的服务。 Tor网络可以识别自己的TLD，并自动路由到隐藏的服务。 然后，隐藏的服务将请求交由标準的服务器软件进行处理，这个服务器软件应该预先进行配置，从而只侦听非公开的接口。 如果这个服务还可以通过公共的因特网来访问，那也会受到相关连的攻击，这样就没有真正的隐藏起来。
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
 | '''Tor''' ||  &nbsp; || &nbsp; || Tor-介绍参见[https://zh.wikipedia.org/wiki/Tor 维基百科] 
 |-
 | &nbsp; || [https://www.torproject.org/] || 匿名 ||【Tor】的官方站点获取[https://bridges.torproject.org/ 网桥中继]
+|-
+| '''➤资源索引➤''' ||  &nbsp; || &nbsp; ||  参见-维基百科：[https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8 匿名服务列表]
+|-
+| &nbsp; || [http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page ] || 匿名 ||『The Hidden Wiki』的索引
+|-
+| '''➤参考资料➤''' ||  &nbsp; || &nbsp; ||  &nbsp;
+|-
+| &nbsp; || [https://tumutanzi.com/archives/12904 土木坛子] || 匿名 || 如何浏览深网？暗网导航+Tor(2014年10月24日)
+|-
+| &nbsp; || [http://www.ityuedu.com/article/2700183435/ IT阅读网] || 匿名 || 使用Tor 的.onion域名创建匿名服务和匿名网站（2014-07-01）
+|-
+| &nbsp; || [https://blog.slinuxer.com/2014/08/tor-deepweb Slinuxer] || 匿名 || Tor与暗网（2014/08/27）
+|-
+| &nbsp; || [https://blkstone.github.io/2015/12/09/darknet/ Github-Neurohazard] || 匿名 || Tor 网络使用指南
 |}
 
 == 6.开源&代码 ==
