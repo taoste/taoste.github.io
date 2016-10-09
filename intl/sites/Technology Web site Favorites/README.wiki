@@ -246,11 +246,11 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://www.torproject.org/] || 匿名 ||【Tor】的官方站点获取[https://bridges.torproject.org/ 网桥中继]
 |-
-| '''➤资源索引➤''' ||  &nbsp; || &nbsp; ||  参见-维基百科：[https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8 匿名服务列表]
+| '''➤资源索引''' ||  &nbsp; || &nbsp; ||  参见-维基百科：[https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8 匿名服务列表]
 |-
 | &nbsp; || [http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page ] || 匿名 ||『The Hidden Wiki』的索引
 |-
-| '''➤参考资料➤''' ||  &nbsp; || &nbsp; ||  &nbsp;
+| '''➤参考资料''' ||  &nbsp; || &nbsp; ||  &nbsp;
 |-
 | &nbsp; || [https://tumutanzi.com/archives/12904 土木坛子] || 匿名 || 如何浏览深网？暗网导航+Tor(2014年10月24日)
 |-
