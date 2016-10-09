@@ -386,7 +386,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | '''翻墙后''' ||  &nbsp; || &nbsp; || &nbsp;
 |-
-| &nbsp; || [http://fanqianghou.com/] || web || 维护：[http://www.wenyunchao.com/ 温云超]（网名北风）
+| &nbsp; || [http://fanqianghou.com/] || web || 维护：[http://www.wenyunchao.com/ 温云超]（网名北风）[https://pao-pao.net/tags/18 泡泡网专栏]
 |-
 | '''翻墙网''' ||  &nbsp; || &nbsp; || &nbsp;
 |-
