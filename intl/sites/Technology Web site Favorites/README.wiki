@@ -152,7 +152,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [http://127.0.0.1:43110/shadowsocksr.bit/] || web || 代理访问[https://bit.no.com:43110/shadowsocksr.bit/ shadowsocksr.bit]
 |-
-| '''➤参考资料➤''' || &nbsp; || &nbsp; || &nbsp;
+| '''➤参考资料''' || &nbsp; || &nbsp; || &nbsp;
 |-
 | &nbsp; || [http://chinadigitaltimes.net/chinese/2016/03/zeronet%E7%B3%BB%E5%88%97-%E7%AE%80%E5%8D%95%E6%89%AB%E7%9B%B2-zeronet-%E5%8F%8A%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/ 中国数字时代] || web || ZeroNet系列——简单扫盲 ZeroNet 及基本使用(2016年3月27日 18:37)
 |-
@@ -252,13 +252,21 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | '''➤参考资料''' ||  &nbsp; || &nbsp; ||  &nbsp;
 |-
-| &nbsp; || [https://tumutanzi.com/archives/12904 土木坛子] || 匿名 || 如何浏览深网？暗网导航+Tor(2014年10月24日)
+| &nbsp; || [https://program-think.blogspot.com/2014/10/gfw-tor-meek.html 编程随想的博客] || web || “如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理（2014年10月19日）[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
 |-
-| &nbsp; || [http://www.ityuedu.com/article/2700183435/ IT阅读网] || 匿名 || 使用Tor 的.onion域名创建匿名服务和匿名网站（2014-07-01）
+| &nbsp; || [https://program-think.blogspot.com/2013/11/tor-faq.html 编程随想的博客] || web || “如何翻墙”系列：关于 TOR 的常见问题解答（2013年11月11日）[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
 |-
-| &nbsp; || [https://blog.slinuxer.com/2014/08/tor-deepweb Slinuxer] || 匿名 || Tor与暗网（2014/08/27）
+| &nbsp; || [https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html 编程随想的博客] || web || “如何翻墙”系列：戴“套”翻墻的方法（2009年9月26日）[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
 |-
-| &nbsp; || [https://blkstone.github.io/2015/12/09/darknet/ Github-Neurohazard] || 匿名 || Tor 网络使用指南
+| &nbsp; || [https://pao-pao.net/article/230  泡泡] || web || Tor“重返”中国：翻墙与进入“深网”（10/23/2014 - 11:34）
+|-
+| &nbsp; || [https://tumutanzi.com/archives/12904 土木坛子] || web || 如何浏览深网？暗网导航+Tor(2014年10月24日)
+|-
+| &nbsp; || [http://www.ityuedu.com/article/2700183435/ IT阅读网] || web || 使用Tor 的.onion域名创建匿名服务和匿名网站（2014-07-01）
+|-
+| &nbsp; || [https://blog.slinuxer.com/2014/08/tor-deepweb Slinuxer] || web || Tor与暗网（2014/08/27）
+|-
+| &nbsp; || [https://blkstone.github.io/2015/12/09/darknet/ Github-Neurohazard] || web || Tor 网络使用指南
 |}
 
 == 6.开源&代码 ==
