@@ -256,6 +256,8 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [http://ir5eqhlec4j6n2pz.onion/ 博客] || .onion || 一个建立在暗网的 WordPress 博客
 |-
+| &nbsp; || [https://github.com/sysorem/Onion-URI-List- 【github】] || web || Onion URI List
+|-
 | '''➤参考资料''' ||  &nbsp; || &nbsp; ||  &nbsp;
 |-
 | &nbsp; || [https://program-think.blogspot.com/2014/10/gfw-tor-meek.html 编程随想的博客] || web || “如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理（2014年10月19日）[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
