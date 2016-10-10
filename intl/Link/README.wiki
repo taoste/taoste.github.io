@@ -5,9 +5,7 @@ taoste.github.io
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''Link''' ||  &nbsp; ||  &nbsp;  || [收藏夹]
-|-
-|  &nbsp; || [https://github.com/taoste/taoste.github.io/tree/master/intl/Link ./intl/Link/] ||  &nbsp;  ||  &nbsp;
+| '''Link''' ||   [https://github.com/taoste/taoste.github.io/tree/master/intl/Link ./intl/Link/] ||  &nbsp;  || github Links[收藏夹]
 |-
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/Lantern-forum-README.md Lantern-forum-README.md] || wiki || 
 【转】蓝灯(Lantern)官方论坛
