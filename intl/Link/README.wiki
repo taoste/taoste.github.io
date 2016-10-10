@@ -7,7 +7,7 @@ taoste.github.io
 |-
 | '''Link''' || &nbsp;  ||  &nbsp; || [https://github.com/taoste/taoste.github.io/tree/master/intl/Link ./intl/Link/][收藏夹] 
 |-
-|  &nbsp;  ||   [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/README.wiki README.wiki] ||  &nbsp;  || Links-索引说明文档
+|  &nbsp;  ||   [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/README.wiki README.wiki] ||  &nbsp;  || 【索引】说明文档
 |-
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/Lantern-forum.md Lantern-forum.md] || wiki || 
 【转】蓝灯(Lantern)官方论坛
@@ -22,8 +22,11 @@ taoste.github.io
 |-
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/ele_demo.md ele_demo.md] || wiki ||仿【饿了么】订餐软件的一个demo
 |-
-|  &nbsp;  ||   [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/programthink-sites.wiki programthink-sites.wiki] ||  &nbsp;  || 【编程随想】收藏的各色网站
+|  &nbsp;  || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/programthink-sites.wiki programthink-sites.wiki] ||  &nbsp;  || 【编程随想】收藏的各色网站
 |-
-|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/MiCode-Notes.md MiCode-Notes.md] || wiki ||小米便签社区开源版
+|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/MiCode-Notes.md MiCode-Notes.md] || wiki ||【转】小米便签社区开源版
+|-
+|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/sofish-typo.css.md sofish-typo.css.md] || wiki ||【转】中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+
 |}
 
