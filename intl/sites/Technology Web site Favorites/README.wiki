@@ -317,6 +317,8 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [http://tinyvane.github.io/] || web || [http://www.wuliaole.com/ FOOLMAN 一个人的修行]--学习[https://github.com/tinyvane Github]-&-[http://www.wuliaole.com/tags/github/ 专题标签]
 |-
+| &nbsp; || [https://github.com/jaywcjlove/awesome-mac] || web || 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。
+|-
 | '''➤推荐阅读➤''' || &nbsp;  || &nbsp; || &nbsp;
 |-
 | &nbsp; || [https://github.com/xenuts] || ★★★★★ || 周祥增 ：[http://www.xenuts.com/ 主页]--[http://blog.xenuts.com/ Blog]
