@@ -321,7 +321,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://github.com/iissnan] || ★★★★★ || 正峰 ：[http://iissnan.com/ 主页]--[http://notes.iissnan.com/ Blog]--[http://weibo.com/iissnan 微博]--[https://twitter.com/iissnan Twitter]--[https://www.zhihu.com/people/iissnan 知乎]
 |-
-| &nbsp; || [https://github.com/sunwhut] || ★★★★★ || 网站[http://sunwhut.com sunwhut.com][https://github.com/sunwhut/sunwhut.github.io github仓库]--[http://weibo.com/sunwhut 微博]--[http://www.zhihu.com/people/sun-su-92 知乎]--[https://www.douban.com/people/104507499/ 豆瓣]（Wuhan,China）
+| &nbsp; || [https://github.com/sunwhut] || ★★★★★ || 网站 ：[http://sunwhut.com sunwhut.com]托管在：[https://github.com/sunwhut/sunwhut.github.io github仓库]--[http://weibo.com/sunwhut 微博]--[http://www.zhihu.com/people/sun-su-92 知乎]--[https://www.douban.com/people/104507499/ 豆瓣]（Wuhan,China）
 |}
 
 == 0.未分类 ==
