@@ -314,6 +314,10 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 | &nbsp; || [http://blog.cssforest.org/] || web || CSS森林(CSS Forest)
 |-
 | &nbsp; || [http://tinyvane.github.io/] || web || [http://www.wuliaole.com/ FOOLMAN 一个人的修行]--学习[https://github.com/tinyvane Github]-&-[http://www.wuliaole.com/tags/github/ 专题标签]
+|-
+| '''➤推荐阅读➤''' || &nbsp;  || &nbsp; || &nbsp;
+|-
+| &nbsp; || [https://github.com/xenuts] || ★★★★★ || 周祥增：[http://www.xenuts.com/ 主页]--[http://blog.xenuts.com/ Blog]
 |}
 
 == 0.未分类 ==
