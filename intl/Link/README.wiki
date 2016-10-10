@@ -9,15 +9,15 @@ taoste.github.io
 |-
 |  &nbsp;  ||   [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/README.wiki README.wiki] ||  &nbsp;  || Links-索引说明文档
 |-
-|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/Lantern-forum-README.md Lantern-forum-README.md] || wiki || 
+|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/Lantern-forum.md Lantern-forum.md] || wiki || 
 【转】蓝灯(Lantern)官方论坛
 |-
-|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/awesome-blogs-README.md awesome-blogs-README.md] || wiki || 
+|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/awesome-blogs.md awesome-blogs.md] || wiki || 
 【转】最佳 Coding Pages 博客合集
 |-
-|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/top-think.README.md top-think.README.md] || wiki || 
+|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/top-think.md top-think.md] || wiki || 
 【转】ThinkPHP5——为API开发而设计的高性能PHP框架（基于PHP5.4+）
 |-
-|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/github-cheat-sheet.README.zh-cn.md github-cheat-sheet.README.zh-cn.md] || wiki || 【转】GitHub秘籍
+|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/github-cheat-sheet.md github-cheat-sheet.md] || wiki || 【转】GitHub秘籍
 |}
 
