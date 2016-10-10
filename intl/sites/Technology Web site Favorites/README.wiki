@@ -324,6 +324,14 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
+| '''七牛云存储''' || &nbsp;  || &nbsp; ||介绍参见:[https://www.zhihu.com/topic/19719497/hot 知乎-热门问答] 
+|-
+| &nbsp; || [https://support.qiniu.com/hc/] || web || 七牛云存储 - 打造开发者最友好的企业云服务
+|-
+| &nbsp; || [https://github.com/qiniu] || web || 七牛云 - [Github]
+|-
+| &nbsp; || [https://twitter.com/qiniu] || web || 七牛云 - [Twitter]
+|-
 | '''廖雪峰的官方网站''' || &nbsp;  || &nbsp; ||介绍参见[http://www.zhihu.com/people/liaoxuefeng 知乎] 
 |-
 | &nbsp; || [http://www.liaoxuefeng.com/] || web || 廖雪峰的官方网站
