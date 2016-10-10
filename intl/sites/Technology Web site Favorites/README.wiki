@@ -319,7 +319,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://github.com/xenuts] || ★★★★★ || 周祥增 ：[http://www.xenuts.com/ 主页]--[http://blog.xenuts.com/ Blog]
 |-
-| &nbsp; || [https://github.com/iissnan] || ★★★★★ || 正峰 ：[http://iissnan.com/ 主页]--[http://notes.iissnan.com/ Blog]--[weibo.com/iissnan 新浪微博]--[https://twitter.com/iissnan Twitter]--[https://www.zhihu.com/people/iissnan 知乎]
+| &nbsp; || [https://github.com/iissnan] || ★★★★★ || 正峰 ：[http://iissnan.com/ 主页]--[http://notes.iissnan.com/ Blog]--[http://weibo.com/iissnan 微博]--[https://twitter.com/iissnan Twitter]--[https://www.zhihu.com/people/iissnan 知乎]
 iissnan
 |}
 
