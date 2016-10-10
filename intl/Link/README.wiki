@@ -21,5 +21,7 @@ taoste.github.io
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/github-cheat-sheet.md github-cheat-sheet.md] || wiki || 【转】GitHub秘籍
 |-
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/ele_demo.md ele_demo.md] || wiki ||仿【饿了么】订餐软件的一个demo
+|-
+|  &nbsp;  ||   [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/programthink-sites.md programthink-sites.md] ||  &nbsp;  || 【编程随想】收藏的各色网站
 |}
 
