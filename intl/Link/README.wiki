@@ -17,5 +17,7 @@ taoste.github.io
 |-
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/top-think.README.md top-think.README.md] || wiki || 
 【转】ThinkPHP5——为API开发而设计的高性能PHP框架（基于PHP5.4+）
+|-
+|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/github-cheat-sheet.README.zh-cn.md github-cheat-sheet.README.zh-cn.md] || wiki || 【转】GitHub秘籍
 |}
 
