@@ -1,8 +1,9 @@
 
-ele_demo（https://github.com/tigerguixh/ele_demo）
+ele_demo
 ========
 仿【饿了么】订餐软件的一个demo
 ==========
+
 [ele_demo]（https://github.com/tigerguixh/ele_demo）
 
  demo里包含的常用ui控件有
