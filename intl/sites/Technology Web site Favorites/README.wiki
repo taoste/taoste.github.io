@@ -325,7 +325,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [http://github.com/tangkunyin] || ★★★★★ || 唐先森(tangsir) ：[http://shuoit.net/ 网站]--[https://github.com/tangkunyin/hexo-theme-simple hexo主题]
 |-
-| &nbsp; || [https://github.com/suyan] || ★★★★★ || suyan ：[http://yansu.org/ 网站]--[https://github.com/suyan/suyan.github.io hexo主题]--[https://twitter.com/masonsuyan Twitter]
+| &nbsp; || [https://github.com/suyan] || ★★★★★ || 闫肃博客 ：[http://yansu.org/ 网站]--[https://github.com/suyan/suyan.github.io hexo主题]--[https://twitter.com/masonsuyan Twitter]
 |}
 
 == 0.未分类 ==
