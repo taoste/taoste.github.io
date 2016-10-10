@@ -7,7 +7,13 @@ taoste.github.io
 |-
 | '''Link''' ||   [https://github.com/taoste/taoste.github.io/tree/master/intl/Link ./intl/Link/] ||  &nbsp;  || github Links[收藏夹]
 |-
+| '''Link''' ||   [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/README.wiki README.wiki] ||  &nbsp;  || 索引说明文档
+|-
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/Lantern-forum-README.md Lantern-forum-README.md] || wiki || 
 【转】蓝灯(Lantern)官方论坛
+|-
+|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/awesome-blogs-README.md awesome-blogs-README.md] || wiki || 
+【转】最佳 Coding Pages 博客合集
+
 |}
 更多↓↓↓
