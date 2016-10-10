@@ -23,5 +23,7 @@ taoste.github.io
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/ele_demo.md ele_demo.md] || wiki ||仿【饿了么】订餐软件的一个demo
 |-
 |  &nbsp;  ||   [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/programthink-sites.wiki programthink-sites.wiki] ||  &nbsp;  || 【编程随想】收藏的各色网站
+|-
+|  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/MiCode-Notes.md MiCode-Notes.md] || wiki ||小米便签社区开源版
 |}
 
