@@ -27,6 +27,17 @@ taoste.github.io
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/MiCode-Notes.md MiCode-Notes.md] || wiki ||【转】小米便签社区开源版
 |-
 |  &nbsp; || [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/sofish-typo.css.md sofish-typo.css.md] || wiki ||【转】中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+|}
 
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''更多'''  || &nbsp;  ||  &nbsp; || &nbsp;
+|-
+|  &nbsp; || https://github.com/racaljk/hosts ||  github || 最新可用的google hosts文件。镜像： https://coding.net/u/scaffrey/p/hosts/git
+|-
+|  &nbsp; || https://github.com/hustcc/PTHospital.chrome  ||  github || [http://hust.cc/WjR1D3] Chrome浏览器插件——打开莆田系医院网站，发出警告提醒、显示医院信息。 
+|-
+|  &nbsp; || https://github.com/  ||  github || 。 
 |}
 
