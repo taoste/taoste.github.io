@@ -5,7 +5,7 @@ taoste.github.io
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''Link''' ||   [https://github.com/taoste/taoste.github.io/tree/master/intl/Link ./intl/Link/] ||  &nbsp;  || [收藏夹]
+| '''Link''' || &nbsp;  ||  &nbsp; || [https://github.com/taoste/taoste.github.io/tree/master/intl/Link ./intl/Link/][收藏夹] 
 |-
 |  &nbsp;  ||   [https://github.com/taoste/taoste.github.io/blob/master/intl/Link/README.wiki README.wiki] ||  &nbsp;  || Links-索引说明文档
 |-
