@@ -244,7 +244,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | '''Tor''' ||  &nbsp; || &nbsp; || Tor-介绍参见[https://zh.wikipedia.org/wiki/Tor 维基百科] 
 |-
-| &nbsp; || [https://www.torproject.org/] || 匿名 ||【Tor】的官方站点获取[https://bridges.torproject.org/ 网桥中继]
+| &nbsp; || [https://www.torproject.org/] || 匿名 ||【Tor】的官方站点获取:[https://bridges.torproject.org/ 网桥中继]
 |-
 | '''➤资源索引''' ||  &nbsp; || &nbsp; ||  参见-维基百科：[https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8 匿名服务列表]
 |-
@@ -260,11 +260,11 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | '''➤参考资料''' ||  &nbsp; || &nbsp; ||  &nbsp;
 |-
-| &nbsp; || [https://program-think.blogspot.com/2014/10/gfw-tor-meek.html 编程随想的博客] || web || “如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理（2014年10月19日）[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
+| &nbsp; || [https://program-think.blogspot.com/2014/10/gfw-tor-meek.html 编程随想的博客] || web || “如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理（2014年10月19日）》》更多 ：[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
 |-
-| &nbsp; || [https://program-think.blogspot.com/2013/11/tor-faq.html 编程随想的博客] || web || “如何翻墙”系列：关于 TOR 的常见问题解答（2013年11月11日）[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
+| &nbsp; || [https://program-think.blogspot.com/2013/11/tor-faq.html 编程随想的博客] || web || “如何翻墙”系列：关于 TOR 的常见问题解答（2013年11月11日）》》更多 ：[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
 |-
-| &nbsp; || [https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html 编程随想的博客] || web || “如何翻墙”系列：戴“套”翻墻的方法（2009年9月26日）[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
+| &nbsp; || [https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html 编程随想的博客] || web || “如何翻墙”系列：戴“套”翻墻的方法（2009年9月26日）》》更多 ：[https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99 label:IT.翻墙]
 |-
 | &nbsp; || [https://pao-pao.net/article/230  泡泡] || web || Tor“重返”中国：翻墙与进入“深网”（10/23/2014 - 11:34）
 |-
@@ -287,14 +287,6 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://github.com/] || web || GitHub官方主站点
 |-
-| &nbsp; || [https://github.com/lifesinger] || GitHub || 淘宝著名前端工程师：玉伯lifesinger
-|-
-| &nbsp; || [https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng] || GitHub || 把廖雪峰Git教程整理成PDF版
-|-
-| &nbsp; || [https://github.com/hoosin/EveryDaySport] || GitHub || 天天锻炼计划
-|-
-| &nbsp; || [https://github.com/hoosin/free-programming-books-zh_CN] || GitHub || 免费的计算机编程类中文书籍
-|-
 | '''coding.net国内代码托管''' || &nbsp; || &nbsp; ||  &nbsp; 
 |-
 | &nbsp; || [https://coding.net/] || web || coding官方主站点[https://coding.net/help/ Help帮助]
@@ -302,6 +294,14 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 | &nbsp; || [https://github.com/Coding/awesome-blogs 最佳Coding-Pages博客合集] || web || coding官方[https://github.com/Coding github]站点&最佳[http://pages.coding.me Coding-Pages]博客合集
 |-
 | '''➤参考资料➤''' || &nbsp;  || &nbsp; || &nbsp;
+|-
+| &nbsp; || [https://github.com/lifesinger] || GitHub || 淘宝著名前端工程师：玉伯lifesinger
+|-
+| &nbsp; || [https://github.com/numbbbbb/Git-Tutorial-By-liaoxuefeng] || GitHub || 把廖雪峰Git教程整理成PDF版
+|-
+| &nbsp; || [https://github.com/hoosin/EveryDaySport] || GitHub || 天天锻炼计划
+|-
+| &nbsp; || [https://github.com/hoosin/free-programming-books-zh_CN] || GitHub || 免费的计算机编程类中文书籍
 |-
 | &nbsp; || [http://wiki.jikexueyuan.com/project/github-basics/ 极客学院] || web || GitHub 使用手册 - 基础篇
 |-
@@ -317,7 +317,10 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | '''➤推荐阅读➤''' || &nbsp;  || &nbsp; || &nbsp;
 |-
-| &nbsp; || [https://github.com/xenuts] || ★★★★★ || 周祥增：[http://www.xenuts.com/ 主页]--[http://blog.xenuts.com/ Blog]
+| &nbsp; || [https://github.com/xenuts] || ★★★★★ || 周祥增 ：[http://www.xenuts.com/ 主页]--[http://blog.xenuts.com/ Blog]
+|-
+| &nbsp; || [https://github.com/iissnan] || ★★★★★ || 正峰 ：[http://iissnan.com/ 主页]--[http://notes.iissnan.com/ Blog]--[weibo.com/iissnan 新浪微博]--[https://twitter.com/iissnan Twitter]--[https://www.zhihu.com/people/iissnan 知乎]
+iissnan
 |}
 
 == 0.未分类 ==
@@ -332,7 +335,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://twitter.com/qiniu] || web || 七牛云 - [Twitter]
 |-
-| '''廖雪峰的官方网站''' || &nbsp;  || &nbsp; ||介绍参见[http://www.zhihu.com/people/liaoxuefeng 知乎] 
+| '''廖雪峰的官方网站''' || &nbsp;  || &nbsp; ||介绍参见:[http://www.zhihu.com/people/liaoxuefeng 知乎] 
 |-
 | &nbsp; || [http://www.liaoxuefeng.com/] || web || 廖雪峰的官方网站
 |-
