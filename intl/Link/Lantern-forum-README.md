@@ -1,8 +1,9 @@
 ## 蓝灯(Lantern)最新版本下载
-
+**🔴[蓝灯(Lantern)官方论坛](https://github.com/getlantern/forum)🔴**
 **🔴[蓝灯最新版本下载地址请点这里](https://github.com/getlantern/forum/issues/833)🔴**
 
 最新版本是3.2.x
+(稳定版 Lantern 2.2.5 (20160627.192617)-备记2016年10月10日15:53:28)
 
 [Windows 版本(要求XP SP3以上)] (https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe)      [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-beta.exe)  
 
