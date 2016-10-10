@@ -1,5 +1,5 @@
 ## 蓝灯(Lantern)最新版本下载
-**🔴[蓝灯(Lantern)官方论坛](https://github.com/getlantern/forum)🔴**
+[蓝灯(Lantern)官方论坛](https://github.com/getlantern/forum)
 **🔴[蓝灯最新版本下载地址请点这里](https://github.com/getlantern/forum/issues/833)🔴**
 
 最新版本是3.2.x
