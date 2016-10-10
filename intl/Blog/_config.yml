@@ -1,0 +1,50 @@
+# Site settings
+title: "Le Ge's Blog"
+email: taoste@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  "Su Yan's Tech Blog"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://choong.net" # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Le Ge
+twitter:
+  username: geshi2500
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+
+# Social account
+twitter: geshi2500
+# weibo:    ID
+github: taoste
+# codepen:  username
+# dribbble: username
+
+# avatar and Favicon
+avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+# disqus config
+disqus:
+  shortname: LeGe-en
+
+# google analytics config
+ga:
+  id: UA-54767140-2
+  url: choong.net
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
