@@ -330,6 +330,8 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 | &nbsp; || [https://github.com/suyan] || ★★★★★ || 闫肃博客 ：[http://yansu.org/ 网站]--[https://github.com/suyan/suyan.github.io hexo主题]--[https://twitter.com/masonsuyan Twitter]
 |-
 | &nbsp; || [https://github.com/DIYgod] || ★★★★★ || 范文杰 ：[http://html.love 网站]--[https://github.com/DIYgod/Resume hexo主题]--[www.anotherhome.net Blog]
+|-
+| &nbsp; || [https://github.com/zhaoda/] || ★★★★★ || 赵达的个人网站 ：[http://zhaoda.net/ 主页]--[https://github.com/zhaoda/zhaoda.github.io hexo主题]
 |}
 
 == 0.未分类 ==
