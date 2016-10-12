@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+<style>
+.center_css {
+	width: 1100px;
+	margin: 0 auto;
+	position: relative
+}
+.roll_css {
+	background: url(images/roll.png) no-repeat;
+	height: 545px;
+	width: 113px;
+	float: left;
+	position: relative;
+	z-index: 100;
+}
+.substance {
+	width: 50px;
+	background: url(images/substance.png) no-repeat;
+	float: left;
+	height: 386px;
+	margin-top: 88px;
+	margin-left: -20px;
+	margin-right: -20px;
+	position: relative;
+	z-index: 1;
+	transition: width 2s;
+	-moz-transition: width 2s;	/* Firefox 4 */
+	-webkit-transition: width 2s;	/* Safari 和 Chrome */
+	-o-transition: width 2s;	/* Opera */
+	cursor:pointer;
+}
+.substance:hover {
+	width:905px;
+}
+</style>
+</head>
+
+<body>
+<div><h2 align="center">鼠标放至卷轴中间慢慢向右拖动以打开卷轴，支持IE9以上IE,双核浏览器极速模式</h2></div>
+<div class="center_css">
+  <div class="roll_css"> &nbsp; </div>
+  <div class="substance">&nbsp;</div>
+  <div class="roll_css"> &nbsp; </div>
+</div>
+</body>
+</html>
