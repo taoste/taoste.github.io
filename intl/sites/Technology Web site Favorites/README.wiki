@@ -141,7 +141,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://zeronet.readthedocs.org/en/latest/ en] || web || 【ZeroNet网络】官方文档
 |-
-| &nbsp; || [http://127.0.0.1:43110/] || web || 成功安装[ZeroNet]以后的访问IP
+| &nbsp; || [http://127.0.0.1:43110/] || web || 成功安装[ZeroNet]以后的访问IP。【重要说明】备份你的ZeroNet帐号/私钥：ZeroBundle\ZeroNet\data\users.json这个文件相当于你的比特币钱包。
 |-
 | &nbsp; || [https://bit.no.com:43110/] || web || 未安装，则可使用ZeroNet的网关bit.no.com访问Namecoin Web代理
 |-
