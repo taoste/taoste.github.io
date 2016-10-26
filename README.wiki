@@ -2,7 +2,7 @@
 <h1>README.wiki</h1>
 
 = =
-
+![choong-logo](taoste.github.io/images/choong-logo.png)
 = 阅读说明 =
 # 欢迎访问[https://github.com/taoste/taoste.github.io github]--[https://taoste.github.io taoste.github.io] 
 # 为了看起来方便，按照files分类。
