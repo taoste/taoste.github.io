@@ -1,6 +1,6 @@
 == 关注微信==
 
-- 如果想进一步了解我，请关注<B>微信二维码</B>（QRcode）。
+- 如果想进一步了解我，请扫描下方<B>微信二维码</B>（QRcode）即可关注。
 &copy;[Taoste](https://zh.wikipedia.org/wiki/User:Taoste)
 
 <img src="/images/choong-logo.png" width="200" height="200"><img src="/images/qrcode.jpg" width="200" height="200">
