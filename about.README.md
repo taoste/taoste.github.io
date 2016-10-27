@@ -13,11 +13,13 @@
 <p>语法:</p>
 
 <pre><code>
-< img src="图片地址" alt="下载失败时的替换文本" title = "提示文本"/ >
+< img src="图片地址" alt="下载失败时的替换文本" title = "提示文本"  width="800" height="600" / >
 </code></pre>
 
 <p>举例:</p>
-<img src="./images/shengshi.png" alt="shengshi" title = "shengshi" /> 
+
+<img src="./images/shengshi.png" alt="shengshi" title = "shengshi"  width="1024" height="768" /> 
 
 == 美图赏析 ==
+
 <img src="/images/mm.jpg"/>
