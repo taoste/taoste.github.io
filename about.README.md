@@ -9,15 +9,12 @@
 
 [慕课网:《HTML+CSS基础课程》](http://www.imooc.com/learn/9) - 认识<img>标签，为网页插入图片 http://www.imooc.com/code/318
 
-
 <p>语法:</p>
-
 <pre><code>
 < img src="图片地址" alt="下载失败时的替换文本" title = "提示文本"  width="800" height="600" / >
 </code></pre>
 
 <p>举例:</p>
-
 <img src="./images/shengshi.png" alt="shengshi" title = "shengshi"  width="1024" height="768" /> 
 
 == 美图赏析 ==
