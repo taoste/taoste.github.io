@@ -66,10 +66,7 @@
 |}
 
 == ③关注微信==
-[https://github.com/taoste/taoste.github.io/about.README.wiki about.README]
-# wikipedia：[https://zh.wikipedia.org/wiki/User:Taoste @Taoste]
-<img src="/images/qrcode.jpg"/>
-<img src="/images/choong-logo.png" alt="choong-logo" title = "choong-logo">
 
-
-
+- wikipedia：[https://zh.wikipedia.org/wiki/User:Taoste @Taoste]-[https://github.com/taoste/taoste.github.io/about.README.wiki about.README]
+<img src="/images/qrcode.jpg"/ width="200" height="200">
+<img src="/images/choong-logo.png" alt="choong-logo" title = "choong-logo"  width="200" height="200">
