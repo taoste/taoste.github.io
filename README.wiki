@@ -66,8 +66,6 @@
 |}
 
 == ③关注微信==
-如果想进一步了解我，请参阅我的：[https://github.com/taoste/taoste.github.io/about.README.md about.README.md]。&copy;[https://zh.wikipedia.org/wiki/User:Taoste Taoste]
+如果想进一步了解我，请参阅我的：[/about.README.md about.README.md]。&copy;[https://zh.wikipedia.org/wiki/User:Taoste Taoste]
 
-<img src="/images/qrcode.jpg" width="100" height="100">
 
-<img src="/images/choong-logo.png" width="100" height="100">
