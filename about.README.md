@@ -1,4 +1,5 @@
-返回[[首页]] (https://github.com/taoste/taoste.github.io/blob/master/README.wiki)
+- 返回[[wiki首页]] (https://github.com/taoste/taoste.github.io/blob/master/README.wiki)
+- 返回[[web主站]] (https://taoste.github.io)
 
 == 关注微信==
 
