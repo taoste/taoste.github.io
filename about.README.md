@@ -1,3 +1,5 @@
+返回[[首页]] (https://github.com/taoste/taoste.github.io/blob/master/README.wiki)
+
 == 关注微信==
 
 - 如果想进一步了解我，请扫描下方<B>微信二维码</B>（QRcode）即可关注。
