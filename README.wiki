@@ -65,16 +65,12 @@
 | '''sites''' || [https://github.com/taoste/taoste.github.io/tree/master/intl/sites/Software%20Web%20site%20Favorites (三)软件收藏夹] || wiki || ./intl/sites/Software Web site Favorites/
 |}
 
-== ③美图赏析 ==
-<img src="/images/mm.jpg"/>
+== ③关注微信==
 
-<img src="/images/shengshi.png"/>
-
-
-== ④关注微信==
 <img src="/images/choong-logo.png" alt="choong-logo" title = "choong-logo">
+wikipedia：[https://zh.wikipedia.org/wiki/User:Taoste @Taoste]
 # <img src="/images/qrcode.jpg"/>
-[https://zh.wikipedia.org/wiki/User:Taoste @Taoste]
+
 
 认识<img>标签，为网页插入图片-慕课网 http://www.imooc.com/code/318
 
@@ -85,3 +81,11 @@
 举例：
 
 <img src = "choong-logo.png" alt = "choong-logo" title = "choong-logo" />
+
+
+== ④美图赏析 ==
+<img src="/images/mm.jpg"/>
+
+<img src="./images/shengshi.png"/>
+
+
