@@ -3,7 +3,7 @@
 
 *短縮URL: [`http://git.io/sheet`](http://git.io/sheet)*
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
+*Read this in other languages: [English](README.en-us.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
 
 # 目次
 - [GitHub](#github)
