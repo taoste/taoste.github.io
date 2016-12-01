@@ -250,7 +250,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://www.torproject.org/] || 匿名 ||【Tor】的官方站点获取:[https://bridges.torproject.org/ 网桥中继]
 |-
-| &nbsp; || [https://github.com/TheTorProject/gettorbrowser] || 匿名 ||【Tor】的Github站点获取:[https://github.com/TheTorProject/gettorbrowser]
+| &nbsp; || [https://github.com/TheTorProject/gettorbrowser] || 匿名 ||【Tor】的:[https://github.com/TheTorProject/gettorbrowser Github站点]获取
 |-
 | '''➤资源索引''' ||  &nbsp; || &nbsp; ||  参见-维基百科：[https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8 匿名服务列表]
 |-
