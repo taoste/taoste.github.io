@@ -33,7 +33,7 @@
 |}
 
 == 2.应用软件 ==
-
+Download Free Software [http://filehippo.com/zh/]
 {|
 ! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
 |-
@@ -87,7 +87,7 @@
 |-
 | &nbsp; || [ ] || ★★★★★  || PC || Avast Free Antivirus
 |-
-| &nbsp; || [ ] || ★★★★★  || PC || CCleaner（64bit）电脑垃圾清理工具
+| &nbsp; || [ ] || ★★★★★  || PC || CCleaner（64bit）电脑垃圾清理工具-[http://www.piriform.com/ccleaner/download 官方下载]-[http://filehippo.com/zh/download_ccleaner/ 历史版本下载]
 |-
 | &nbsp; || [ ] || ★★★★★  || PC || rufus-2.2（Windows 10安装U盘创建工具）
 |-
@@ -145,7 +145,7 @@
 |-
 | &nbsp; || [ ] || ★★★★★  || PC || Thunder （迅雷）
 |-
-| &nbsp; || [ ] || ★★★★★  || PC || EagleGet （猎鹰下载）
+| &nbsp; || [ ] || ★★★★★  || PC || EagleGet-推荐官网下载（[http://www.eagleget.com/cn/ 猎鹰下载])
 |-
 | &nbsp; || [ ] || ★★★★★  || PC || 百度云管家
 |-
