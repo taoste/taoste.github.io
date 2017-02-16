@@ -372,7 +372,9 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | '''创意工作者导航''' || &nbsp;  || &nbsp; ||介绍参见[] 
 |-
-| &nbsp; || [http://chuangzaoshi.com/] || web || 创造狮-一个实用的创意工作者导航
+| &nbsp; || [http://chuangzaoshi.com/] || web || 创造狮 | 一个实用的创意工作者导航
+|-
+| &nbsp; || [http://mp.byr.wiki/] || web || 新媒体导航 | 聚合媒体从业人员常用站点，一个入口轻松搞定
 |}
 
 = 科学上网拯救智商 =
