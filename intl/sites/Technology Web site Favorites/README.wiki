@@ -369,6 +369,10 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 | &nbsp; || [http://www.jikexueyuan.com/] || web || 极客学院
 |-
 | &nbsp; || [http://tinyvane.github.io/] || web || [http://www.wuliaole.com/ FOOLMAN 一个人的修行]--[https://github.com/tinyvane Github]
+|-
+| '''创意工作者导航''' || &nbsp;  || &nbsp; ||介绍参见[] 
+|-
+| &nbsp; || [http://chuangzaoshi.com/] || web || 创造狮-一个实用的创意工作者导航
 |}
 
 = 科学上网拯救智商 =
