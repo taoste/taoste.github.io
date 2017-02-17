@@ -344,6 +344,46 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 | &nbsp; || [https://github.com/zhaoda/] || ★★★★★ || 赵达的个人网站 ：[http://zhaoda.net/ 主页]--[https://github.com/zhaoda/zhaoda.github.io hexo主题]
 |}
 
+== 7.Evernote（印象笔记） ==
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''Evernote（印象笔记）''' || &nbsp;  || &nbsp; ||介绍参见:[https://zh.wikipedia.org/wiki/Evernote Evernote - 维基百科] 
+|-
+| &nbsp; || [https://evernote.com/intl/zh-cn/] || ★★★★★ || 工作必备效率应用 | Evernote 国际版（Evernote International）
+|-
+| &nbsp; || [https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc 扩展程序：印象笔记·剪藏] || ★★★★★ || Evernote | 谷歌Chrome浏览器扩展程序
+|-
+| &nbsp; || [https://www.yinxiang.com/] || ☆★★★☆ ||  印象笔记（Evernote中国版）
+|-
+| &nbsp; || [https://list.yinxiang.com/] || web || 印象笔记-清单
+|-
+| &nbsp; || [https://appcenter.evernote.com/zh-cn] || web || Evernote-百宝箱
+|-
+| &nbsp; || [https://blog.evernote.com/zhtw/] || web || Evernote Blog (zh-tw) | 正体中文版官方部落格
+|-
+| &nbsp; || [https://blog.yinxiang.com/] || web || 印象笔记 Blog | 官方博客
+|-
+| &nbsp; || [http://twitter.com/evernote Twitter] || web || Evernote官方twitter
+|-
+| &nbsp; || [http://facebook.com/evernote/ Facebook] || web || Evernote官方facebook
+|-
+| &nbsp; || [http://www.youtube.com/user/EvernoteVideos YouTuBe] || web || Evernote官方youtube
+|-
+| &nbsp; || [https://www.instagram.com/evernote/ Instagram] || web || Evernote官方Instagram 照片和视频(@evernote)
+|-
+| '''➤推荐阅读➤''' || &nbsp;  || &nbsp; || &nbsp;
+|-
+| &nbsp; || [https://help.evernote.com/hc/zh-cn] || ★★★★★ || Evernote帮助中心
+|-
+| &nbsp; || [https://evernote.com/intl/zh-cn/community/ Evernote大使] || web || Evernote官方社区
+
+|-
+| &nbsp; || [http://xbeta.info/tag/Evernote] || ★★★★★ || [http://xbeta.info/ 善用佳软]中的Evernote中文教程（简体中文）
+|-
+| &nbsp; || [https://www.douban.com/group/yinxiangbiji/] || ★★★★★ ||  [https://www.douban.com/ 豆瓣小组]中的印象笔记小组
+|}
+
 == 0.未分类 ==
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
