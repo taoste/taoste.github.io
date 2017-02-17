@@ -366,7 +366,7 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 |-
 | &nbsp; || [https://www.instagram.com/evernote/ Instagram] || web || Evernote官方Instagram 照片和视频(@evernote)
 |-
-| '''印象笔记（Evernote中国版）''' || &nbsp;  || &nbsp; || &nbsp;
+| '''印象笔记''' || &nbsp;  || &nbsp; || &nbsp;
 |-
 | &nbsp; || [https://www.yinxiang.com/] || ☆★★★☆ ||  印象笔记（Evernote中国版）
 |-
@@ -379,11 +379,10 @@ ZeroNet 是一个以P2P用户为基础而构成的类互联网的分布式网络
 | &nbsp; || [https://help.evernote.com/hc/zh-cn] || ★★★★★ || Evernote帮助中心
 |-
 | &nbsp; || [https://evernote.com/intl/zh-cn/community/ Evernote大使] || web || Evernote官方社区
-
 |-
 | &nbsp; || [http://xbeta.info/tag/Evernote] || ★★★★★ || [http://xbeta.info/ 善用佳软]中的Evernote中文教程（简体中文）
 |-
-| &nbsp; || [https://www.douban.com/group/yinxiangbiji/] || ★★★★★ ||  [https://www.douban.com/ 豆瓣小组]中的印象笔记小组
+| &nbsp; || [https://www.douban.com/group/yinxiangbiji/] || ☆★★★☆ ||  [https://www.douban.com/ 豆瓣小组]中的印象笔记小组
 |}
 
 == 0.未分类 ==
