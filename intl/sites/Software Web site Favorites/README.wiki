@@ -247,11 +247,11 @@ Download Free Software [http://filehippo.com/zh/]
 |-
 | &nbsp; || [ ] || ★★★★★  || PC || 掌控局域网监控软件 1.028
 |-
-| &nbsp; || [ ] || ★★★★★  || PC || VeraCrypt （开源加密软件）【新】
+| &nbsp; || [https://veracrypt.codeplex.com/] || ★★★★★  || PC || VeraCrypt （开源加密软件）【新】
 |-
-| &nbsp; || [ ] || ★★★★★  || PC || TrueCrypt（已停止开源更新不安全）【弃】
+| &nbsp; || [http://www.truecrypt.org/] || ★★★★★  || PC || TrueCrypt（已停止开源更新不安全）【弃】
 |-
-| &nbsp; || [ ] || ★★★★★  || PC || BitTorrent Sync （文件同步传输）
+| &nbsp; || [ ] || ★★★★★  || PC || BitTorrent Sync （文件同步传输）（注意，BitTorrent Sync 现已改名为 Resilio Sync，两者是同一款软件）
 |-
 | &nbsp; || [ ] || ★★★★★  || PC || BitComet
 |}
