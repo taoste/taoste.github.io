@@ -164,7 +164,7 @@ Download Free Software [http://filehippo.com/zh/]
 | &nbsp; || [ ] || ★★★★★  || PC || U大师启动盘制作工具
 |}
 
-== 2.效率工具 ==
+== 3.效率工具 ==
 
 {|
 ! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
@@ -212,7 +212,7 @@ Download Free Software [http://filehippo.com/zh/]
 | &nbsp; || [ ] || ★★★★★  || PC || 小骥会务管理系统
 |}
 
-== 3.设计师工具 ==
+== 4.设计师工具 ==
 
 {|
 ! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
@@ -238,7 +238,7 @@ Download Free Software [http://filehippo.com/zh/]
 | &nbsp; || [ ] || ★★★★★  || PC || Adobe Illustrator CS6
 |}
 
-== 4.网络攻防工具 ==
+== 5.网络攻防工具 ==
 
 {|
 ! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
@@ -251,12 +251,12 @@ Download Free Software [http://filehippo.com/zh/]
 |-
 | &nbsp; || [http://www.truecrypt.org/] || ★★★★★  || PC || TrueCrypt（已停止开源更新不安全）【弃】
 |-
-| &nbsp; || [ ] || ★★★★★  || PC || BitTorrent Sync （文件同步传输）（注意，BitTorrent Sync 现已改名为 Resilio Sync，两者是同一款软件）
+| &nbsp; || [https://www.resilio.com/] || ★★★★★  || PC || BitTorrent Sync （文件同步传输）（注意，BitTorrent Sync 现已改名为 Resilio Sync，两者是同一款软件）
 |-
-| &nbsp; || [ ] || ★★★★★  || PC || BitComet
+| &nbsp; || [https://www.bitcomet.com/en] || ★★★★★  || PC || BitComet
 |}
 
-== 5.科学上网 ==
+== 6.科学上网 ==
 ➤翻越防火长城，你可以到达世界上的每一个角落。（Across the Great Firewall, you can reach every corner in the world.）...[https://github.com/taoste/taoste.github.io/blob/master/intl/sites/Technology%20Web%20site%20Favorites/README.wiki#科学上网拯救智商 《更多专题》]
 {|
 ! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
