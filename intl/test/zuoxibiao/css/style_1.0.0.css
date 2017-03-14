@@ -1,0 +1,220 @@
+/*
+KISSY CSS Reset
+
+reset.css
+
+*/
+
+/** 清除内外边距 **/
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, /* structural elements 结构元素 */
+dl, dt, dd, ul, ol, li, /* list elements 列表元素 */
+pre, /* text formatting elements 文本格式元素 */
+form, fieldset, legend, button, input, textarea, /* form elements 表单元素 */
+th, td /* table elements 表格元素 */ {
+    margin: 0;
+    padding: 0;
+}
+
+/** 设置默认字体 **/
+body,
+button, input, select, textarea /* for ie */ {
+    font: 12px/1.5 tahoma, arial, simsun, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 { font-size: 100%; }
+address, cite, dfn, em, var { font-style: normal; } /* 将斜体扶正 */
+code, kbd, pre, samp { font-family: courier new, courier, monospace; } /* 统一等宽字体 */
+small { font-size: 12px; } /* 小于 12px 的中文很难阅读，让 small 正常化 */
+
+/** 重置列表元素 **/
+ul, ol { list-style: none; }
+
+/** 重置文本格式元素 **/
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+sup { vertical-align: text-top; } /* 重置，减少对行高的影响 */
+sub { vertical-align: text-bottom; }
+
+/** 重置表单元素 **/
+legend { color: #000; } /* for ie6 */
+fieldset, img { border: 0; } /* img 搭车：让链接里的 img 无边框 */
+button, input, select, textarea { font-size: 100%; } /* 使得表单元素在 ie 下能继承字体大小 */
+/* 注：optgroup 无法扶正 */
+
+/** 重置表格元素 **/
+table { border-collapse: collapse; border-spacing: 0; }
+/* layout.css */
+/* 始终显示纵向滚动条 */
+html {
+	overflow-y:scroll;
+	overflow:-moz-scrollbars-vertical;
+}
+/* 全站字体风格 */
+body {
+  color:#4d4d4d;
+  background:#fff;
+  font-size: 14px;
+}
+/* 链接默认样式 */
+a{
+	color:#07f;	
+	cursor:pointer;
+	text-decoration:none;
+	outline:none;
+}
+a:hover{
+ color:#07f;
+ text-decoration:underline;
+}
+h1{
+	font-size: 24px;
+}
+h2{
+	font-size: 18px;
+}
+
+.small      { font-size: .8em;}
+.large      { font-size: 1.2em;}
+.hide       { display: none; }
+
+.quiet      { color: #666; }
+.loud       { color: #000; }
+.highlight  { background:#ff0; }
+.mt20{
+	margin-top:20px;
+}
+
+/* 设置自清除浮动，.clearfix可作为应用 */ 
+.clearfix:after,#header:after,#content:after,#aside:after,#footer:after,.pop-container:after,.fm-item:after,.fm-title:after,.page:after,.title:after,.pop:after,.timeline dl:after{
+  clear:both;
+  content:'.';
+  display:block;
+  height:0;
+  visibility:hidden;
+}
+
+.clearfix,#header,#content,#aside,.pop-container,.fm-item,.fm-title,.page,.title,.pop,.timeline dl{
+  zoom:1;
+}
+
+#container{
+	background: #374347;
+	padding-bottom:20px;
+}
+#header{
+	background: #fff;
+	height: 90px;
+}
+.header-wrap{
+	width: 960px;
+	margin: 0 auto;
+}
+.header-logo{
+	float:left;
+	margin-top:30px;
+}
+.header-slogan .quote{
+	font-size:24px;
+	font-family: Arial;
+	color: #ccc;
+}
+.header-slogan{
+	float: right;
+	margin-top: 45px;
+	color: #6d747a;
+}
+#content{
+		width: 960px;
+		margin: 0 auto;	
+		background: #fff;
+}
+body{
+	background: #f00;
+	padding:0;
+	margin:0;
+}
+.content-title{
+	background:transparent url(/img/title_bg.jpg) no-repeat scroll 0 0;
+	height: 70px;
+	width: 960px;
+	line-height: 70px;
+	text-indent: 45px;
+	color:#fff;
+	text-shadow: 1px 1px 3px #74B537;
+}
+
+.timeline dl{
+	margin: 0 20px;
+	border-top: 1px solid #f0f0f0;
+}
+.timeline dl.current{
+	margin: 0;
+}
+.timeline dt{
+	font-size: 22px;
+	font-family: Times;
+	font-weight: bold;
+	color: #344450;
+	padding: 0 15px;
+	height: 40px;
+	line-height: 40px;
+}
+.timeline dd{
+	color:#566670;
+}
+.timeline dd{
+	padding: 15px;
+}
+.timeline{
+	margin: 20px 25px;
+}
+.timeline dl dt{
+	background: #e2e2e2;
+}
+/*border-radius: 30px; 
+border: 15px solid #dedede;
+-moz-border-radius: 15px;
+-webkit-border-radius: 15px;*/
+.timeline dl dd{
+	background: #f4f4f4;
+}
+.timeline dl.current{
+	border: none;
+  	-moz-border-radius: 5px;
+  	-webkit-border-radius: 5px;
+  	border-radius: 5px;	
+	-moz-box-shadow: 0px 0px 6px #888;
+	-webkit-box-shadow: 0px 0px 6px #888;
+	box-shadow: 0px 0px 6px #888;
+	position: relative;
+}
+.timeline dl.current dt{
+	background: #7cc64b;
+	color:#fff;
+  	-moz-border-radius-topleft: 5px;
+  	-moz-border-radius-topright: 5px;
+  	-webkit-border-top-left-radius: 5px;
+  	-webkit-border-top-right-radius: 5px;
+  	border-top-left-radius: 5px;
+  	border-top-right-radius: 5px;
+}
+.timeline dl.current dd{
+	background: #e7f9c9;
+	color:#409092;
+	-moz-border-radius-bottomleft: 5px;
+  	-moz-border-radius-bottomright: 5px;
+  	-webkit-border-bottom-left-radius: 5px;
+  	-webkit-border-bottom-right-radius: 5px;
+  	border-bottom-left-radius: 5px;
+  	border-bottom-right-radius: 5px;
+}
+#footer{
+	width: 910px;
+	margin: 0 auto;
+	padding: 39px 35px 20px;
+	background:url("/img/footer_corners.jpg") no-repeat scroll center top transparent;
+}
+.footer-copyright{
+	color: #6C989B;
+	font-size: 9px;
+}
