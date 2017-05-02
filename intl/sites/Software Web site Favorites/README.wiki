@@ -265,7 +265,7 @@ Download Free Software [http://filehippo.com/zh/]
 |-
 | &nbsp; || [Zeronet] || ★★★★★  || PC ||  【零网】
 |-
-| &nbsp; || [https://www.torproject.org/download/download-easy.html.en  Start Tor Browser] || ★★★★★  || PC || 【Tor】[https://www.torproject.org/官网]
+| &nbsp; || [https://www.torproject.org/download/download-easy.html.en  Start Tor Browser] || ★★★★★  || PC || 【Tor】[https://www.torproject.org/ 官网] | [https://github.com/TheTorProject/gettorbrowser Github站点获取]
 |-
 | &nbsp; || [Psiphon] || ★★★★★  || PC || Psiphon[PC/Android]
 |-
