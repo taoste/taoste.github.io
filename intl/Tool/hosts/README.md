@@ -5,6 +5,8 @@
 
 > 使用本项目前，请先阅读 [README](README.md) 和 [License](#license)
 
+>  -参考：（ [原站](https://github.com/racaljk/hosts) ）
+
 |      [聊天室][chat-room]       |    [hosts 格式检测][travis-status]    |  [镜像hosts][mirror_of_hosts]  |  [常见问题解答][faq] |
 | :----------------------------: | :-----------------------------------: |  :---------------------------: |  :-----------------: |
 |  [![chat-metadata]][chat-room] |  [![travis-metadata]][travis-status]  |  [![coding.net]][coding-link]  |  [![faq-icon]][faq]  |
