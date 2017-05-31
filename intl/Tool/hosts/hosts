@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-05-27
+# Last updated: 2017-05-29
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -61,6 +61,7 @@
 61.91.161.217	android-developers.blogspot.hk
 61.91.161.217	officialandroid.blogspot.com
 61.91.161.217	program-think.blogspot.com
+
 61.91.161.217	android.googlecode.com
 61.91.161.217	android.googlesource.com
 61.91.161.217	android-review.googlesource.com
@@ -72,7 +73,6 @@
 64.233.188.121	tools.android.com
 64.233.191.121	jmoore-dot-android-experiments.appspot.com
 64.233.191.121	maven.google.com
-
 # Android End
 
 # Apkpure Start
@@ -445,6 +445,7 @@
 61.91.161.217	isp.google.com
 61.91.161.217	issuetracker.google.com
 61.91.161.217	jmt0.google.com
+61.91.161.217	jmt17.google.com
 61.91.161.217	keep.google.com
 61.91.161.217	mapsengine.google.com
 61.91.161.217	myaccount.google.com
