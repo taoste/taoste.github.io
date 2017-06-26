@@ -2,6 +2,9 @@
 [维基百科：W3Schools](https://zh.wikipedia.org/wiki/W3Schools) -  （https://www.w3schools.com/）
 
 ---
+手电筒效果：使用 CSS Shape 和 CSS Clipping，实现得非常简单！ https://codepen.io/ladybenko/pen/qmvKrM/ 
+
+---
 
 - ### [网页特殊符号HTML代码大全](http://guyuyuan.blog.51cto.com/8666992/1930878)  - @51CTO技术博客
  - ### [HTML 转义字符](http://33997k7k.blog.51cto.com/12877992/1925838)  - @51CTO技术博客
