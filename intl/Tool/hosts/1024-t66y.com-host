@@ -6,10 +6,18 @@
 #46.82.174.68   t66y.com 意大利 
 
 -----------------------------------
-ipconfig /flushdns 清除系统DNS缓存
-
 t66y.com服务器ip t66y.com域名解析 t66y.comip查询 t66y.com域名ip查询
 http://site.ip138.com/t66y.com/
+-----------------------------------
+C:\Users\root>nslookup t66y.com 119.29.29.29
+服务器:  pdns.dnspod.cn
+Address:  119.29.29.29
+
+非权威应答:
+名称:    t66y.com
+Address:  243.185.187.39
+-----------------------------------
+ipconfig /flushdns 清除系统DNS缓存
 
 【跟踪路由】
 tracert 192.168.0.1
