@@ -1,13 +1,23 @@
 
-59.24.3.173  t66y.com 保留地址 
+域名服务器缓存污染 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh/%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%93%E5%AD%98%E6%B1%A1%E6%9F%93
+
+-----------------------------------
+t66y.com服务器ip t66y.com域名解析 t66y.comip查询 t66y.com域名ip查询
+http://site.ip138.com/59.24.3.173/
+
+#59.24.3.173  t66y.com 保留地址 
 #104.25.31.112  t66y.com 美国 
 #8.7.198.45  t66y.com 韩国 
 #243.185.187.39   t66y.com 德国 
 #46.82.174.68   t66y.com 意大利 
 
------------------------------------
-t66y.com服务器ip t66y.com域名解析 t66y.comip查询 t66y.com域名ip查询
-http://site.ip138.com/t66y.com/
+
+月光博客 的 Twitter:
+“通过各个站长工具的“同IP网站查询‘工具，
+查看这个神奇IP地址59.24.3.173对应的网站，可以得到一个很长的域名清单，
+翻墙之后不知道上什么网，看看这个清单就知道了。 http://t.co/unbP2mwSTW”
+https://twitter.com/williamlong/status/526987342968418305/
 -----------------------------------
 C:\Users\root>nslookup t66y.com 119.29.29.29
 服务器:  pdns.dnspod.cn
