@@ -1,4 +1,4 @@
-[**《AE CC初学者教程》**](http://www.51zxw.net/list.aspx?cid=538) - [我要自学网](http://www.51zxw.net/)  (http://www.51zxw.net/) 
+- [**《AE CC初学者教程》**](http://www.51zxw.net/list.aspx?cid=538) - [我要自学网](http://www.51zxw.net/)  (http://www.51zxw.net/) 
 
 AE CC 2015版即After Effects v13.5，是目前最新的版本。
 适用于从事设计和视频特技的机构，包括电视台、动画制作公司、个人后期制作工作室以及多媒体工作室。
