@@ -5,6 +5,12 @@ taoste.github.io
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| '''sites''' || [收藏夹] || wiki || README.wiki
+| '''Tools''' || [工具包] || wiki || README.wiki
+|-
+| &nbsp; || [https://github.com/taoste/taoste.github.io/tree/taoste-pages/intl/Tool/hosts hosts] || wiki || 最新可用的google hosts文件
+|-
+| &nbsp; || [https://github.com/taoste/taoste.github.io/blob/taoste-pages/intl/Tool/%E4%BC%9A%E5%A3%B0%E4%BC%9A%E5%BD%B1%E5%AE%89%E8%A3%85%E4%B8%8E%E6%BF%80%E6%B4%BB/%E4%BC%9A%E5%A3%B0%E4%BC%9A%E5%BD%B1%E5%AE%89%E8%A3%85%E4%B8%8E%E6%BF%80%E6%B4%BB.md 会声会影安装与激活.md] || Markdown || 会声会影安装与激活
 |}
+
+
 更多↓↓↓

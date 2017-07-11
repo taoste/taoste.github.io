@@ -1,0 +1,147 @@
+#!/bin/bash
+# Update hosts file from:
+# https://github.com/racaljk/hosts
+#
+
+myname=${0##*/}
+
+HOSTS="/etc/hosts"
+BACKUP_FILE="/etc/hosts.bak"
+REMOTE_FILE="/tmp/hosts.rmt"
+
+MAIN="https://raw.githubusercontent.com/racaljk/hosts/master/hosts"
+MIRROR="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts"
+HOSTS_URL="$MAIN"
+
+QUIET_MODE=
+RANGE=
+
+BEGIN_MARK="# 远程 hosts 开始标记，请在 上方 添加其他内容"
+END_MARK="# 远程 hosts 结束标记，请在 下方 添加其他内容"
+
+usage()
+{
+	cat <<EOL
+提示:
+  1. 可以使用 crontab 定时执行脚本 (root 身份运行或 sudo 免密码);
+
+  2. 使用 $myname 下载的 hosts 会被加上范围标记，每次更新**仅保留范围外**的
+     全部内容 (请勿在标记范围内添加自定义内容)。
+
+  3. 更新前，本地 hosts 备份至 $BACKUP_FILE
+
+用法: $myname [选项]...
+
+选项:
+  -m, --mirror           从镜像仓库获取 hosts (下载更快)
+  -q, --quiet            静默模式
+  -r, --range <range>    范围模式 (无视范围标记)
+  -u, --url <url>        自定义 hosts 源地址
+  -h, --help             显示帮助信息并退出
+
+退出状态：
+  0  正常
+  1  命令行参数错误
+  2  文件下载失败
+
+范围模式：
+    将本地 hosts 指定范围的内容，保存到下载的 hosts 内，例如：
+
+    $myname -mr "1,20"  更新时，本地 hosts 1~20 行保存到下载的 hosts 中
+
+自定义源：
+    $myname -u $MIRROR
+
+EOL
+}
+
+get_hosts()
+{
+	local swp="/tmp/hosts.swp"
+	local downer="curl ${HOSTS_URL} -#o ${REMOTE_FILE}"
+
+	if [ "$QUIET_MODE" = "on" ]; then
+		${downer} -s
+	else
+		echo "正在更新 hosts..."
+		${downer}
+        fi
+
+	if [ $? -ne 0 ]; then
+		echo "hosts 下载失败" >&2
+		exit 2
+	fi
+
+	# Add range mark
+	sed -e '1i\'$'\n'"$BEGIN_MARK" -e '$a\'$'\n'"$END_MARK" "$REMOTE_FILE" > "$swp"
+
+	mv -f "$swp" "$REMOTE_FILE"
+}
+
+backup_hosts()
+{
+	sudo cp -f "$HOSTS" "$BACKUP_FILE"
+}
+
+update_hosts()
+{
+	local swp="/tmp/hosts.swp"
+
+	if [ ! -z "$RANGE" ]; then
+		# Range mode on
+		sed -n "$RANGE"p "$HOSTS" > "$swp"
+	else
+		# Range mode off, handle marker in the local hosts file.
+		if grep -q "$BEGIN_MARK" "$HOSTS"; then
+			sed "/$BEGIN_MARK/,/$END_MARK/d" "$HOSTS" >> "$swp"
+		else
+			echo "警告: $HOSTS 中没有发现此脚本所作标记，" \
+					"更新后会清空之前的所有内容。" >&2
+			echo "请从 $BACKUP_FILE 中手动恢复需要的 hosts 记录" >&2
+		fi
+	fi
+
+	cat "$REMOTE_FILE" >> "$swp"
+	sudo cp -f "$swp" "$HOSTS"
+
+	rm -f "$swp" "$REMOTE_FILE"
+}
+
+LONGOPTS="mirror,quiet,url:,range:,help"
+CMD=$(getopt -o mqu:r:h --long $LONGOPTS -n "$myname" -- "$@") || exit 1
+
+eval set -- "$CMD"
+
+while true; do
+	case "$1" in
+	-m|--mirror)
+		HOSTS_URL="$MIRROR"
+		shift
+		;;
+	-q|--quiet)
+		QUIET_MODE="on"
+		shift
+		;;
+	-r|--range)
+		RANGE="$2"
+		shift 2
+		;;
+	-u|--url)
+		HOSTS_URL="$2"
+		shift 2
+		;;
+	-h|--help)
+		usage
+		exit 0
+		shift
+		;;
+	--)
+		shift
+		break
+		;;
+	esac
+done
+
+get_hosts
+backup_hosts
+update_hosts

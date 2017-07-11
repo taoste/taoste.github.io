@@ -1,0 +1,73 @@
+
+域名服务器缓存污染 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh/%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%93%E5%AD%98%E6%B1%A1%E6%9F%93
+
+-----------------------------------
+t66y.com服务器ip t66y.com域名解析 t66y.comip查询 t66y.com域名ip查询
+http://site.ip138.com/59.24.3.173/
+
+#59.24.3.173  t66y.com 保留地址 
+#104.25.31.112  t66y.com 美国 
+#8.7.198.45  t66y.com 韩国 
+#243.185.187.39   t66y.com 德国 
+#46.82.174.68   t66y.com 意大利 
+
+
+月光博客 的 Twitter:
+“通过各个站长工具的“同IP网站查询‘工具，
+查看这个神奇IP地址59.24.3.173对应的网站，可以得到一个很长的域名清单，
+翻墙之后不知道上什么网，看看这个清单就知道了。 http://t.co/unbP2mwSTW”
+https://twitter.com/williamlong/status/526987342968418305/
+-----------------------------------
+C:\Users\root>nslookup t66y.com 119.29.29.29
+服务器:  pdns.dnspod.cn
+Address:  119.29.29.29
+
+非权威应答:
+名称:    t66y.com
+Address:  243.185.187.39
+-----------------------------------
+ipconfig /flushdns 清除系统DNS缓存
+
+【跟踪路由】
+tracert 192.168.0.1
+tracert www.aliyun.com
+
+【域名反向解析查看命令】
+查询反向记录nslookup –qt=ptr 59.166.155.111
+查询A记录：nslookup 域名
+查询MX记录：nslookup -q=mx 域名
+查询NS记录：nslookup -q=ns 域名
+查询CNAME记录：nslookup tuiq.net 域名
+
+nslookup –qt=ptr 243.185.187.39 t66y.com 
+
+
+
+》更多
+nslookup –qt=类型 目标域名　　（注意qt必须小写。）
+类型可以是以下字符，不区分大小写：
+
+　　A 地址记录(Ipv4)
+　　AAAA 地址记录（Ipv6）
+　　AFSDB Andrew文件系统数据库服务器记录
+　　ATMA ATM地址记录（不是自动提款机）
+　　CNAME 别名记录
+　　HINFO 硬件配置记录，包括CPU、操作系统信息
+　　ISDN 域名对应的ISDN号码
+　　MB 存放指定邮箱的服务器
+　　MG 邮件组记录
+　　MINFO 邮件组和邮箱的信息记录
+　　MR 改名的邮箱记录
+　　MX 邮件服务器记录
+　　NS 名字服务器记录
+　　PTR 反向记录（从IP地址解释域名）
+　　RP 负责人记录
+　　RT 路由穿透记录
+　　SRV TCP服务器信息记录（将有大用处）
+　　TXT 域名对应的文本信息
+　　X25 域名对应的X.25地址记录
+参考：nslookup工具的使用方法 > 网络协议 > 网络技术 > 尽在邮件技术资讯网
+
+【Host IP】
+notepad C:\Windows\System32\drivers\etc\hosts
