@@ -1,3 +1,8 @@
+<img src="https://img.shields.io/badge/有理想-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/爱学习-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/颜值高-+1-brightgreen.svg"/> <img src="https://img.shields.io/badge/实力派-+1-brightgreen.svg"/>（[Shields.io](https://shields.io/) : [给 GitHub 项目戴上勋章](https://loggerhead.me/posts/gei-github-xiang-mu-dai-shang-xun-zhang.html)）
+
+
+
+----------------------------------------------------
 - [**《AE CC初学者教程》**](http://www.51zxw.net/list.aspx?cid=538) - [我要自学网](http://www.51zxw.net/)  (http://www.51zxw.net/) 
 
 AE CC 2015版即After Effects v13.5，是目前最新的版本。
