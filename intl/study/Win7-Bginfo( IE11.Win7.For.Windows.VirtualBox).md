@@ -46,5 +46,7 @@ rundll32.exe syssetup,SetupOobeBnk
 
 对于Windows 8和8.1，您将无法重新安装试用版。
 
+<img src="https://github.com/taoste/taoste.github.io/blob/taoste-pages/intl/study/Win7-BGInfo.bmp?raw=true"/>
+
 
 
