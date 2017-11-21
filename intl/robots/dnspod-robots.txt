@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+
+----------------------------------
+引用：
+https://www.dnspod.cn/robots.txt
