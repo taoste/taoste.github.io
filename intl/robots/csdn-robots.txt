@@ -10,3 +10,6 @@ Disallow: /scripts/
 Disallow: /article_preview.html* 
 
 Sitemap: http://www.csdn.net/article/sitemap.txt 
+
+------------------
+备注 https://www.csdn.net/robots.txt
