@@ -7,5 +7,5 @@ Disallow: /lib/lstyle/
 Disallow: /lib/mac/
 
 -------------------------------------
-引用：
+爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看 
 http://www.iqiyi.com/robots.txt
