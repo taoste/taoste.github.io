@@ -13,4 +13,5 @@ Disallow: /cart/
 Disallow: /misc/
 
 ------------------
-备注 https://www.mi.com/robots.txt
+小米商城 - 小米MIX 2、红米Note 5A、小米Note 3、小米笔记本官方网站 
+https://www.mi.com/robots.txt
