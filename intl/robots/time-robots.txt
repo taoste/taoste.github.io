@@ -45,5 +45,5 @@ User-agent: Yahoo Pipes 1.0
 Disallow: /
 
 -----------------------------
-备注
+Time.is 任何时区的精准时间 
 https://time.is/robots.txt
