@@ -7,5 +7,5 @@ Allow: /
 
 
 ----------------------------------
-备注
+喷嚏网 
 https://www.dapenti.com/robots.txt
