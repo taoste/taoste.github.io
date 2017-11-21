@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /blog/inc/
+Disallow: /blog/conn.asp
+Disallow: /blog/admin_*.asp
+Disallow: /blog/user_*.asp
+Allow: /
+
+
+----------------------------------
+备注
+https://www.dapenti.com/robots.txt
