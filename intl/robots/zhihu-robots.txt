@@ -14,3 +14,6 @@ Disallow: /inbox
 Disallow: /admin_inbox
 Disallow: /*?guide*
 Disallow: /people/*
+
+------------------
+备注 https://www.zhihu.com/robots.txt
