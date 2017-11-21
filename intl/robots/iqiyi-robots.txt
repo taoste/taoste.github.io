@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*?*
+Disallow: /lib/pps/
+Disallow: /lib/iqy/
+Disallow: /lib/pstyle/
+Disallow: /lib/lstyle/
+Disallow: /lib/mac/
+
+-------------------------------------
+引用：
+http://www.iqiyi.com/robots.txt
