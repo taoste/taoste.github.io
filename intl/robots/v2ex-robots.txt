@@ -6,5 +6,6 @@ Disallow: /signout
 Disallow: /settings
 
 -------------------------------------
-引用：
+ V2EX = way to explore
+V2EX 是一个关于分享和探索的地方 
 https://www.v2ex.com/robots.txt
