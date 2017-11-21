@@ -35,5 +35,5 @@ Allow: /
 Sitemap: http://www.appinn.com/sitemap.xml
 
 ----------------------------------------------
-引用：
+小众软件：
 http://www.appinn.com/robots.txt
