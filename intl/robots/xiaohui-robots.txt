@@ -1,0 +1,9 @@
+User-agent: *
+Sitemap: http://www.xiaohui.com/google_sitemap_index.xml
+
+# For _admin
+Disallow: /urljump.php
+
+---------------------------------
+程序员小辉 
+https://www.xiaohui.com/robots.txt
