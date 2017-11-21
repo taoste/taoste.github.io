@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+-----------------------------------------
+战隼的读书笔记分享站
+http://www.write.org.cn/robots.txt
