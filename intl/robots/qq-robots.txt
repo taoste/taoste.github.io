@@ -3,5 +3,5 @@ Disallow:
 Sitemap: http://www.qq.com/sitemap_index.xml
 
 ----------------------------------------------
-引用：
+腾讯首页  
 http://www.qq.com/robots.txt 
