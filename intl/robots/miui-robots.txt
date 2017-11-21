@@ -27,4 +27,5 @@ Disallow: /*?mod=attachment*
 Disallow: /*mobile=yes*
 
 ------------------
-备注 https://www.miui.com/robots.txt
+MIUI官方网站
+https://www.miui.com/robots.txt
