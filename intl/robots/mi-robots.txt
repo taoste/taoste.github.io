@@ -11,3 +11,6 @@ Disallow: /comment/
 Disallow: /accessories/
 Disallow: /cart/
 Disallow: /misc/
+
+------------------
+备注 https://www.mi.com/robots.txt
