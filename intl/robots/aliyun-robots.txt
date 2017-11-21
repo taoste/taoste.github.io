@@ -30,5 +30,5 @@ User-agent: Googlebot-Image
 Disallow:
 
 ------------------------------------
-引用：
+阿里云：
 https://www.aliyun.com/robots.txt
