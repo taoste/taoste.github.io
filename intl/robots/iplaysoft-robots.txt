@@ -29,5 +29,5 @@ Disallow: /random$
 Sitemap: http://www.iplaysoft.com/sitemap.xml
 
 ------------------------------------------------
-引用：
+异次元软件世界 - 软件改变生活！ 
 http://www.iplaysoft.com/robots.txt
