@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /apis/
+Disallow: /sso/
+
+---------------------------------
+引用
+https://www.guokr.com/robots.txt
