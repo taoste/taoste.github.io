@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /plus/
+Disallow: /Webbiz/
+Disallow: /News/
+Disallow: /Design/
+
+-------------------------
+站长之家
+http://www.chinaz.com/robots.txt
