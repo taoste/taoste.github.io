@@ -2,5 +2,5 @@ User-Agent: *
 Allow: /
 
 ----------------------------------
-引用：
+DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS
 https://www.dnspod.cn/robots.txt
