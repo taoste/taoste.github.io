@@ -1,0 +1,53 @@
+User-agent: *
+# disallow all files in these directories
+Disallow: /cgi-bin/
+Disallow: /z/j/
+Disallow: /z/c/
+Disallow: /stats/
+Disallow: /dh_
+Disallow: /about/
+Disallow: /contact/
+Disallow: /tag/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /contact
+Disallow: /manual
+Disallow: /manual/*
+Disallow: /phpmanual/
+Disallow: /category/
+Disallow: /wp-
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: */feed*
+Disallow: */trackback
+
+User-agent: Googlebot
+# disallow all files ending with these extensions
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+
+# disallow all files with ? in url
+Disallow: /*?*
+
+# disable duggmirror
+User-agent: duggmirror
+Disallow: /
+# allow google image bot to search all images
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+
+# allow adsense bot on entire site
+User-agent: Mediapartners-Google*
+Disallow:
+Allow: /*
+
+-------------------------------
+战隼的学习探索 
+http://www.read.org.cn/robots.txt
