@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /backstage/
+Disallow: /signin
+Disallow: /signout
+Disallow: /settings
+
+-------------------------------------
+引用：
+https://www.v2ex.com/robots.txt
