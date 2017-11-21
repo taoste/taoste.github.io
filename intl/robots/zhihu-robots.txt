@@ -16,4 +16,5 @@ Disallow: /*?guide*
 Disallow: /people/*
 
 ------------------
-备注 https://www.zhihu.com/robots.txt
+知乎 - 发现更大的世界
+https://www.zhihu.com/robots.txt
