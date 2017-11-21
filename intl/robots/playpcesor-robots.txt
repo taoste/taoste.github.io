@@ -1,0 +1,12 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: http://www.playpcesor.com/sitemap.xml
+
+---------------------------------------------------
+電腦玩物
+http://www.playpcesor.com/robots.txt
