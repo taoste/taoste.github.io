@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /comments
+Disallow: /wp-login.php
+Allow: /wp-content/uploads
+
+User-agent: Pocket Casts
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+Sitemap: https://geek.wasai.org/sitemap.xml
+---------------------------------------------
+极客电台 – 倡导geek生活方式  
+http://geek.wasai.org/robots.txt
