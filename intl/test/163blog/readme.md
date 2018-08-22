@@ -34,7 +34,7 @@
 
 ##### 博客搬迁方法：
 
-网易LOFTER（[http://www.lofter.com](http://www.lofter.com)）已经为您准备好了免费的空间，方便您存放在网易博客上发布的日志、照片等内容。欢迎使用[「一键搬迁博客文章到LOFTER」](#btn-move)，在LOFTER对您的文章进行修改、编辑，并继续分享爱好和日常。  
+网易LOFTER（[http://www.lofter.com](http://www.lofter.com)）已经为您准备好了免费的空间，方便您存放在网易博客上发布的日志、照片等内容。欢迎使用[「一键搬迁博客文章到LOFTER」](http://blog.163.com/regulator/frontend/src/html/index.html#btn-move)，在LOFTER对您的文章进行修改、编辑，并继续分享爱好和日常。  
 如果您对导出数据，或对搬迁到LOFTER有任何疑问或者建议，可以在LOFTER通过在线客服联系我们。  
 
 我们在LOFTER等您。
