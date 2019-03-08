@@ -4,7 +4,7 @@ email: taoste@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   "Su Yan's Tech Blog"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://choong.net" # the base hostname & protocol for your site
+url: "https://choong.net" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Le Ge
 twitter:
