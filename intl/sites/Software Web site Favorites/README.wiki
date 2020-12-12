@@ -169,7 +169,8 @@ Download Free Software [http://filehippo.com/zh/]
 {|
 ! 名称 !! 链接 !! 推荐星级 !! 类型 !! 说明
 |-
-| &nbsp; || [ ] || ★★★★★  || PC || TeamViewer
+| &nbsp; || [https://www.teamviewer.com/zhCN/ TeamViewer] || ★★★★★  || PC || TeamViewer – 远程支持、远程访问、在线协作和会议
+
 |-
 | &nbsp; || [ ] || ★★★★★  || PC || 向日葵客户端（绿色版）
 |-
